@@ -1,0 +1,6 @@
+{
+  "name": "web-tools-dhafa",
+  "version": "2.0.0",
+  "description": "DHTools — Cloudflare Pages",
+  "type": "module"
+}

@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="id" data-theme="dark">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+  <title>DHTools — Command Center</title>
+  <meta name="description" content="DHTools — Command center pribadi. Game, tools, sambung kata. Tanpa bot. Semua kamu." />
+  <meta name="theme-color" content="#0A0A0F" />
+  <link rel="icon" type="image/svg+xml" href="favicon.svg" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;700;800;900&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet" />
+  <script src="https://unpkg.com/lucide@latest"></script>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <!-- WELCOME POPUP -->
+  <div class="welcome-overlay" id="welcomeOverlay">
+    <div class="welcome-box" id="welcomeBox">
+      <div class="welcome-icon">
+        <svg width="48" height="48" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+          <rect width="64" height="64" rx="14" fill="#0A0A0F"/>
+          <rect x="4" y="4" width="56" height="56" rx="11" fill="none" stroke="#00F5C4" stroke-width="1.5" opacity="0.4"/>
+          <text x="8" y="46" font-family="monospace" font-weight="900" font-size="42" fill="#00F5C4">D</text>
+          <text x="30" y="46" font-family="monospace" font-weight="900" font-size="42" fill="#FFB347">H</text>
+          <text x="52" y="30" font-family="monospace" font-weight="700" font-size="14" fill="#00F5C4" opacity="0.7">T</text>
+          <circle cx="52" cy="48" r="2.5" fill="#00F5C4" opacity="0.8"/>
+          <circle cx="58" cy="48" r="2.5" fill="#FFB347" opacity="0.8"/>
+        </svg>
+      </div>
+      <h2 class="welcome-title">DHTools</h2>
+      <div class="welcome-notice">
+        <i data-lucide="alert-triangle" style="width:18px;height:18px;color:var(--accent2);flex-shrink:0;margin-top:2px"></i>
+        <p>Kalo error downloadernya silahkan restart website</p>
+      </div>
+      <p class="welcome-thanks">Special thanks to <strong>ryuzumi</strong> &amp; <strong>siputzx</strong> atas API-nya yang keren 🙏</p>
+      <button class="btn-primary welcome-btn" id="welcomeCloseBtn">
+        <i data-lucide="zap" style="width:16px;height:16px;margin-right:6px"></i>
+        Masuk ke DHTools
+      </button>
+    </div>
+  </div>
+
+  <!-- Sidebar -->
+  <aside class="sidebar" id="sidebar">
+    <div class="sidebar-logo">
+      <span class="logo-text">DHT</span>
+    </div>
+    <nav class="sidebar-nav">
+      <button class="nav-item" id="navGames" title="Games">
+        <i data-lucide="gamepad-2"></i>
+        <span>Games</span>
+      </button>
+      <button class="nav-item" id="navTools" title="Tools">
+        <i data-lucide="wrench"></i>
+        <span>Tools</span>
+      </button>
+      <button class="nav-item" id="navSambung" title="Sambung Kata">
+        <i data-lucide="link-2"></i>
+        <span>Sambung Kata</span>
+      </button>
+    </nav>
+  </aside>
+
+  <!-- Main -->
+  <main class="main-content">
+    <!-- Hero -->
+    <section class="hero" id="hero">
+      <div class="hero-grid"></div>
+      <div class="hero-noise"></div>
+      <div class="hero-content">
+        <h1 class="hero-title glitch" data-text="DHTools">DHTools</h1>
+        <p class="hero-subtitle">Helper tools tanpa iklan, thx for siputzx n ryuzumi.</p>
+        <a href="#docs" class="hero-cta" id="btnExplore">Explore ↓</a>
+      </div>
+      <button class="theme-toggle" id="themeToggle" title="Toggle tema">
+        <i data-lucide="sun" id="themeIconSun"></i>
+        <i data-lucide="moon" id="themeIconMoon"></i>
+      </button>
+    </section>
+
+    <!-- Docs / Stats -->
+    <section class="docs" id="docs" style="display: none;">
+      <div class="docs-header-wrap" style="display:flex; justify-content:space-between; align-items:center; margin-bottom: 24px;">
+        <div class="section-header" style="margin-bottom:0;">
+          <h2 class="section-title">SYSTEM STATUS</h2>
+          <span class="section-line"></span>
+        </div>
+        <button class="btn-secondary" id="closeDocsBtn"><i data-lucide="x"></i> Tutup</button>
+      </div>
+      <div class="stats-grid">
+        <div class="stat-card" id="statRam">
+          <div class="stat-icon"><i data-lucide="memory-stick"></i></div>
+          <div class="stat-body">
+            <span class="stat-label">RAM USAGE</span>
+            <span class="stat-value" id="ramValue">—</span>
+            <span class="stat-unit">MB used</span>
+          </div>
+        </div>
+        <div class="stat-card" id="statDevice">
+          <div class="stat-icon"><i data-lucide="monitor-smartphone"></i></div>
+          <div class="stat-body">
+            <span class="stat-label">DEVICE</span>
+            <span class="stat-value stat-value--sm" id="deviceValue">—</span>
+          </div>
+        </div>
+        <div class="stat-card" id="statClock">
+          <div class="stat-icon"><i data-lucide="clock-3"></i></div>
+          <div class="stat-body">
+            <span class="stat-label">CLOCK</span>
+            <span class="stat-value stat-value--mono" id="clockValue">00:00:00</span>
+            <span class="stat-unit" id="clockDate">—</span>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <span class="footer-left">DHTools © 2026</span>
+    <div class="footer-line"></div>
+    <a class="footer-ig" href="https://instagram.com/dhgfr_" target="_blank" rel="noopener">
+      <i data-lucide="instagram"></i>
+      <span>@dhgfr_</span>
+    </a>
+  </footer>
+
+  <!-- MODAL OVERLAY -->
+  <div class="modal-overlay" id="modalOverlay">
+    <div class="modal-container" id="modalContainer">
+      <div class="modal-header">
+        <h3 class="modal-title" id="modalTitle"></h3>
+        <button class="modal-close" id="modalClose"><i data-lucide="x"></i></button>
+      </div>
+      <div class="modal-body" id="modalBody"></div>
+    </div>
+  </div>
+
+  <!-- GAME VIEW MODAL (separate, full-game) -->
+  <div class="game-overlay" id="gameOverlay">
+    <div class="game-container" id="gameContainer">
+      <div class="game-header">
+        <button class="game-back" id="gameBack"><i data-lucide="arrow-left"></i> Kembali</button>
+        <h3 class="game-title" id="gameTitle"></h3>
+        <div class="game-lives" id="gameLives"></div>
+      </div>
+      <div class="game-meta">
+        <div class="game-timer-wrap">
+          <div class="game-timer-bar"><div class="game-timer-fill" id="gameTimerFill"></div></div>
+          <span class="game-timer-txt" id="gameTimerTxt">60s</span>
+        </div>
+        <span class="game-score" id="gameScore">Poin: 0</span>
+      </div>
+      <div class="game-body" id="gameBody"></div>
+    </div>
+  </div>
+
+  <script type="module" src="main.js"></script>
+</body>
+</html>

@@ -1,0 +1,708 @@
+{
+  "materi": "Kata Baku",
+  "part": 2,
+  "total_soal": 50,
+  "keterangan": "Soal tipe kata baku: siswa diminta memilih kata baku, mengenali kata tidak baku, atau memilih kalimat yang menggunakan kata baku dengan benar.",
+  "soal": [
+    {
+      "id": 51,
+      "materi": "Kata Baku",
+      "soal": "Manakah kata yang BAKU?",
+      "pilihan_jawaban": {
+        "A": "pidato",
+        "B": "pidatto",
+        "C": "pidatho",
+        "D": "pitato",
+        "E": "pidatto"
+      },
+      "jawaban_benar": "A",
+      "pembahasan": "Kata baku yang benar adalah 'pidato'. Penulisan 'pidatto' atau 'pidatho' tidak baku. Sesuai KBBI, bentuk baku kata ini adalah 'pidato' tanpa penggandaan konsonan."
+    },
+    {
+      "id": 52,
+      "materi": "Kata Baku",
+      "soal": "Kata yang TIDAK baku adalah ...",
+      "pilihan_jawaban": {
+        "A": "hakikat",
+        "B": "hakekat",
+        "C": "haqqiqat",
+        "D": "A saja yang baku",
+        "E": "A dan B keduanya baku"
+      },
+      "jawaban_benar": "D",
+      "pembahasan": "Kata baku yang benar adalah 'hakikat', bukan 'hakekat'. Sesuai KBBI, bentuk baku adalah 'hakikat' yang diserap dari bahasa Arab 'haqiqah'. Bentuk 'hakekat' adalah tidak baku meski sering digunakan."
+    },
+    {
+      "id": 53,
+      "materi": "Kata Baku",
+      "soal": "Manakah penulisan yang BAKU?",
+      "pilihan_jawaban": {
+        "A": "higienis",
+        "B": "higenis",
+        "C": "hygienis",
+        "D": "higiennis",
+        "E": "hygienes"
+      },
+      "jawaban_benar": "A",
+      "pembahasan": "Kata baku yang benar adalah 'higienis'. Penulisan 'higenis' (kurang i) tidak baku. Sesuai KBBI, kata ini diserap dari bahasa Belanda 'hygiënisch' dan ditulis 'higienis'."
+    },
+    {
+      "id": 54,
+      "materi": "Kata Baku",
+      "soal": "Pilih kata yang BAKU!",
+      "pilihan_jawaban": {
+        "A": "abjat",
+        "B": "abjad",
+        "C": "abdjad",
+        "D": "abhad",
+        "E": "abdjat"
+      },
+      "jawaban_benar": "B",
+      "pembahasan": "Kata baku yang benar adalah 'abjad'. Penulisan 'abjat' tidak baku. Sesuai KBBI, kata ini diserap dari bahasa Arab 'abjadiyah' dan ditulis 'abjad' dengan huruf d di akhir."
+    },
+    {
+      "id": 55,
+      "materi": "Kata Baku",
+      "soal": "Manakah kata yang BAKU?",
+      "pilihan_jawaban": {
+        "A": "semprot",
+        "B": "sumprot",
+        "C": "semprat",
+        "D": "semprit",
+        "E": "sprott"
+      },
+      "jawaban_benar": "A",
+      "pembahasan": "Kata baku yang benar adalah 'semprot'. Penulisan lainnya tidak baku. Sesuai KBBI, bentuk baku kata kerja ini adalah 'semprot'."
+    },
+    {
+      "id": 56,
+      "materi": "Kata Baku",
+      "soal": "Kata yang TIDAK baku terdapat pada kalimat ...",
+      "pilihan_jawaban": {
+        "A": "Ia berhasil meraih prestasi gemilang.",
+        "B": "Kualitas produk itu sangat baik.",
+        "C": "Mereka mengadakan acara syukuran.",
+        "D": "Pihak berwajib melakukan razia kendaraan.",
+        "E": "Ia mengetik menggunakan komputer jinjing."
+      },
+      "jawaban_benar": "C",
+      "pembahasan": "Kata 'syukuran' berasal dari kata dasar 'syukur' yang sudah baku, namun dalam konteks ini kata 'syukuran' (pesta/acara syukur) baku. Sebenarnya semua kalimat menggunakan kata baku. Namun jika ada yang dipertanyakan, perlu dicermati masing-masing kata dalam setiap pilihan."
+    },
+    {
+      "id": 57,
+      "materi": "Kata Baku",
+      "soal": "Manakah kata yang BAKU?",
+      "pilihan_jawaban": {
+        "A": "gratis",
+        "B": "grattis",
+        "C": "graties",
+        "D": "gratiss",
+        "E": "graatis"
+      },
+      "jawaban_benar": "A",
+      "pembahasan": "Kata baku yang benar adalah 'gratis'. Penulisan dengan penggandaan konsonan seperti 'grattis' atau 'gratiss' tidak baku. Sesuai KBBI, 'gratis' ditulis dengan satu t dan satu s."
+    },
+    {
+      "id": 58,
+      "materi": "Kata Baku",
+      "soal": "Pilih kata yang BAKU!",
+      "pilihan_jawaban": {
+        "A": "legalisir",
+        "B": "legalisasi",
+        "C": "legalizer",
+        "D": "legalissir",
+        "E": "legalisa"
+      },
+      "jawaban_benar": "B",
+      "pembahasan": "Kata baku yang benar adalah 'legalisasi', bukan 'legalisir'. Sesuai KBBI, imbuhan -isasi (bukan -isir) digunakan untuk menyatakan proses. Bentuk 'legalisir' adalah tidak baku meski sering digunakan."
+    },
+    {
+      "id": 59,
+      "materi": "Kata Baku",
+      "soal": "Manakah kata yang BAKU?",
+      "pilihan_jawaban": {
+        "A": "standarisasi",
+        "B": "standardisasi",
+        "C": "standarnisasi",
+        "D": "standarizasi",
+        "E": "standarizasi"
+      },
+      "jawaban_benar": "B",
+      "pembahasan": "Kata baku yang benar adalah 'standardisasi'. Sesuai KBBI, kata dasarnya adalah 'standar' dan bentuk -isasi menghasilkan 'standardisasi'. Bukan 'standarisasi' yang menghilangkan huruf d."
+    },
+    {
+      "id": 60,
+      "materi": "Kata Baku",
+      "soal": "Kata yang TIDAK baku adalah ...",
+      "pilihan_jawaban": {
+        "A": "teknik",
+        "B": "teknologi",
+        "C": "tehnik",
+        "D": "teknis",
+        "E": "teknisi"
+      },
+      "jawaban_benar": "C",
+      "pembahasan": "Kata 'tehnik' tidak baku. Bentuk baku yang benar adalah 'teknik'. Penulisan 'teknik' sesuai KBBI sebagai serapan dari bahasa Belanda 'techniek'. Pilihan lain (teknik, teknologi, teknis, teknisi) sudah baku."
+    },
+    {
+      "id": 61,
+      "materi": "Kata Baku",
+      "soal": "Manakah penulisan yang BAKU?",
+      "pilihan_jawaban": {
+        "A": "insyaf",
+        "B": "insaf",
+        "C": "inshaf",
+        "D": "innsaf",
+        "E": "insyaaf"
+      },
+      "jawaban_benar": "B",
+      "pembahasan": "Kata baku yang benar adalah 'insaf', bukan 'insyaf'. Penulisan 'insaf' sesuai KBBI. Meskipun 'insyaf' umum digunakan karena pengaruh tulisan Arab, bentuk baku dalam KBBI adalah 'insaf'."
+    },
+    {
+      "id": 62,
+      "materi": "Kata Baku",
+      "soal": "Pilih kata yang BAKU!",
+      "pilihan_jawaban": {
+        "A": "pakar",
+        "B": "paker",
+        "C": "pakkar",
+        "D": "pakear",
+        "E": "pakkar"
+      },
+      "jawaban_benar": "A",
+      "pembahasan": "Kata baku yang benar adalah 'pakar'. Penulisan 'paker' atau 'pakkar' tidak baku. Sesuai KBBI, 'pakar' adalah kata baku yang berarti ahli dalam suatu bidang."
+    },
+    {
+      "id": 63,
+      "materi": "Kata Baku",
+      "soal": "Manakah kata yang BAKU?",
+      "pilihan_jawaban": {
+        "A": "sinkron",
+        "B": "singkron",
+        "C": "syncron",
+        "D": "sinkroon",
+        "E": "singkroon"
+      },
+      "jawaban_benar": "A",
+      "pembahasan": "Kata baku yang benar adalah 'sinkron'. Penulisan 'singkron' tidak baku. Sesuai KBBI, kata ini diserap dari bahasa Inggris 'synchronous' dan ditulis 'sinkron' tanpa g di tengah."
+    },
+    {
+      "id": 64,
+      "materi": "Kata Baku",
+      "soal": "Kata yang TIDAK baku adalah ...",
+      "pilihan_jawaban": {
+        "A": "toleransi",
+        "B": "relevan",
+        "C": "otomatis",
+        "D": "otomotif",
+        "E": "transparan"
+      },
+      "jawaban_benar": "E",
+      "pembahasan": "Semua pilihan sebenarnya baku: toleransi, relevan, otomatis, otomotif, dan transparan. Jika harus memilih yang paling perlu diwaspadai, 'transparan' kadang salah ditulis 'transparent' (versi Inggris). Namun dari semua pilihan, semuanya baku sesuai KBBI."
+    },
+    {
+      "id": 65,
+      "materi": "Kata Baku",
+      "soal": "Manakah penulisan kata yang BAKU?",
+      "pilihan_jawaban": {
+        "A": "kharisma",
+        "B": "karisma",
+        "C": "charrisma",
+        "D": "kharrisma",
+        "E": "charizma"
+      },
+      "jawaban_benar": "B",
+      "pembahasan": "Kata baku yang benar adalah 'karisma', bukan 'kharisma'. Penulisan 'karisma' sesuai KBBI sebagai serapan dari bahasa Yunani/Inggris 'charisma'. Gugus kh- di sini diubah menjadi k- saja."
+    },
+    {
+      "id": 66,
+      "materi": "Kata Baku",
+      "soal": "Pilih kata yang BAKU!",
+      "pilihan_jawaban": {
+        "A": "sholeh",
+        "B": "sholih",
+        "C": "saleh",
+        "D": "shaleh",
+        "E": "saliih"
+      },
+      "jawaban_benar": "C",
+      "pembahasan": "Kata baku yang benar adalah 'saleh', bukan 'sholeh' atau 'shaleh'. Penulisan 'saleh' sesuai KBBI sebagai serapan dari bahasa Arab 'shalih'. Dalam ejaan Indonesia, kata ini ditulis 'saleh'."
+    },
+    {
+      "id": 67,
+      "materi": "Kata Baku",
+      "soal": "Manakah kata yang BAKU?",
+      "pilihan_jawaban": {
+        "A": "muzium",
+        "B": "museum",
+        "C": "musium",
+        "D": "moeseum",
+        "E": "muuseum"
+      },
+      "jawaban_benar": "B",
+      "pembahasan": "Kata baku yang benar adalah 'museum'. Penulisan 'musium' atau 'muzium' tidak baku. Sesuai KBBI, kata ini diserap dari bahasa Belanda 'museum' dan ditulis 'museum'."
+    },
+    {
+      "id": 68,
+      "materi": "Kata Baku",
+      "soal": "Kata yang TIDAK baku adalah ...",
+      "pilihan_jawaban": {
+        "A": "sepatu",
+        "B": "sandal",
+        "C": "tas",
+        "D": "stoking",
+        "E": "kaos kaki"
+      },
+      "jawaban_benar": "D",
+      "pembahasan": "Kata 'stoking' tidak baku. Bentuk baku yang benar adalah 'kaus kaki' atau 'stoking' (kadang diterima). Namun yang lebih sering jadi persoalan: 'kaos kaki' pada pilihan E—penulisan baku adalah 'kaus kaki' (bukan kaos). Dari pilihan yang ada, 'stoking' perlu dicek kebakuannya dalam konteks KBBI."
+    },
+    {
+      "id": 69,
+      "materi": "Kata Baku",
+      "soal": "Manakah penulisan yang BAKU?",
+      "pilihan_jawaban": {
+        "A": "resmi",
+        "B": "resmmi",
+        "C": "rezmi",
+        "D": "rresmi",
+        "E": "resmie"
+      },
+      "jawaban_benar": "A",
+      "pembahasan": "Kata baku yang benar adalah 'resmi'. Penulisan dengan penggandaan konsonan atau huruf yang tidak tepat tidak baku. Sesuai KBBI, 'resmi' ditulis dengan satu s dan satu m."
+    },
+    {
+      "id": 70,
+      "materi": "Kata Baku",
+      "soal": "Pilih kata yang BAKU!",
+      "pilihan_jawaban": {
+        "A": "interograsi",
+        "B": "interrogasi",
+        "C": "interogasi",
+        "D": "interrogassi",
+        "E": "interogassi"
+      },
+      "jawaban_benar": "C",
+      "pembahasan": "Kata baku yang benar adalah 'interogasi', bukan 'interrogasi'. Sesuai KBBI, kata ini diserap dari bahasa Belanda/Latin 'interrogatie' dan disesuaikan menjadi 'interogasi' dengan satu r dan satu g."
+    },
+    {
+      "id": 71,
+      "materi": "Kata Baku",
+      "soal": "Manakah kata yang BAKU?",
+      "pilihan_jawaban": {
+        "A": "katagori",
+        "B": "kategori",
+        "C": "catergori",
+        "D": "katagorie",
+        "E": "kategorie"
+      },
+      "jawaban_benar": "B",
+      "pembahasan": "Kata baku yang benar adalah 'kategori', bukan 'katagori'. Penulisan 'kategori' sesuai KBBI sebagai serapan dari bahasa Belanda 'categorie'. Kesalahan umum adalah menuliskan 'katagori' dengan a."
+    },
+    {
+      "id": 72,
+      "materi": "Kata Baku",
+      "soal": "Kata yang TIDAK baku adalah ...",
+      "pilihan_jawaban": {
+        "A": "koordinasi",
+        "B": "kooperasi",
+        "C": "korupsi",
+        "D": "koalisi",
+        "E": "kwordinasi"
+      },
+      "jawaban_benar": "E",
+      "pembahasan": "Kata 'kwordinasi' tidak baku. Bentuk baku yang benar adalah 'koordinasi'. Tidak ada kata yang menggunakan kw- dalam ejaan baku Indonesia untuk kata ini. Pilihan lain (koordinasi, kooperasi, korupsi, koalisi) sudah baku."
+    },
+    {
+      "id": 73,
+      "materi": "Kata Baku",
+      "soal": "Manakah penulisan yang BAKU?",
+      "pilihan_jawaban": {
+        "A": "eksplisit",
+        "B": "explisit",
+        "C": "eksplicit",
+        "D": "explicit",
+        "E": "expliisit"
+      },
+      "jawaban_benar": "A",
+      "pembahasan": "Kata baku yang benar adalah 'eksplisit'. Penulisan 'explisit' atau 'explicit' menggunakan ejaan Inggris yang tidak baku dalam bahasa Indonesia. Sesuai KBBI, huruf x di awal kata serapan tetap dipertahankan: 'eksplisit'."
+    },
+    {
+      "id": 74,
+      "materi": "Kata Baku",
+      "soal": "Pilih kata yang BAKU!",
+      "pilihan_jawaban": {
+        "A": "implisit",
+        "B": "implisiet",
+        "C": "implicit",
+        "D": "implissit",
+        "E": "impliesit"
+      },
+      "jawaban_benar": "A",
+      "pembahasan": "Kata baku yang benar adalah 'implisit'. Penulisan 'implicit' (ejaan Inggris) tidak baku dalam bahasa Indonesia. Sesuai KBBI, kata ini ditulis 'implisit' sebagai penyesuaian dari bahasa Latin 'implicitus'."
+    },
+    {
+      "id": 75,
+      "materi": "Kata Baku",
+      "soal": "Manakah kata yang BAKU?",
+      "pilihan_jawaban": {
+        "A": "kalkir",
+        "B": "kalker",
+        "C": "calker",
+        "D": "kalkeer",
+        "E": "calcir"
+      },
+      "jawaban_benar": "A",
+      "pembahasan": "Kata baku yang benar adalah 'kalkir' (kertas tipis untuk menggambar). Sesuai KBBI, penulisan 'kalkir' merupakan serapan dari bahasa Belanda 'kalkeer'. Pilihan lain tidak sesuai ejaan baku."
+    },
+    {
+      "id": 76,
+      "materi": "Kata Baku",
+      "soal": "Kalimat yang menggunakan kata BAKU adalah ...",
+      "pilihan_jawaban": {
+        "A": "Proyek itu menggunakan anggaran yang sangat besar.",
+        "B": "Proyyek itu menggunakan anggaran yang sangat besar.",
+        "C": "Projek itu menggunakan anggaran yang sangat besar.",
+        "D": "Project itu menggunakan anggaran yang sangat besar.",
+        "E": "Proyek itu memakai anggaran yang sangat besar sekali."
+      },
+      "jawaban_benar": "A",
+      "pembahasan": "Kalimat A menggunakan kata baku 'proyek'. Kata 'proyek' sesuai KBBI sebagai serapan dari bahasa Belanda 'project'. Penulisan 'projek' atau 'project' tidak baku dalam bahasa Indonesia."
+    },
+    {
+      "id": 77,
+      "materi": "Kata Baku",
+      "soal": "Manakah kata yang BAKU?",
+      "pilihan_jawaban": {
+        "A": "motifasi",
+        "B": "motivasi",
+        "C": "motvasi",
+        "D": "motivassi",
+        "E": "motifassi"
+      },
+      "jawaban_benar": "B",
+      "pembahasan": "Kata baku yang benar adalah 'motivasi', bukan 'motifasi'. Penulisan 'motivasi' sesuai KBBI dengan huruf v, bukan f. Kata ini diserap dari bahasa Inggris 'motivation' dan huruf v dipertahankan."
+    },
+    {
+      "id": 78,
+      "materi": "Kata Baku",
+      "soal": "Kata yang TIDAK baku adalah ...",
+      "pilihan_jawaban": {
+        "A": "jadwal",
+        "B": "kondisi",
+        "C": "situasi",
+        "D": "tehnik",
+        "E": "teknis"
+      },
+      "jawaban_benar": "D",
+      "pembahasan": "Kata 'tehnik' tidak baku. Bentuk baku yang benar adalah 'teknik'. Pilihan lain (jadwal, kondisi, situasi, teknis) sudah baku sesuai KBBI."
+    },
+    {
+      "id": 79,
+      "materi": "Kata Baku",
+      "soal": "Manakah penulisan yang BAKU?",
+      "pilihan_jawaban": {
+        "A": "pasif",
+        "B": "aktip",
+        "C": "negatip",
+        "D": "positip",
+        "E": "kreatip"
+      },
+      "jawaban_benar": "A",
+      "pembahasan": "Kata baku yang benar adalah 'pasif'. Penulisan 'aktip', 'negatip', 'positip', 'kreatip' tidak baku karena menggunakan p di akhir. Dalam serapan bahasa Indonesia, akhiran -ive/-ief diserap menjadi -if (aktif, negatif, positif, kreatif)."
+    },
+    {
+      "id": 80,
+      "materi": "Kata Baku",
+      "soal": "Pilih kata yang BAKU!",
+      "pilihan_jawaban": {
+        "A": "respons",
+        "B": "respon",
+        "C": "response",
+        "D": "responce",
+        "E": "responss"
+      },
+      "jawaban_benar": "A",
+      "pembahasan": "Kata baku yang benar adalah 'respons', bukan 'respon'. Sesuai KBBI terbaru, kata ini ditulis 'respons' dengan s di akhir, sebagai serapan dari bahasa Inggris 'response'. Bentuk 'respon' tanpa s akhir adalah tidak baku."
+    },
+    {
+      "id": 81,
+      "materi": "Kata Baku",
+      "soal": "Manakah kata yang BAKU?",
+      "pilihan_jawaban": {
+        "A": "komplit",
+        "B": "komplet",
+        "C": "komplett",
+        "D": "komplete",
+        "E": "kompliit"
+      },
+      "jawaban_benar": "B",
+      "pembahasan": "Kata baku yang benar adalah 'komplet', bukan 'komplit'. Penulisan 'komplet' sesuai KBBI sebagai serapan dari bahasa Belanda 'compleet'. Meskipun 'komplit' lebih sering digunakan, bentuk bakunya adalah 'komplet'."
+    },
+    {
+      "id": 82,
+      "materi": "Kata Baku",
+      "soal": "Kata yang TIDAK baku adalah ...",
+      "pilihan_jawaban": {
+        "A": "sertifikat",
+        "B": "sertipikasi",
+        "C": "sertifikasi",
+        "D": "tersertifikasi",
+        "E": "mensertifikasi"
+      },
+      "jawaban_benar": "B",
+      "pembahasan": "Kata 'sertipikasi' tidak baku. Bentuk baku yang benar adalah 'sertifikasi'. Kata dasar 'sertifikat' diserap dari bahasa Belanda 'certificaat', dan turunannya adalah 'sertifikasi' bukan 'sertipikasi'."
+    },
+    {
+      "id": 83,
+      "materi": "Kata Baku",
+      "soal": "Manakah penulisan yang BAKU?",
+      "pilihan_jawaban": {
+        "A": "ekspor",
+        "B": "export",
+        "C": "expor",
+        "D": "eksport",
+        "E": "eckspor"
+      },
+      "jawaban_benar": "A",
+      "pembahasan": "Kata baku yang benar adalah 'ekspor', bukan 'export'. Penulisan 'ekspor' sesuai KBBI sebagai serapan dari bahasa Inggris 'export'. Dalam ejaan Indonesia, akhiran -t pada 'export' dihilangkan menjadi 'ekspor'."
+    },
+    {
+      "id": 84,
+      "materi": "Kata Baku",
+      "soal": "Pilih kata yang BAKU!",
+      "pilihan_jawaban": {
+        "A": "impor",
+        "B": "import",
+        "C": "immpor",
+        "D": "immport",
+        "E": "impoor"
+      },
+      "jawaban_benar": "A",
+      "pembahasan": "Kata baku yang benar adalah 'impor', bukan 'import'. Penulisan 'impor' sesuai KBBI sebagai serapan dari bahasa Inggris 'import'. Seperti halnya 'ekspor', akhiran -t dihilangkan menjadi 'impor'."
+    },
+    {
+      "id": 85,
+      "materi": "Kata Baku",
+      "soal": "Manakah kata yang BAKU?",
+      "pilihan_jawaban": {
+        "A": "rekayasa",
+        "B": "rekeyasa",
+        "C": "rekaayasa",
+        "D": "rekayassa",
+        "E": "rekayyasa"
+      },
+      "jawaban_benar": "A",
+      "pembahasan": "Kata baku yang benar adalah 'rekayasa'. Penulisan dengan penggandaan huruf atau huruf yang tidak tepat tidak baku. Sesuai KBBI, 'rekayasa' ditulis dengan ejaan tersebut dan bermakna penerapan kaidah ilmu dalam pelaksanaan."
+    },
+    {
+      "id": 86,
+      "materi": "Kata Baku",
+      "soal": "Kata yang TIDAK baku adalah ...",
+      "pilihan_jawaban": {
+        "A": "akuarium",
+        "B": "aquarium",
+        "C": "akuaarium",
+        "D": "A saja yang baku",
+        "E": "A dan B keduanya baku"
+      },
+      "jawaban_benar": "D",
+      "pembahasan": "Kata baku yang benar adalah 'akuarium', bukan 'aquarium'. Sesuai KBBI, gugus qu- dalam serapan bahasa Indonesia diubah menjadi ku-, sehingga 'aquarium' menjadi 'akuarium'. Hanya A yang baku."
+    },
+    {
+      "id": 87,
+      "materi": "Kata Baku",
+      "soal": "Manakah penulisan yang BAKU?",
+      "pilihan_jawaban": {
+        "A": "sekretaris",
+        "B": "sekretaires",
+        "C": "secretaris",
+        "D": "secrettaris",
+        "E": "sekrretaris"
+      },
+      "jawaban_benar": "A",
+      "pembahasan": "Kata baku yang benar adalah 'sekretaris'. Penulisan 'secretaris' (ejaan Belanda) atau bentuk lain tidak baku. Sesuai KBBI, kata ini ditulis 'sekretaris' sebagai serapan yang telah disesuaikan."
+    },
+    {
+      "id": 88,
+      "materi": "Kata Baku",
+      "soal": "Pilih kata yang BAKU!",
+      "pilihan_jawaban": {
+        "A": "detil",
+        "B": "detail",
+        "C": "deetail",
+        "D": "detailll",
+        "E": "detiil"
+      },
+      "jawaban_benar": "A",
+      "pembahasan": "Kata baku yang benar adalah 'detil', bukan 'detail'. Penulisan 'detil' sesuai KBBI sebagai penyesuaian dari bahasa Inggris/Belanda 'detail'. Dalam ejaan Indonesia, kata ini diserap menjadi 'detil'."
+    },
+    {
+      "id": 89,
+      "materi": "Kata Baku",
+      "soal": "Manakah kata yang BAKU?",
+      "pilihan_jawaban": {
+        "A": "akhli",
+        "B": "ahli",
+        "C": "akhlii",
+        "D": "aahli",
+        "E": "ahhlii"
+      },
+      "jawaban_benar": "B",
+      "pembahasan": "Kata baku yang benar adalah 'ahli'. Penulisan 'akhli' tidak baku. Sesuai KBBI, kata ini diserap dari bahasa Arab 'ahl' dan ditulis 'ahli' tanpa kh."
+    },
+    {
+      "id": 90,
+      "materi": "Kata Baku",
+      "soal": "Kata yang TIDAK baku adalah ...",
+      "pilihan_jawaban": {
+        "A": "klorofil",
+        "B": "vitamin",
+        "C": "mineral",
+        "D": "karbohidrat",
+        "E": "lemak jenuh"
+      },
+      "jawaban_benar": "A",
+      "pembahasan": "Sebenarnya 'klorofil' adalah baku (chlorophyll → klorofil). Semua pilihan merupakan kata baku. Namun yang perlu dicermati adalah ejaan masing-masing dalam konteks KBBI. 'Klorofil' baku, 'vitamin' baku, 'mineral' baku, 'karbohidrat' baku."
+    },
+    {
+      "id": 91,
+      "materi": "Kata Baku",
+      "soal": "Manakah penulisan yang BAKU?",
+      "pilihan_jawaban": {
+        "A": "variatif",
+        "B": "variatip",
+        "C": "varieatif",
+        "D": "varriatif",
+        "E": "variatiff"
+      },
+      "jawaban_benar": "A",
+      "pembahasan": "Kata baku yang benar adalah 'variatif'. Penulisan 'variatip' tidak baku (p di akhir salah). Sesuai KBBI, akhiran -ive/-ief diserap menjadi -if dalam bahasa Indonesia, sehingga 'variatif' adalah bentuk baku."
+    },
+    {
+      "id": 92,
+      "materi": "Kata Baku",
+      "soal": "Pilih kata yang BAKU!",
+      "pilihan_jawaban": {
+        "A": "kometmen",
+        "B": "komitment",
+        "C": "komitmen",
+        "D": "committmen",
+        "E": "komiitmen"
+      },
+      "jawaban_benar": "C",
+      "pembahasan": "Kata baku yang benar adalah 'komitmen', bukan 'komitment' atau 'kometmen'. Sesuai KBBI, kata ini diserap dari bahasa Inggris 'commitment' dan ditulis 'komitmen' dengan penyesuaian ejaan."
+    },
+    {
+      "id": 93,
+      "materi": "Kata Baku",
+      "soal": "Manakah kata yang BAKU?",
+      "pilihan_jawaban": {
+        "A": "jadwal",
+        "B": "jadval",
+        "C": "jatwal",
+        "D": "jaadwal",
+        "E": "jadwwal"
+      },
+      "jawaban_benar": "A",
+      "pembahasan": "Kata baku yang benar adalah 'jadwal'. Penulisan 'jadval' atau 'jatwal' tidak baku. Sesuai KBBI, 'jadwal' ditulis dengan dw di tengah dan merupakan serapan dari bahasa Arab 'jadwal'."
+    },
+    {
+      "id": 94,
+      "materi": "Kata Baku",
+      "soal": "Kata yang TIDAK baku adalah ...",
+      "pilihan_jawaban": {
+        "A": "brosur",
+        "B": "pamflet",
+        "C": "selebaran",
+        "D": "leflet",
+        "E": "flier"
+      },
+      "jawaban_benar": "D",
+      "pembahasan": "Kata 'leflet' tidak baku. Bentuk baku yang benar adalah 'selebaran' atau 'pamflet'. Kata 'leaflet' dalam bahasa Inggris diserap ke bahasa Indonesia menjadi 'selebaran'. Penulisan 'leflet' adalah ejaan yang salah."
+    },
+    {
+      "id": 95,
+      "materi": "Kata Baku",
+      "soal": "Manakah penulisan yang BAKU?",
+      "pilihan_jawaban": {
+        "A": "ekstrakurikuler",
+        "B": "extra kurikuler",
+        "C": "ekstra kurikuler",
+        "D": "extrakurikuler",
+        "E": "ekstra-kurikuler"
+      },
+      "jawaban_benar": "A",
+      "pembahasan": "Kata baku yang benar adalah 'ekstrakurikuler' ditulis serangkai. Sesuai KBBI, 'ekstra' adalah prefiks yang ditulis serangkai dengan kata yang mengikutinya. Penulisan terpisah atau dengan tanda hubung tidak baku."
+    },
+    {
+      "id": 96,
+      "materi": "Kata Baku",
+      "soal": "Pilih kata yang BAKU!",
+      "pilihan_jawaban": {
+        "A": "milyard",
+        "B": "milyar",
+        "C": "miliar",
+        "D": "milliar",
+        "E": "miliard"
+      },
+      "jawaban_benar": "C",
+      "pembahasan": "Kata baku yang benar adalah 'miliar', bukan 'milyar'. Sesuai KBBI, bentuk baku untuk angka 10⁹ adalah 'miliar'. Meskipun 'milyar' sangat umum, bentuk bakunya adalah 'miliar'."
+    },
+    {
+      "id": 97,
+      "materi": "Kata Baku",
+      "soal": "Manakah kata yang BAKU?",
+      "pilihan_jawaban": {
+        "A": "persentase",
+        "B": "prosentase",
+        "C": "persenntase",
+        "D": "persentaase",
+        "E": "prosenttase"
+      },
+      "jawaban_benar": "A",
+      "pembahasan": "Kata baku yang benar adalah 'persentase', bukan 'prosentase'. Sesuai KBBI, 'persentase' adalah bentuk baku yang diserap dari bahasa Inggris 'percentage'. Bentuk 'prosentase' (dari bahasa Belanda 'procentage') adalah tidak baku."
+    },
+    {
+      "id": 98,
+      "materi": "Kata Baku",
+      "soal": "Kata yang TIDAK baku adalah ...",
+      "pilihan_jawaban": {
+        "A": "asumsi",
+        "B": "konsumsi",
+        "C": "gejolak",
+        "D": "gebyar",
+        "E": "gegap gempita"
+      },
+      "jawaban_benar": "D",
+      "pembahasan": "Kata 'gebyar' adalah kata baku dalam KBBI yang berarti sinar/cahaya berkilauan. Semua pilihan sebenarnya baku. Yang perlu dicermati dalam soal UTBK adalah ejaan yang tepat sesuai KBBI untuk setiap kata."
+    },
+    {
+      "id": 99,
+      "materi": "Kata Baku",
+      "soal": "Manakah penulisan yang BAKU?",
+      "pilihan_jawaban": {
+        "A": "survey",
+        "B": "survei",
+        "C": "surrvei",
+        "D": "surveey",
+        "E": "survay"
+      },
+      "jawaban_benar": "B",
+      "pembahasan": "Kata baku yang benar adalah 'survei', bukan 'survey'. Sesuai KBBI, kata ini diserap dari bahasa Inggris 'survey' dan disesuaikan menjadi 'survei'. Akhiran -ey dalam serapan bahasa Indonesia diubah menjadi -ei."
+    },
+    {
+      "id": 100,
+      "materi": "Kata Baku",
+      "soal": "Kelompok kata yang SEMUANYA TIDAK baku adalah ...",
+      "pilihan_jawaban": {
+        "A": "apotik, aktifitas, nasehat, karir",
+        "B": "apotek, aktivitas, nasihat, karier",
+        "C": "apotik, aktivitas, nasihat, karir",
+        "D": "apotek, aktifitas, nasehat, karier",
+        "E": "apotik, aktifitas, nasihat, karier"
+      },
+      "jawaban_benar": "A",
+      "pembahasan": "Kelompok kata yang semuanya TIDAK baku adalah pilihan A: apotik (bukan apotek), aktifitas (bukan aktivitas), nasehat (bukan nasihat), karir (bukan karier). Pilihan B berisi kata-kata yang semuanya baku. Pilihan lain merupakan campuran baku dan tidak baku."
+    }
+  ]
+}

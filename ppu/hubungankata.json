@@ -1,0 +1,1402 @@
+[
+  {
+    "id": 1,
+    "soal": "AIR : IKAN = UDARA : ...",
+    "pilihan": ["A. Angin", "B. Burung", "C. Langit", "D. Awan", "E. Terbang"],
+    "jawaban": "B",
+    "pembahasan": "Ikan hidup di air, burung hidup di udara. Hubungan: hewan dengan habitatnya."
+  },
+  {
+    "id": 2,
+    "soal": "PENA : MENULIS = PISAU : ...",
+    "pilihan": ["A. Tajam", "B. Besi", "C. Memotong", "D. Dapur", "E. Berbahaya"],
+    "jawaban": "C",
+    "pembahasan": "Pena berfungsi untuk menulis, pisau berfungsi untuk memotong. Hubungan: alat dan fungsinya."
+  },
+  {
+    "id": 3,
+    "soal": "API : PANAS = ES : ...",
+    "pilihan": ["A. Beku", "B. Air", "C. Dingin", "D. Putih", "E. Cair"],
+    "jawaban": "C",
+    "pembahasan": "Api memiliki sifat panas, es memiliki sifat dingin. Hubungan: benda dengan sifatnya."
+  },
+  {
+    "id": 4,
+    "soal": "DOKTER : MENYEMBUHKAN = GURU : ...",
+    "pilihan": ["A. Sekolah", "B. Mengajar", "C. Buku", "D. Murid", "E. Ilmu"],
+    "jawaban": "B",
+    "pembahasan": "Dokter bertugas menyembuhkan, guru bertugas mengajar. Hubungan: profesi dan tugasnya."
+  },
+  {
+    "id": 5,
+    "soal": "RODA : MOTOR = SAYAP : ...",
+    "pilihan": ["A. Angin", "B. Terbang", "C. Burung", "D. Langit", "E. Bulu"],
+    "jawaban": "C",
+    "pembahasan": "Roda adalah bagian dari motor, sayap adalah bagian dari burung. Hubungan: bagian dan keseluruhan."
+  },
+  {
+    "id": 6,
+    "soal": "KOMPOR : GAS = MOBIL : ...",
+    "pilihan": ["A. Jalan", "B. Sopir", "C. Bensin", "D. Roda", "E. Cepat"],
+    "jawaban": "C",
+    "pembahasan": "Kompor membutuhkan gas sebagai bahan bakar, mobil membutuhkan bensin. Hubungan: alat dan bahan bakarnya."
+  },
+  {
+    "id": 7,
+    "soal": "PADI : PETANI = OBAT : ...",
+    "pilihan": ["A. Dokter", "B. Apotek", "C. Apoteker", "D. Resep", "E. Sakit"],
+    "jawaban": "C",
+    "pembahasan": "Padi ditanam oleh petani, obat diracik oleh apoteker. Hubungan: produk dan pembuatnya."
+  },
+  {
+    "id": 8,
+    "soal": "BUKU : PUSTAKA = LAGU : ...",
+    "pilihan": ["A. Penyanyi", "B. Melodi", "C. Musik", "D. Nada", "E. Radio"],
+    "jawaban": "B",
+    "pembahasan": "Buku bersinonim dengan pustaka, lagu bersinonim dengan melodi. Hubungan: sinonim."
+  },
+  {
+    "id": 9,
+    "soal": "SEPATU : KAKI = TOPI : ...",
+    "pilihan": ["A. Rambut", "B. Kepala", "C. Baju", "D. Panas", "E. Pelindung"],
+    "jawaban": "B",
+    "pembahasan": "Sepatu dipakai di kaki, topi dipakai di kepala. Hubungan: pakaian dan tempat memakainya."
+  },
+  {
+    "id": 10,
+    "soal": "LAPAR : MAKAN = KANTUK : ...",
+    "pilihan": ["A. Lelah", "B. Malam", "C. Tidur", "D. Istirahat", "E. Mengantuk"],
+    "jawaban": "C",
+    "pembahasan": "Lapar diatasi dengan makan, kantuk diatasi dengan tidur. Hubungan: kondisi dan cara mengatasinya."
+  },
+  {
+    "id": 11,
+    "soal": "TELUR : BUTIR = BAWANG : ...",
+    "pilihan": ["A. Buah", "B. Siung", "C. Umbi", "D. Iris", "E. Biji"],
+    "jawaban": "B",
+    "pembahasan": "Telur dihitung dengan satuan butir, bawang dihitung dengan satuan siung. Hubungan: benda dan satuan hitungnya."
+  },
+  {
+    "id": 12,
+    "soal": "JEPANG : YEN = INDIA : ...",
+    "pilihan": ["A. Dolar", "B. Baht", "C. Rupee", "D. Ringgit", "E. Won"],
+    "jawaban": "C",
+    "pembahasan": "Mata uang Jepang adalah Yen, mata uang India adalah Rupee. Hubungan: negara dan mata uangnya."
+  },
+  {
+    "id": 13,
+    "soal": "KAYU : MEJA = BENANG : ...",
+    "pilihan": ["A. Jarum", "B. Kain", "C. Jahit", "D. Pakaian", "E. Tenun"],
+    "jawaban": "B",
+    "pembahasan": "Kayu adalah bahan baku meja, benang adalah bahan baku kain. Hubungan: bahan dan produk jadinya."
+  },
+  {
+    "id": 14,
+    "soal": "PROVINSI : GUBERNUR = KABUPATEN : ...",
+    "pilihan": ["A. Wali Kota", "B. Bupati", "C. Camat", "D. Lurah", "E. Menteri"],
+    "jawaban": "B",
+    "pembahasan": "Provinsi dipimpin gubernur, kabupaten dipimpin bupati. Hubungan: wilayah dan pemimpinnya."
+  },
+  {
+    "id": 15,
+    "soal": "SAHABAT : KAWAN = HARMONI : ...",
+    "pilihan": ["A. Musik", "B. Lagu", "C. Selaras", "D. Nada", "E. Indah"],
+    "jawaban": "C",
+    "pembahasan": "Sahabat bersinonim dengan kawan, harmoni bersinonim dengan selaras. Hubungan: sinonim."
+  },
+  {
+    "id": 16,
+    "soal": "LENYAP : HADIR = ASAM : ...",
+    "pilihan": ["A. Manis", "B. Basa", "C. Pahit", "D. Garam", "E. Asin"],
+    "jawaban": "B",
+    "pembahasan": "Lenyap berantonim dengan hadir, asam berantonim dengan basa. Hubungan: antonim."
+  },
+  {
+    "id": 17,
+    "soal": "GELAS : MINUM = KUAS : ...",
+    "pilihan": ["A. Cat", "B. Gambar", "C. Melukis", "D. Warna", "E. Seni"],
+    "jawaban": "C",
+    "pembahasan": "Gelas digunakan untuk minum, kuas digunakan untuk melukis. Hubungan: alat dan kegunaannya."
+  },
+  {
+    "id": 18,
+    "soal": "PETANI : CANGKUL = MUSISI : ...",
+    "pilihan": ["A. Lagu", "B. Panggung", "C. Nada", "D. Gitar", "E. Musik"],
+    "jawaban": "D",
+    "pembahasan": "Alat kerja petani adalah cangkul, alat kerja musisi adalah gitar. Hubungan: profesi dan alat kerjanya."
+  },
+  {
+    "id": 19,
+    "soal": "KAKI : TUBUH = RANTING : ...",
+    "pilihan": ["A. Daun", "B. Pohon", "C. Akar", "D. Buah", "E. Batang"],
+    "jawaban": "B",
+    "pembahasan": "Kaki adalah bagian dari tubuh, ranting adalah bagian dari pohon. Hubungan: bagian dan keseluruhan."
+  },
+  {
+    "id": 20,
+    "soal": "CABAI : PEDAS = JARUM : ...",
+    "pilihan": ["A. Jahit", "B. Kecil", "C. Tajam", "D. Benang", "E. Besi"],
+    "jawaban": "C",
+    "pembahasan": "Sifat cabai adalah pedas, sifat jarum adalah tajam. Hubungan: benda dan sifatnya."
+  },
+  {
+    "id": 21,
+    "soal": "DELMAN : KUDA = HELIKOPTER : ...",
+    "pilihan": ["A. Pilot", "B. Baling-baling", "C. Terbang", "D. Mesin", "E. Udara"],
+    "jawaban": "B",
+    "pembahasan": "Delman digerakkan oleh kuda, helikopter digerakkan oleh baling-baling. Hubungan: kendaraan dan penggeraknya."
+  },
+  {
+    "id": 22,
+    "soal": "RATA : MULUS = BENGKOK : ...",
+    "pilihan": ["A. Lurus", "B. Kasar", "C. Liku", "D. Bulat", "E. Melengkung"],
+    "jawaban": "C",
+    "pembahasan": "Rata bersinonim dengan mulus, bengkok bersinonim dengan liku. Hubungan: sinonim."
+  },
+  {
+    "id": 23,
+    "soal": "BELALANG : KATAK = RUMPUT : ...",
+    "pilihan": ["A. Hijau", "B. Sapi", "C. Ladang", "D. Hewan", "E. Tanah"],
+    "jawaban": "B",
+    "pembahasan": "Belalang dimakan katak, rumput dimakan sapi. Hubungan: rantai makanan."
+  },
+  {
+    "id": 24,
+    "soal": "REDUP : GELAP = HANGAT : ...",
+    "pilihan": ["A. Api", "B. Sejuk", "C. Panas", "D. Suhu", "E. Matahari"],
+    "jawaban": "C",
+    "pembahasan": "Redup adalah tingkatan tidak terlalu gelap, hangat adalah tingkatan tidak terlalu panas. Hubungan: intensitas."
+  },
+  {
+    "id": 25,
+    "soal": "SARJANA : KULIAH = JUARA : ...",
+    "pilihan": ["A. Hadiah", "B. Kompetisi", "C. Lomba", "D. Menang", "E. Piala"],
+    "jawaban": "C",
+    "pembahasan": "Sarjana diperoleh melalui kuliah, juara diperoleh melalui lomba. Hubungan: hasil dan proses."
+  },
+  {
+    "id": 26,
+    "soal": "BUKU : MEMBACA = RADIO : ...",
+    "pilihan": ["A. Menonton", "B. Mendengar", "C. Antena", "D. Frekuensi", "E. Siaran"],
+    "jawaban": "B",
+    "pembahasan": "Buku digunakan untuk membaca, radio digunakan untuk mendengar. Hubungan: alat dan kegunaannya."
+  },
+  {
+    "id": 27,
+    "soal": "ROTI : GANDUM = TEMPE : ...",
+    "pilihan": ["A. Protein", "B. Kedelai", "C. Fermentasi", "D. Tahu", "E. Makanan"],
+    "jawaban": "B",
+    "pembahasan": "Bahan baku roti adalah gandum, bahan baku tempe adalah kedelai. Hubungan: produk dan bahan bakunya."
+  },
+  {
+    "id": 28,
+    "soal": "HARI : MINGGU = MINGGU : ...",
+    "pilihan": ["A. Tahun", "B. Bulan", "C. Hari", "D. Tanggal", "E. Kalender"],
+    "jawaban": "B",
+    "pembahasan": "Sekumpulan hari membentuk minggu, sekumpulan minggu membentuk bulan. Hubungan: satuan waktu."
+  },
+  {
+    "id": 29,
+    "soal": "SENAPAN : BERBURU = JALA : ...",
+    "pilihan": ["A. Ikan", "B. Nelayan", "C. Menangkap", "D. Laut", "E. Menangkap ikan"],
+    "jawaban": "C",
+    "pembahasan": "Senapan digunakan untuk berburu, jala digunakan untuk menangkap (ikan). Hubungan: alat dan fungsinya."
+  },
+  {
+    "id": 30,
+    "soal": "INTENSITAS : FREKUENSI = PENGHARGAAN : ...",
+    "pilihan": ["A. Piala", "B. Hadiah", "C. Penghormatan", "D. Prestasi", "E. Menang"],
+    "jawaban": "C",
+    "pembahasan": "Intensitas bersinonim dengan frekuensi, penghargaan bersinonim dengan penghormatan. Hubungan: sinonim."
+  },
+  {
+    "id": 31,
+    "soal": "MATA : MELIHAT = TELINGA : ...",
+    "pilihan": ["A. Suara", "B. Mendengar", "C. Kepala", "D. Organ", "E. Bunyi"],
+    "jawaban": "B",
+    "pembahasan": "Mata berfungsi untuk melihat, telinga berfungsi untuk mendengar. Hubungan: organ dan fungsinya."
+  },
+  {
+    "id": 32,
+    "soal": "HAKIM : PENGADILAN = DOKTER : ...",
+    "pilihan": ["A. Obat", "B. Pasien", "C. Rumah Sakit", "D. Operasi", "E. Resep"],
+    "jawaban": "C",
+    "pembahasan": "Hakim bekerja di pengadilan, dokter bekerja di rumah sakit. Hubungan: profesi dan tempat kerjanya."
+  },
+  {
+    "id": 33,
+    "soal": "GELAP : TERANG = STATIS : ...",
+    "pilihan": ["A. Gerak", "B. Diam", "C. Dinamis", "D. Berubah", "E. Aktif"],
+    "jawaban": "C",
+    "pembahasan": "Gelap berantonim dengan terang, statis berantonim dengan dinamis. Hubungan: antonim."
+  },
+  {
+    "id": 34,
+    "soal": "GERGAJI : MEMOTONG KAYU = SEKOP : ...",
+    "pilihan": ["A. Menggali tanah", "B. Bertani", "C. Besi", "D. Lubang", "E. Konstruksi"],
+    "jawaban": "A",
+    "pembahasan": "Gergaji digunakan untuk memotong kayu, sekop digunakan untuk menggali tanah. Hubungan: alat dan fungsinya."
+  },
+  {
+    "id": 35,
+    "soal": "HURUF : KATA = KATA : ...",
+    "pilihan": ["A. Kalimat", "B. Paragraf", "C. Teks", "D. Abjad", "E. Bahasa"],
+    "jawaban": "A",
+    "pembahasan": "Gabungan huruf membentuk kata, gabungan kata membentuk kalimat. Hubungan: satuan bahasa."
+  },
+  {
+    "id": 36,
+    "soal": "SINGA : HUTAN = UNTA : ...",
+    "pilihan": ["A. Padang pasir", "B. Savana", "C. Gurun", "D. Padang rumput", "E. Afrika"],
+    "jawaban": "C",
+    "pembahasan": "Habitat singa adalah hutan, habitat unta adalah gurun. Hubungan: hewan dan habitatnya."
+  },
+  {
+    "id": 37,
+    "soal": "KEMARAU : HUJAN = KELAPARAN : ...",
+    "pilihan": ["A. Makanan", "B. Lapar", "C. Panen", "D. Kemiskinan", "E. Bencana"],
+    "jawaban": "A",
+    "pembahasan": "Kemarau ditandai tidak adanya hujan, kelaparan ditandai tidak adanya makanan. Hubungan: kondisi dan yang tidak ada."
+  },
+  {
+    "id": 38,
+    "soal": "MASINIS : KERETA = PILOT : ...",
+    "pilihan": ["A. Bandara", "B. Pesawat", "C. Penumpang", "D. Terbang", "E. Kokpit"],
+    "jawaban": "B",
+    "pembahasan": "Masinis mengemudikan kereta, pilot mengemudikan pesawat. Hubungan: profesi dan kendaraan yang dikemudikan."
+  },
+  {
+    "id": 39,
+    "soal": "KUAT : LEMAH = BESAR : ...",
+    "pilihan": ["A. Sedang", "B. Kecil", "C. Tinggi", "D. Lebar", "E. Pendek"],
+    "jawaban": "B",
+    "pembahasan": "Kuat berantonim dengan lemah, besar berantonim dengan kecil. Hubungan: antonim."
+  },
+  {
+    "id": 40,
+    "soal": "GANDUM : ROTI = TEBU : ...",
+    "pilihan": ["A. Manis", "B. Kebun", "C. Gula", "D. Petani", "E. Pabrik"],
+    "jawaban": "C",
+    "pembahasan": "Gandum diolah menjadi roti, tebu diolah menjadi gula. Hubungan: bahan baku dan produk jadinya."
+  },
+  {
+    "id": 41,
+    "soal": "TUKANG KAYU : LEMARI = PENJAHIT : ...",
+    "pilihan": ["A. Kain", "B. Baju", "C. Jarum", "D. Benang", "E. Mesin jahit"],
+    "jawaban": "B",
+    "pembahasan": "Tukang kayu membuat lemari, penjahit membuat baju. Hubungan: profesi dan hasil kerjanya."
+  },
+  {
+    "id": 42,
+    "soal": "KEPAK : SAYAP = HENTAK : ...",
+    "pilihan": ["A. Tangan", "B. Kepala", "C. Kaki", "D. Jantung", "E. Tubuh"],
+    "jawaban": "C",
+    "pembahasan": "Kepak adalah gerakan sayap, hentak adalah gerakan kaki. Hubungan: jenis gerak dan organ pelakunya."
+  },
+  {
+    "id": 43,
+    "soal": "YOGYAKARTA : JOGLO = SULAWESI SELATAN : ...",
+    "pilihan": ["A. Rumah Adat", "B. Toraja", "C. Tongkonan", "D. Panggung", "E. Gadang"],
+    "jawaban": "C",
+    "pembahasan": "Rumah adat Yogyakarta adalah Joglo, rumah adat Sulawesi Selatan adalah Tongkonan. Hubungan: daerah dan rumah adatnya."
+  },
+  {
+    "id": 44,
+    "soal": "PANJANG : PENDEK = RINGAN : ...",
+    "pilihan": ["A. Tipis", "B. Berat", "C. Kecil", "D. Lemah", "E. Ringan"],
+    "jawaban": "B",
+    "pembahasan": "Panjang berantonim dengan pendek, ringan berantonim dengan berat. Hubungan: antonim."
+  },
+  {
+    "id": 45,
+    "soal": "TINTA : PENA = BENSIN : ...",
+    "pilihan": ["A. Pompa", "B. Motor", "C. Liter", "D. Mahal", "E. Mesin"],
+    "jawaban": "B",
+    "pembahasan": "Tinta adalah bahan bakar pena, bensin adalah bahan bakar motor. Hubungan: bahan bakar dan alatnya."
+  },
+  {
+    "id": 46,
+    "soal": "HERBIVORA : TUMBUHAN = KARNIVORA : ...",
+    "pilihan": ["A. Predator", "B. Daging", "C. Hutan", "D. Buas", "E. Hewan"],
+    "jawaban": "B",
+    "pembahasan": "Herbivora memakan tumbuhan, karnivora memakan daging. Hubungan: jenis hewan dan makanannya."
+  },
+  {
+    "id": 47,
+    "soal": "NELAYAN : LAUT = PETANI : ...",
+    "pilihan": ["A. Padi", "B. Sawah", "C. Ladang", "D. Desa", "E. Cangkul"],
+    "jawaban": "B",
+    "pembahasan": "Nelayan bekerja di laut, petani bekerja di sawah. Hubungan: profesi dan tempat kerjanya."
+  },
+  {
+    "id": 48,
+    "soal": "BIOLA : GESEK = GITAR : ...",
+    "pilihan": ["A. Dawai", "B. Petik", "C. Melodi", "D. Musik", "E. Senar"],
+    "jawaban": "B",
+    "pembahasan": "Biola dimainkan dengan digesek, gitar dimainkan dengan dipetik. Hubungan: alat musik dan cara memainkannya."
+  },
+  {
+    "id": 49,
+    "soal": "PUISI : BAIT = PROSA : ...",
+    "pilihan": ["A. Kalimat", "B. Paragraf", "C. Bab", "D. Halaman", "E. Kata"],
+    "jawaban": "B",
+    "pembahasan": "Satuan puisi adalah bait, satuan prosa adalah paragraf. Hubungan: jenis tulisan dan satuan penyusunnya."
+  },
+  {
+    "id": 50,
+    "soal": "SUNGAI : JEMBATAN = JURANG : ...",
+    "pilihan": ["A. Dalam", "B. Tebing", "C. Titian", "D. Lembah", "E. Berbahaya"],
+    "jawaban": "C",
+    "pembahasan": "Sungai dilintasi dengan jembatan, jurang dilintasi dengan titian. Hubungan: rintangan dan alat untuk melintasinya."
+  },
+  {
+    "id": 51,
+    "soal": "ASTRONOT : LUAR ANGKASA = PENYELAM : ...",
+    "pilihan": ["A. Ikan", "B. Laut dalam", "C. Kapal selam", "D. Oksigen", "E. Air"],
+    "jawaban": "B",
+    "pembahasan": "Astronot bertugas di luar angkasa, penyelam bertugas di laut dalam. Hubungan: profesi dan tempat bertugas."
+  },
+  {
+    "id": 52,
+    "soal": "MANIS : GULA = ASIN : ...",
+    "pilihan": ["A. Laut", "B. Garam", "C. Kecap", "D. Rasa", "E. Asin"],
+    "jawaban": "B",
+    "pembahasan": "Rasa manis identik dengan gula, rasa asin identik dengan garam. Hubungan: rasa dan sumbernya."
+  },
+  {
+    "id": 53,
+    "soal": "BOLA : TENDANG = PANAH : ...",
+    "pilihan": ["A. Busur", "B. Bidik", "C. Lesatkan", "D. Sasaran", "E. Memanah"],
+    "jawaban": "C",
+    "pembahasan": "Bola diperlakukan dengan ditendang, panah diperlakukan dengan dilesatkan. Hubungan: benda dan tindakan yang dilakukan padanya."
+  },
+  {
+    "id": 54,
+    "soal": "KUPU-KUPU : ULAT = KATAK : ...",
+    "pilihan": ["A. Kolam", "B. Cebong", "C. Berudu", "D. Amfibi", "E. Hijau"],
+    "jawaban": "C",
+    "pembahasan": "Kupu-kupu berasal dari ulat, katak berasal dari berudu. Hubungan: hewan dewasa dan bentuk larvanya."
+  },
+  {
+    "id": 55,
+    "soal": "RESEP : DOKTER = PUTUSAN : ...",
+    "pilihan": ["A. Jaksa", "B. Pengacara", "C. Hakim", "D. Hukum", "E. Pengadilan"],
+    "jawaban": "C",
+    "pembahasan": "Resep dibuat oleh dokter, putusan dibuat oleh hakim. Hubungan: produk dan pembuatnya."
+  },
+  {
+    "id": 56,
+    "soal": "PANTAI : PASIR = GUNUNG : ...",
+    "pilihan": ["A. Tinggi", "B. Salju", "C. Batu", "D. Hutan", "E. Dingin"],
+    "jawaban": "C",
+    "pembahasan": "Pantai identik dengan pasir, gunung identik dengan batu. Hubungan: tempat dan ciri khasnya."
+  },
+  {
+    "id": 57,
+    "soal": "PANAS : MEMBAKAR = DINGIN : ...",
+    "pilihan": ["A. Mendinginkan", "B. Membekukan", "C. Menyejukkan", "D. Mencairkan", "E. Menghilangkan"],
+    "jawaban": "B",
+    "pembahasan": "Panas menyebabkan membakar, dingin menyebabkan membekukan. Hubungan: kondisi dan akibatnya."
+  },
+  {
+    "id": 58,
+    "soal": "KAPAS : PUTIH = ARANG : ...",
+    "pilihan": ["A. Panas", "B. Hitam", "C. Abu", "D. Kayu", "E. Bakar"],
+    "jawaban": "B",
+    "pembahasan": "Kapas berwarna putih, arang berwarna hitam. Hubungan: benda dan warnanya."
+  },
+  {
+    "id": 59,
+    "soal": "KULIT : MANUSIA = SISIK : ...",
+    "pilihan": ["A. Ular", "B. Reptil", "C. Ikan", "D. Buaya", "E. Hewan"],
+    "jawaban": "C",
+    "pembahasan": "Kulit adalah penutup tubuh manusia, sisik adalah penutup tubuh ikan. Hubungan: pelindung tubuh dan hewan."
+  },
+  {
+    "id": 60,
+    "soal": "BELAJAR : PANDAI = BEKERJA : ...",
+    "pilihan": ["A. Uang", "B. Gaji", "C. Sukses", "D. Kantuk", "E. Lelah"],
+    "jawaban": "C",
+    "pembahasan": "Banyak belajar membuat pandai, banyak bekerja membuat sukses. Hubungan: sebab dan akibat."
+  },
+  {
+    "id": 61,
+    "soal": "TAKUT : BERANI = BODOH : ...",
+    "pilihan": ["A. Cerdas", "B. Belajar", "C. Sekolah", "D. Pintar", "E. Bijak"],
+    "jawaban": "D",
+    "pembahasan": "Takut berantonim dengan berani, bodoh berantonim dengan pintar. Hubungan: antonim."
+  },
+  {
+    "id": 62,
+    "soal": "PETA : WILAYAH = FOTO : ...",
+    "pilihan": ["A. Album", "B. Kamera", "C. Gambar", "D. Wajah", "E. Kenangan"],
+    "jawaban": "D",
+    "pembahasan": "Peta adalah representasi wilayah, foto adalah representasi wajah (objek). Hubungan: representasi dan objeknya."
+  },
+  {
+    "id": 63,
+    "soal": "BENIH : POHON = TELUR : ...",
+    "pilihan": ["A. Ayam", "B. Cangkang", "C. Dadar", "D. Kuning", "E. Menetas"],
+    "jawaban": "A",
+    "pembahasan": "Benih tumbuh menjadi pohon, telur menetas menjadi ayam. Hubungan: asal dan hasil perkembangan."
+  },
+  {
+    "id": 64,
+    "soal": "SAPI : SUSU = LEBAH : ...",
+    "pilihan": ["A. Sengat", "B. Sarang", "C. Madu", "D. Bunga", "E. Manis"],
+    "jawaban": "C",
+    "pembahasan": "Sapi menghasilkan susu, lebah menghasilkan madu. Hubungan: hewan dan produk yang dihasilkan."
+  },
+  {
+    "id": 65,
+    "soal": "KEPALA : RAMBUT = WAJAH : ...",
+    "pilihan": ["A. Cantik", "B. Hidung", "C. Kumis", "D. Mata", "E. Dahi"],
+    "jawaban": "C",
+    "pembahasan": "Rambut tumbuh di kepala, kumis tumbuh di wajah. Hubungan: bagian tubuh dan rambut yang tumbuh di sana."
+  },
+  {
+    "id": 66,
+    "soal": "EMAS : LOGAM MULIA = BERLIAN : ...",
+    "pilihan": ["A. Cincin", "B. Mahal", "C. Permata", "D. Tambang", "E. Keras"],
+    "jawaban": "C",
+    "pembahasan": "Emas termasuk logam mulia, berlian termasuk permata. Hubungan: benda dan kategorinya."
+  },
+  {
+    "id": 67,
+    "soal": "OPERASI : DOKTER = PEMBELAAN : ...",
+    "pilihan": ["A. Jaksa", "B. Hakim", "C. Pengacara", "D. Terdakwa", "E. Hukum"],
+    "jawaban": "C",
+    "pembahasan": "Operasi dilakukan dokter, pembelaan dilakukan pengacara. Hubungan: tindakan dan pelakunya."
+  },
+  {
+    "id": 68,
+    "soal": "BULAN : TAHUN = DETIK : ...",
+    "pilihan": ["A. Jam", "B. Menit", "C. Hari", "D. Waktu", "E. Sekon"],
+    "jawaban": "B",
+    "pembahasan": "Bulan adalah bagian dari tahun, detik adalah bagian dari menit. Hubungan: satuan waktu yang lebih kecil dari yang lebih besar."
+  },
+  {
+    "id": 69,
+    "soal": "NASI : LAPAR = OBAT : ...",
+    "pilihan": ["A. Dokter", "B. Apotek", "C. Sakit", "D. Sembuh", "E. Resep"],
+    "jawaban": "C",
+    "pembahasan": "Nasi dibutuhkan saat lapar, obat dibutuhkan saat sakit. Hubungan: solusi dan kondisi yang membutuhkan."
+  },
+  {
+    "id": 70,
+    "soal": "TENTARA : SENJATA = PETANI : ...",
+    "pilihan": ["A. Sawah", "B. Padi", "C. Cangkul", "D. Pupuk", "E. Traktor"],
+    "jawaban": "C",
+    "pembahasan": "Alat utama tentara adalah senjata, alat utama petani adalah cangkul. Hubungan: profesi dan alat utamanya."
+  },
+  {
+    "id": 71,
+    "soal": "SEMUT : KOLONI = SERIGALA : ...",
+    "pilihan": ["A. Hutan", "B. Kawanan", "C. Buas", "D. Liar", "E. Pemangsa"],
+    "jawaban": "B",
+    "pembahasan": "Semut hidup berkelompok dalam koloni, serigala hidup berkelompok dalam kawanan. Hubungan: hewan dan nama kelompoknya."
+  },
+  {
+    "id": 72,
+    "soal": "TIDUR : BANGUN = MATI : ...",
+    "pilihan": ["A. Hidup", "B. Terlahir", "C. Jiwa", "D. Nafas", "E. Sakit"],
+    "jawaban": "A",
+    "pembahasan": "Tidur berlawanan dengan bangun, mati berlawanan dengan hidup. Hubungan: antonim."
+  },
+  {
+    "id": 73,
+    "soal": "GARUDA : INDONESIA = MAPLE LEAF : ...",
+    "pilihan": ["A. Amerika Serikat", "B. Kanada", "C. Australia", "D. Inggris", "E. Belanda"],
+    "jawaban": "B",
+    "pembahasan": "Garuda adalah lambang Indonesia, Maple Leaf adalah lambang Kanada. Hubungan: lambang dan negaranya."
+  },
+  {
+    "id": 74,
+    "soal": "TERBIT : TERBENAM = SIANG : ...",
+    "pilihan": ["A. Subuh", "B. Petang", "C. Malam", "D. Sore", "E. Fajar"],
+    "jawaban": "C",
+    "pembahasan": "Terbit berlawanan dengan terbenam, siang berlawanan dengan malam. Hubungan: antonim."
+  },
+  {
+    "id": 75,
+    "soal": "APEL : POHON = ANGGUR : ...",
+    "pilihan": ["A. Kebun", "B. Rambat", "C. Buah", "D. Manis", "E. Ungu"],
+    "jawaban": "B",
+    "pembahasan": "Apel tumbuh di pohon, anggur tumbuh di rambat. Hubungan: buah dan tanaman asalnya."
+  },
+  {
+    "id": 76,
+    "soal": "POLISI : KEJAHATAN = DOKTER : ...",
+    "pilihan": ["A. Pasien", "B. Operasi", "C. Penyakit", "D. Obat", "E. Rumah sakit"],
+    "jawaban": "C",
+    "pembahasan": "Polisi memberantas kejahatan, dokter memberantas penyakit. Hubungan: profesi dan hal yang diperangi."
+  },
+  {
+    "id": 77,
+    "soal": "BESI : BERKARAT = KAYU : ...",
+    "pilihan": ["A. Keras", "B. Rapuh", "C. Lapuk", "D. Tua", "E. Rusak"],
+    "jawaban": "C",
+    "pembahasan": "Besi mengalami kerusakan dengan berkarat, kayu mengalami kerusakan dengan lapuk. Hubungan: benda dan proses kerusakannya."
+  },
+  {
+    "id": 78,
+    "soal": "OLIMPIADE : 4 TAHUN = PIALA DUNIA : ...",
+    "pilihan": ["A. 2 tahun", "B. 4 tahun", "C. 5 tahun", "D. 6 tahun", "E. 8 tahun"],
+    "jawaban": "B",
+    "pembahasan": "Olimpiade diadakan setiap 4 tahun, Piala Dunia juga diadakan setiap 4 tahun. Hubungan: event dan siklus penyelenggaraannya."
+  },
+  {
+    "id": 79,
+    "soal": "KERTAS : BUKU = BATU BATA : ...",
+    "pilihan": ["A. Semen", "B. Bangunan", "C. Rumah", "D. Tembok", "E. Pasir"],
+    "jawaban": "C",
+    "pembahasan": "Kertas disusun menjadi buku, batu bata disusun menjadi rumah. Hubungan: komponen dan hasil susunannya."
+  },
+  {
+    "id": 80,
+    "soal": "SUHU : TERMOMETER = BERAT : ...",
+    "pilihan": ["A. Kilogram", "B. Timbangan", "C. Neraca", "D. Gram", "E. Ukuran"],
+    "jawaban": "B",
+    "pembahasan": "Suhu diukur dengan termometer, berat diukur dengan timbangan. Hubungan: besaran dan alat ukurnya."
+  },
+  {
+    "id": 81,
+    "soal": "BUNGA : KUMBANG = BANGKAI : ...",
+    "pilihan": ["A. Mayat", "B. Lalat", "C. Busuk", "D. Bau", "E. Belatung"],
+    "jawaban": "B",
+    "pembahasan": "Bunga menarik kumbang, bangkai menarik lalat. Hubungan: objek dan hewan yang tertarik padanya."
+  },
+  {
+    "id": 82,
+    "soal": "KERAS : LUNAK = TEGAS : ...",
+    "pilihan": ["A. Lembut", "B. Keras", "C. Lemah", "D. Santai", "E. Ramah"],
+    "jawaban": "A",
+    "pembahasan": "Keras berantonim dengan lunak, tegas berantonim dengan lembut. Hubungan: antonim."
+  },
+  {
+    "id": 83,
+    "soal": "KAMBING : MENGEMBIK = SAPI : ...",
+    "pilihan": ["A. Ternak", "B. Melenguh", "C. Berbunyi", "D. Suara", "E. Menguak"],
+    "jawaban": "B",
+    "pembahasan": "Kambing berbunyi mengembik, sapi berbunyi melenguh. Hubungan: hewan dan suaranya."
+  },
+  {
+    "id": 84,
+    "soal": "KECIL : MINI = BESAR : ...",
+    "pilihan": ["A. Luas", "B. Raksasa", "C. Akbar", "D. Jumbo", "E. Tinggi"],
+    "jawaban": "C",
+    "pembahasan": "Kecil bersinonim dengan mini, besar bersinonim dengan akbar. Hubungan: sinonim."
+  },
+  {
+    "id": 85,
+    "soal": "PLANET : TATA SURYA = ATOM : ...",
+    "pilihan": ["A. Elektron", "B. Nukleus", "C. Molekul", "D. Materi", "E. Sains"],
+    "jawaban": "C",
+    "pembahasan": "Planet adalah bagian dari tata surya, atom adalah bagian dari molekul. Hubungan: bagian dan keseluruhan."
+  },
+  {
+    "id": 86,
+    "soal": "BUTA : MELIHAT = TULI : ...",
+    "pilihan": ["A. Bicara", "B. Mendengar", "C. Suara", "D. Telinga", "E. Bisu"],
+    "jawaban": "B",
+    "pembahasan": "Buta adalah ketidakmampuan melihat, tuli adalah ketidakmampuan mendengar. Hubungan: kondisi difabel dan indera yang terganggu."
+  },
+  {
+    "id": 87,
+    "soal": "KOKI : RESTORAN = GURU : ...",
+    "pilihan": ["A. Murid", "B. Pelajaran", "C. Sekolah", "D. Buku", "E. Mengajar"],
+    "jawaban": "C",
+    "pembahasan": "Koki bekerja di restoran, guru bekerja di sekolah. Hubungan: profesi dan tempat kerjanya."
+  },
+  {
+    "id": 88,
+    "soal": "BAJU : KAIN = SANDAL : ...",
+    "pilihan": ["A. Karet", "B. Alas kaki", "C. Kaki", "D. Sepatu", "E. Plastik"],
+    "jawaban": "A",
+    "pembahasan": "Bahan baku baju adalah kain, bahan baku sandal adalah karet. Hubungan: produk dan bahan bakunya."
+  },
+  {
+    "id": 89,
+    "soal": "SIANG : MATAHARI = MALAM : ...",
+    "pilihan": ["A. Bintang", "B. Bulan", "C. Gelap", "D. Tidur", "E. Lampu"],
+    "jawaban": "B",
+    "pembahasan": "Siang identik dengan matahari, malam identik dengan bulan. Hubungan: waktu dan benda langit yang muncul."
+  },
+  {
+    "id": 90,
+    "soal": "ANGKA : MATEMATIKA = NADA : ...",
+    "pilihan": ["A. Lagu", "B. Musik", "C. Seni", "D. Bunyi", "E. Suara"],
+    "jawaban": "B",
+    "pembahasan": "Angka adalah elemen dasar matematika, nada adalah elemen dasar musik. Hubungan: elemen dasar dan bidang ilmunya."
+  },
+  {
+    "id": 91,
+    "soal": "PAHIT : KOPI = ASAM : ...",
+    "pilihan": ["A. Jeruk", "B. Rasa", "C. Cuka", "D. Mangga", "E. Lemon"],
+    "jawaban": "A",
+    "pembahasan": "Kopi rasanya pahit, jeruk rasanya asam. Hubungan: minuman/buah dan rasanya."
+  },
+  {
+    "id": 92,
+    "soal": "PENGUASA : RAKYAT = GEMBALA : ...",
+    "pilihan": ["A. Kambing", "B. Padang", "C. Domba", "D. Kandang", "E. Ternak"],
+    "jawaban": "C",
+    "pembahasan": "Penguasa memimpin rakyat, gembala memimpin domba. Hubungan: pemimpin dan yang dipimpin."
+  },
+  {
+    "id": 93,
+    "soal": "GEDUNG : BANGUNAN = MAWAR : ...",
+    "pilihan": ["A. Harum", "B. Bunga", "C. Merah", "D. Taman", "E. Tumbuhan"],
+    "jawaban": "B",
+    "pembahasan": "Gedung adalah jenis bangunan, mawar adalah jenis bunga. Hubungan: khusus dan umum (hiponimsuperordinat)."
+  },
+  {
+    "id": 94,
+    "soal": "KIPAS : ANGIN = KOMPOR : ...",
+    "pilihan": ["A. Api", "B. Masak", "C. Panas", "D. Gas", "E. Dapur"],
+    "jawaban": "C",
+    "pembahasan": "Kipas menghasilkan angin, kompor menghasilkan panas. Hubungan: alat dan yang dihasilkan."
+  },
+  {
+    "id": 95,
+    "soal": "SIPUT : LAMBAT = CHEETAH : ...",
+    "pilihan": ["A. Besar", "B. Bintik", "C. Cepat", "D. Berburu", "E. Afrika"],
+    "jawaban": "C",
+    "pembahasan": "Siput dikenal karena lambat, cheetah dikenal karena cepat. Hubungan: hewan dan karakteristiknya."
+  },
+  {
+    "id": 96,
+    "soal": "RUGI : UNTUNG = KALAH : ...",
+    "pilihan": ["A. Juara", "B. Menang", "C. Bertanding", "D. Kuat", "E. Berhasil"],
+    "jawaban": "B",
+    "pembahasan": "Rugi berantonim dengan untung, kalah berantonim dengan menang. Hubungan: antonim."
+  },
+  {
+    "id": 97,
+    "soal": "KEMARAU : GERSANG = HUJAN : ...",
+    "pilihan": ["A. Basah", "B. Banjir", "C. Air", "D. Subur", "E. Lebat"],
+    "jawaban": "D",
+    "pembahasan": "Kemarau menyebabkan gersang, hujan menyebabkan subur. Hubungan: kondisi alam dan akibatnya."
+  },
+  {
+    "id": 98,
+    "soal": "LIDI : SAPU = KAWAT : ...",
+    "pilihan": ["A. Besi", "B. Pagar", "C. Listrik", "D. Keras", "E. Bengkok"],
+    "jawaban": "B",
+    "pembahasan": "Lidi disusun menjadi sapu, kawat disusun menjadi pagar. Hubungan: komponen dan hasil susunannya."
+  },
+  {
+    "id": 99,
+    "soal": "BUKU : PERPUSTAKAAN = OBAT : ...",
+    "pilihan": ["A. Dokter", "B. Apotek", "C. Resep", "D. Rumah sakit", "E. Farmasi"],
+    "jawaban": "B",
+    "pembahasan": "Buku disimpan di perpustakaan, obat dijual di apotek. Hubungan: benda dan tempat penyimpanannya."
+  },
+  {
+    "id": 100,
+    "soal": "MATAHARI : BUMI = BUMI : ...",
+    "pilihan": ["A. Planet", "B. Tata Surya", "C. Bulan", "D. Luar Angkasa", "E. Gravitasi"],
+    "jawaban": "C",
+    "pembahasan": "Bumi mengorbit matahari, bulan mengorbit bumi. Hubungan: benda langit yang diorbit dan yang mengorbit."
+  },
+  {
+    "id": 101,
+    "soal": "LAYU : SEGAR = KUSAM : ...",
+    "pilihan": ["A. Baru", "B. Bersih", "C. Cemerlang", "D. Mengkilap", "E. Indah"],
+    "jawaban": "C",
+    "pembahasan": "Layu berantonim dengan segar, kusam berantonim dengan cemerlang. Hubungan: antonim."
+  },
+  {
+    "id": 102,
+    "soal": "KAPAL : PELABUHAN = PESAWAT : ...",
+    "pilihan": ["A. Landasan", "B. Bandara", "C. Pilot", "D. Terbang", "E. Terminal"],
+    "jawaban": "B",
+    "pembahasan": "Kapal berlabuh di pelabuhan, pesawat mendarat di bandara. Hubungan: kendaraan dan tempat berlabuhnya."
+  },
+  {
+    "id": 103,
+    "soal": "TANGAN : BERJABAT = KEPALA : ...",
+    "pilihan": ["A. Berfikir", "B. Mengangguk", "C. Topi", "D. Rambut", "E. Otak"],
+    "jawaban": "B",
+    "pembahasan": "Tangan melakukan jabatan, kepala melakukan anggukan. Hubungan: anggota tubuh dan gerakan khasnya."
+  },
+  {
+    "id": 104,
+    "soal": "PANAS : BERKERINGAT = TAKUT : ...",
+    "pilihan": ["A. Gemetar", "B. Berlari", "C. Menangis", "D. Bersembunyi", "E. Berteriak"],
+    "jawaban": "A",
+    "pembahasan": "Panas menyebabkan berkeringat, takut menyebabkan gemetar. Hubungan: kondisi dan reaksi tubuh."
+  },
+  {
+    "id": 105,
+    "soal": "LEBAH : MADU = SUTRA : ...",
+    "pilihan": ["A. Ulat", "B. Kain", "C. Halus", "D. Kepompong", "E. Benang"],
+    "jawaban": "A",
+    "pembahasan": "Lebah menghasilkan madu, ulat menghasilkan sutra. Hubungan: hewan dan produk yang dihasilkan."
+  },
+  {
+    "id": 106,
+    "soal": "KERAS : BATU = LEMBUT : ...",
+    "pilihan": ["A. Bantal", "B. Kapas", "C. Kasur", "D. Kain", "E. Awan"],
+    "jawaban": "B",
+    "pembahasan": "Batu dikenal keras, kapas dikenal lembut. Hubungan: benda dan sifatnya."
+  },
+  {
+    "id": 107,
+    "soal": "DIREKTUR : PERUSAHAAN = REKTOR : ...",
+    "pilihan": ["A. Sekolah", "B. Kampus", "C. Universitas", "D. Pendidikan", "E. Akademik"],
+    "jawaban": "C",
+    "pembahasan": "Direktur memimpin perusahaan, rektor memimpin universitas. Hubungan: pemimpin dan lembaga yang dipimpin."
+  },
+  {
+    "id": 108,
+    "soal": "CELANA : KAKI = SARUNG TANGAN : ...",
+    "pilihan": ["A. Dingin", "B. Tangan", "C. Jari", "D. Hantu", "E. Kulit"],
+    "jawaban": "B",
+    "pembahasan": "Celana menutup kaki, sarung tangan menutup tangan. Hubungan: pakaian dan bagian tubuh yang ditutupi."
+  },
+  {
+    "id": 109,
+    "soal": "GITAR : DAWAI = DRUM : ...",
+    "pilihan": ["A. Stik", "B. Pukulan", "C. Membran", "D. Kayu", "E. Bunyi"],
+    "jawaban": "C",
+    "pembahasan": "Gitar menghasilkan suara dari dawai, drum menghasilkan suara dari membran. Hubungan: alat musik dan bagian penghasil suara."
+  },
+  {
+    "id": 110,
+    "soal": "LAUT : OMBAK = ANGIN : ...",
+    "pilihan": ["A. Kencang", "B. Badai", "C. Topan", "D. Turbulensi", "E. Hembusan"],
+    "jawaban": "B",
+    "pembahasan": "Laut yang kuat menghasilkan ombak, angin yang kuat menghasilkan badai. Hubungan: fenomena alam dan akibatnya."
+  },
+  {
+    "id": 111,
+    "soal": "AYAM : BERKOKOK = ANJING : ...",
+    "pilihan": ["A. Menggonggong", "B. Mengeong", "C. Menyalak", "D. Mendengkur", "E. Meraung"],
+    "jawaban": "A",
+    "pembahasan": "Ayam berbunyi berkokok, anjing berbunyi menggonggong. Hubungan: hewan dan suaranya."
+  },
+  {
+    "id": 112,
+    "soal": "SENDOK : MAKAN = PENSIL : ...",
+    "pilihan": ["A. Menggambar", "B. Menulis", "C. Belajar", "D. Sekolah", "E. Menghapus"],
+    "jawaban": "B",
+    "pembahasan": "Sendok digunakan untuk makan, pensil digunakan untuk menulis. Hubungan: alat dan kegunaannya."
+  },
+  {
+    "id": 113,
+    "soal": "KERAS : BATU = TAJAM : ...",
+    "pilihan": ["A. Besi", "B. Golok", "C. Pisau", "D. Silet", "E. Pedang"],
+    "jawaban": "D",
+    "pembahasan": "Batu identik dengan keras, silet identik dengan tajam. Hubungan: benda dan sifat ekstremnya."
+  },
+  {
+    "id": 114,
+    "soal": "MEMBACA : BUTA HURUF = BERJALAN : ...",
+    "pilihan": ["A. Berlari", "B. Duduk", "C. Lumpuh", "D. Lamban", "E. Malas"],
+    "jawaban": "C",
+    "pembahasan": "Buta huruf tidak bisa membaca, lumpuh tidak bisa berjalan. Hubungan: kegiatan dan kondisi yang menghalanginya."
+  },
+  {
+    "id": 115,
+    "soal": "JERUK : VITAMIN C = SUSU : ...",
+    "pilihan": ["A. Putih", "B. Kalsium", "C. Protein", "D. Sapi", "E. Cair"],
+    "jawaban": "B",
+    "pembahasan": "Jeruk kaya vitamin C, susu kaya kalsium. Hubungan: makanan dan kandungan nutrisi utamanya."
+  },
+  {
+    "id": 116,
+    "soal": "BENIH : PETANI = ILMU : ...",
+    "pilihan": ["A. Pelajar", "B. Buku", "C. Sekolah", "D. Guru", "E. Ujian"],
+    "jawaban": "D",
+    "pembahasan": "Benih disebarkan oleh petani, ilmu disebarkan oleh guru. Hubungan: hal yang disebarkan dan penyebarnya."
+  },
+  {
+    "id": 117,
+    "soal": "HUTAN : POHON = PERPUSTAKAAN : ...",
+    "pilihan": ["A. Buku", "B. Membaca", "C. Ilmu", "D. Rak", "E. Pustakawan"],
+    "jawaban": "A",
+    "pembahasan": "Hutan dipenuhi pohon, perpustakaan dipenuhi buku. Hubungan: tempat dan isinya."
+  },
+  {
+    "id": 118,
+    "soal": "JENDELA : CAHAYA = PINTU : ...",
+    "pilihan": ["A. Kayu", "B. Masuk", "C. Akses", "D. Kunci", "E. Rumah"],
+    "jawaban": "C",
+    "pembahasan": "Jendela berfungsi untuk masuknya cahaya, pintu berfungsi untuk akses keluar-masuk. Hubungan: bagian rumah dan fungsinya."
+  },
+  {
+    "id": 119,
+    "soal": "ARTIS : PANGGUNG = ATLET : ...",
+    "pilihan": ["A. Medali", "B. Stadion", "C. Latihan", "D. Olahraga", "E. Tim"],
+    "jawaban": "B",
+    "pembahasan": "Artis tampil di panggung, atlet bertanding di stadion. Hubungan: profesi dan tempat berkarya."
+  },
+  {
+    "id": 120,
+    "soal": "DINGIN : SELIMUT = PANAS : ...",
+    "pilihan": ["A. Kipas", "B. Matahari", "C. Api", "D. Terbakar", "E. Keringat"],
+    "jawaban": "A",
+    "pembahasan": "Dingin diatasi dengan selimut, panas diatasi dengan kipas. Hubungan: kondisi dan alat mengatasinya."
+  },
+  {
+    "id": 121,
+    "soal": "TANAH : MENANAM = AIR : ...",
+    "pilihan": ["A. Minum", "B. Kolam", "C. Irigasi", "D. Berenang", "E. Basah"],
+    "jawaban": "A",
+    "pembahasan": "Tanah adalah media menanam, air adalah media minum. Hubungan: media dan aktivitas padanya."
+  },
+  {
+    "id": 122,
+    "soal": "KURANG : LEBIH = MISKIN : ...",
+    "pilihan": ["A. Kaya", "B. Cukup", "C. Harta", "D. Mewah", "E. Mampu"],
+    "jawaban": "A",
+    "pembahasan": "Kurang berantonim dengan lebih, miskin berantonim dengan kaya. Hubungan: antonim."
+  },
+  {
+    "id": 123,
+    "soal": "KAKI : SEPAK BOLA = TANGAN : ...",
+    "pilihan": ["A. Tinju", "B. Bola basket", "C. Tenis meja", "D. Voli", "E. Berenang"],
+    "jawaban": "A",
+    "pembahasan": "Sepak bola menggunakan kaki, tinju menggunakan tangan. Hubungan: anggota tubuh dan cabang olahraga."
+  },
+  {
+    "id": 124,
+    "soal": "PENYAIR : PUISI = PELUKIS : ...",
+    "pilihan": ["A. Kuas", "B. Kanvas", "C. Lukisan", "D. Seni", "E. Galeri"],
+    "jawaban": "C",
+    "pembahasan": "Penyair menghasilkan puisi, pelukis menghasilkan lukisan. Hubungan: seniman dan karya yang dihasilkan."
+  },
+  {
+    "id": 125,
+    "soal": "HITAM : PUTIH = UTARA : ...",
+    "pilihan": ["A. Selatan", "B. Timur", "C. Barat", "D. Kiri", "E. Peta"],
+    "jawaban": "A",
+    "pembahasan": "Hitam berantonim dengan putih, utara berantonim dengan selatan. Hubungan: antonim."
+  },
+  {
+    "id": 126,
+    "soal": "BIOLOGI : MAKHLUK HIDUP = GEOLOGI : ...",
+    "pilihan": ["A. Bumi", "B. Mineral", "C. Batuan", "D. Tanah", "E. Gunung"],
+    "jawaban": "C",
+    "pembahasan": "Biologi mempelajari makhluk hidup, geologi mempelajari batuan. Hubungan: ilmu dan objek kajiannya."
+  },
+  {
+    "id": 127,
+    "soal": "PENJARA : NARAPIDANA = RUMAH SAKIT : ...",
+    "pilihan": ["A. Dokter", "B. Pasien", "C. Perawat", "D. Obat", "E. Penyakit"],
+    "jawaban": "B",
+    "pembahasan": "Penjara dihuni narapidana, rumah sakit dihuni pasien. Hubungan: tempat dan penghuninya."
+  },
+  {
+    "id": 128,
+    "soal": "PAMAN : KEPONAKAN = KAKEK : ...",
+    "pilihan": ["A. Nenek", "B. Cucu", "C. Anak", "D. Ayah", "E. Keluarga"],
+    "jawaban": "B",
+    "pembahasan": "Paman memiliki hubungan dengan keponakan, kakek memiliki hubungan dengan cucu. Hubungan: relasi keluarga."
+  },
+  {
+    "id": 129,
+    "soal": "AWAN : HUJAN = BIJI : ...",
+    "pilihan": ["A. Pohon", "B. Buah", "C. Tumbuh", "D. Tanah", "E. Tumbuhan"],
+    "jawaban": "A",
+    "pembahasan": "Awan menghasilkan hujan, biji menghasilkan pohon. Hubungan: sumber dan hasil yang dihasilkan."
+  },
+  {
+    "id": 130,
+    "soal": "KERAS : MEMILIKI PENDIRIAN = LUNAK : ...",
+    "pilihan": ["A. Lembut", "B. Penurut", "C. Mudah dipengaruhi", "D. Ramah", "E. Baik hati"],
+    "jawaban": "C",
+    "pembahasan": "Keras berarti memiliki pendirian kuat, lunak berarti mudah dipengaruhi. Hubungan: sifat dan maknanya."
+  },
+  {
+    "id": 131,
+    "soal": "KULIT : JERUK = CANGKANG : ...",
+    "pilihan": ["A. Siput", "B. Telur", "C. Batu", "D. Kura-kura", "E. Keong"],
+    "jawaban": "B",
+    "pembahasan": "Kulit adalah lapisan luar jeruk, cangkang adalah lapisan luar telur. Hubungan: pelapis luar dan benda di dalamnya."
+  },
+  {
+    "id": 132,
+    "soal": "AKAR : TANAH = JANGKAR : ...",
+    "pilihan": ["A. Kapal", "B. Laut", "C. Besi", "D. Dasar laut", "E. Pelabuhan"],
+    "jawaban": "D",
+    "pembahasan": "Akar mencengkeram tanah, jangkar mencengkeram dasar laut. Hubungan: alat pengikat dan yang dicengkeram."
+  },
+  {
+    "id": 133,
+    "soal": "PELANGI : HUJAN = BAYANG-BAYANG : ...",
+    "pilihan": ["A. Gelap", "B. Malam", "C. Cahaya", "D. Matahari", "E. Sinar"],
+    "jawaban": "C",
+    "pembahasan": "Pelangi terbentuk setelah hujan, bayang-bayang terbentuk karena cahaya. Hubungan: fenomena dan penyebabnya."
+  },
+  {
+    "id": 134,
+    "soal": "PRESIDEN : NEGARA = KEPALA KELUARGA : ...",
+    "pilihan": ["A. Ibu", "B. Anak", "C. Keluarga", "D. Ayah", "E. Rumah"],
+    "jawaban": "C",
+    "pembahasan": "Presiden memimpin negara, kepala keluarga memimpin keluarga. Hubungan: pemimpin dan yang dipimpin."
+  },
+  {
+    "id": 135,
+    "soal": "KURANG TIDUR : MENGANTUK = KURANG MAKAN : ...",
+    "pilihan": ["A. Lapar", "B. Kurus", "C. Lemas", "D. Kelaparan", "E. Diet"],
+    "jawaban": "A",
+    "pembahasan": "Kurang tidur menyebabkan mengantuk, kurang makan menyebabkan lapar. Hubungan: sebab dan akibat."
+  },
+  {
+    "id": 136,
+    "soal": "KUMIS : KUCING = BELALAI : ...",
+    "pilihan": ["A. Gajah", "B. Badak", "C. Kuda nil", "D. Tapir", "E. Beruang"],
+    "jawaban": "A",
+    "pembahasan": "Kumis adalah ciri khas kucing, belalai adalah ciri khas gajah. Hubungan: ciri khas fisik dan hewannya."
+  },
+  {
+    "id": 137,
+    "soal": "TERTAWA : LUCU = MENANGIS : ...",
+    "pilihan": ["A. Air mata", "B. Sedih", "C. Terisak", "D. Kesal", "E. Menderita"],
+    "jawaban": "B",
+    "pembahasan": "Tertawa dipicu oleh sesuatu yang lucu, menangis dipicu oleh sesuatu yang sedih. Hubungan: ekspresi dan penyebabnya."
+  },
+  {
+    "id": 138,
+    "soal": "EMAS : CINCIN = KULIT : ...",
+    "pilihan": ["A. Sapi", "B. Tas", "C. Sepatu", "D. Jaket", "E. Dompet"],
+    "jawaban": "B",
+    "pembahasan": "Emas adalah bahan baku cincin, kulit adalah bahan baku tas. Hubungan: bahan dan produk yang dibuat."
+  },
+  {
+    "id": 139,
+    "soal": "PUNCAK : LEMBAH = LANGIT : ...",
+    "pilihan": ["A. Bumi", "B. Awan", "C. Bintang", "D. Udara", "E. Tanah"],
+    "jawaban": "A",
+    "pembahasan": "Puncak berantonim dengan lembah, langit berantonim dengan bumi. Hubungan: antonim."
+  },
+  {
+    "id": 140,
+    "soal": "PENSIL : MENGGAMBAR = KALKULATOR : ...",
+    "pilihan": ["A. Angka", "B. Menghitung", "C. Matematika", "D. Ilmu", "E. Baterai"],
+    "jawaban": "B",
+    "pembahasan": "Pensil digunakan untuk menggambar, kalkulator digunakan untuk menghitung. Hubungan: alat dan kegunaannya."
+  },
+  {
+    "id": 141,
+    "soal": "OMBAK : ANGIN = ASAP : ...",
+    "pilihan": ["A. Abu", "B. Api", "C. Udara", "D. Rokok", "E. Cerobong"],
+    "jawaban": "B",
+    "pembahasan": "Ombak disebabkan oleh angin, asap disebabkan oleh api. Hubungan: akibat dan penyebabnya."
+  },
+  {
+    "id": 142,
+    "soal": "KENDARAAN : MOBIL = BUAH : ...",
+    "pilihan": ["A. Segar", "B. Manis", "C. Mangga", "D. Buah-buahan", "E. Pohon"],
+    "jawaban": "C",
+    "pembahasan": "Mobil adalah salah satu jenis kendaraan, mangga adalah salah satu jenis buah. Hubungan: umum dan khusus."
+  },
+  {
+    "id": 143,
+    "soal": "JANTUNG : MEMOMPA DARAH = PARU-PARU : ...",
+    "pilihan": ["A. Pernapasan", "B. Menghirup udara", "C. Oksigen", "D. Bernapas", "E. Udara"],
+    "jawaban": "D",
+    "pembahasan": "Jantung berfungsi memompa darah, paru-paru berfungsi untuk bernapas. Hubungan: organ dan fungsinya."
+  },
+  {
+    "id": 144,
+    "soal": "MAJU : MUNDUR = EKSPOR : ...",
+    "pilihan": ["A. Perdagangan", "B. Barang", "C. Impor", "D. Luar negeri", "E. Devisa"],
+    "jawaban": "C",
+    "pembahasan": "Maju berantonim dengan mundur, ekspor berantonim dengan impor. Hubungan: antonim."
+  },
+  {
+    "id": 145,
+    "soal": "LEBAH : SARANG = BURUNG : ...",
+    "pilihan": ["A. Terbang", "B. Sangkar", "C. Sarang", "D. Pohon", "E. Bulu"],
+    "jawaban": "C",
+    "pembahasan": "Lebah tinggal di sarang, burung juga tinggal di sarang. Hubungan: hewan dan tempat tinggalnya."
+  },
+  {
+    "id": 146,
+    "soal": "WAJIB : HARUS = BOLEH : ...",
+    "pilihan": ["A. Mau", "B. Diizinkan", "C. Bebas", "D. Permisi", "E. Tidak dilarang"],
+    "jawaban": "B",
+    "pembahasan": "Wajib bersinonim dengan harus, boleh bersinonim dengan diizinkan. Hubungan: sinonim."
+  },
+  {
+    "id": 147,
+    "soal": "BERENANG : KOLAM = MENDAKI : ...",
+    "pilihan": ["A. Gunung", "B. Tali", "C. Sepatu", "D. Bukit", "E. Hutan"],
+    "jawaban": "A",
+    "pembahasan": "Berenang dilakukan di kolam, mendaki dilakukan di gunung. Hubungan: aktivitas dan tempat melakukannya."
+  },
+  {
+    "id": 148,
+    "soal": "JANGKRIK : MENGERIK = KATAK : ...",
+    "pilihan": ["A. Melompat", "B. Menggoak", "C. Bersuara", "D. Bernyanyi", "E. Mengerang"],
+    "jawaban": "B",
+    "pembahasan": "Jangkrik berbunyi mengerik, katak berbunyi menggoak. Hubungan: hewan dan suaranya."
+  },
+  {
+    "id": 149,
+    "soal": "BATU : KERIKIL = GUNUNG : ...",
+    "pilihan": ["A. Tinggi", "B. Bukit", "C. Puncak", "D. Hutan", "E. Besar"],
+    "jawaban": "B",
+    "pembahasan": "Kerikil adalah versi kecil dari batu, bukit adalah versi kecil dari gunung. Hubungan: benda besar dan versi kecilnya."
+  },
+  {
+    "id": 150,
+    "soal": "WARTAWAN : BERITA = ILMUWAN : ...",
+    "pilihan": ["A. Laboratorium", "B. Penelitian", "C. Penemuan", "D. Jurnal", "E. Hipotesis"],
+    "jawaban": "C",
+    "pembahasan": "Wartawan menghasilkan berita, ilmuwan menghasilkan penemuan. Hubungan: profesi dan hasil kerjanya."
+  },
+  {
+    "id": 151,
+    "soal": "PANAS : MENCAIR = DINGIN : ...",
+    "pilihan": ["A. Beku", "B. Membeku", "C. Es", "D. Salju", "E. Sejuk"],
+    "jawaban": "B",
+    "pembahasan": "Panas menyebabkan mencair, dingin menyebabkan membeku. Hubungan: suhu dan perubahan wujud."
+  },
+  {
+    "id": 152,
+    "soal": "ANAK : AYAH = MURID : ...",
+    "pilihan": ["A. Sekolah", "B. Buku", "C. Guru", "D. Belajar", "E. Kelas"],
+    "jawaban": "C",
+    "pembahasan": "Anak dibimbing oleh ayah, murid dibimbing oleh guru. Hubungan: yang dibimbing dan pembimbingnya."
+  },
+  {
+    "id": 153,
+    "soal": "BOLA LAMPU : LISTRIK = LILIN : ...",
+    "pilihan": ["A. Api", "B. Wax", "C. Cahaya", "D. Parafin", "E. Malam"],
+    "jawaban": "A",
+    "pembahasan": "Bola lampu membutuhkan listrik, lilin membutuhkan api untuk menyala. Hubungan: sumber cahaya dan energi yang diperlukan."
+  },
+  {
+    "id": 154,
+    "soal": "JARI : CINCIN = LEHER : ...",
+    "pilihan": ["A. Kalung", "B. Dasi", "C. Kerah", "D. Anting", "E. Gelang"],
+    "jawaban": "A",
+    "pembahasan": "Cincin dipakai di jari, kalung dipakai di leher. Hubungan: perhiasan dan tempat memakainya."
+  },
+  {
+    "id": 155,
+    "soal": "ULAT : KEPOMPONG = KEPOMPONG : ...",
+    "pilihan": ["A. Larva", "B. Kupu-kupu", "C. Terbang", "D. Sayap", "E. Metamorfosis"],
+    "jawaban": "B",
+    "pembahasan": "Ulat berubah menjadi kepompong, kepompong berubah menjadi kupu-kupu. Hubungan: urutan metamorfosis."
+  },
+  {
+    "id": 156,
+    "soal": "HAUS : MINUM = CAPEK : ...",
+    "pilihan": ["A. Tidur", "B. Istirahat", "C. Duduk", "D. Makan", "E. Berbaring"],
+    "jawaban": "B",
+    "pembahasan": "Haus diatasi dengan minum, capek diatasi dengan istirahat. Hubungan: kondisi dan cara mengatasinya."
+  },
+  {
+    "id": 157,
+    "soal": "TULANG : KALSIUM = OTOT : ...",
+    "pilihan": ["A. Protein", "B. Zat besi", "C. Magnesium", "D. Vitamin", "E. Mineral"],
+    "jawaban": "A",
+    "pembahasan": "Tulang membutuhkan kalsium, otot membutuhkan protein untuk tumbuh kuat. Hubungan: organ dan nutrisi utama yang dibutuhkan."
+  },
+  {
+    "id": 158,
+    "soal": "KERATON : SULTAN = ISTANA : ...",
+    "pilihan": ["A. Megah", "B. Presiden", "C. Kerajaan", "D. Jakarta", "E. Negara"],
+    "jawaban": "B",
+    "pembahasan": "Keraton adalah kediaman sultan, istana adalah kediaman presiden. Hubungan: tempat tinggal dan penghuninya."
+  },
+  {
+    "id": 159,
+    "soal": "SENIN : MINGGU = JANUARI : ...",
+    "pilihan": ["A. Desember", "B. Februari", "C. Tahun", "D. Hari", "E. Kalender"],
+    "jawaban": "A",
+    "pembahasan": "Senin adalah hari pertama, Minggu adalah hari terakhir dalam seminggu. Januari adalah bulan pertama, Desember adalah bulan terakhir dalam setahun."
+  },
+  {
+    "id": 160,
+    "soal": "PENYAKIT : OBAT = MASALAH : ...",
+    "pilihan": ["A. Solusi", "B. Pikiran", "C. Stres", "D. Ujian", "E. Bantuan"],
+    "jawaban": "A",
+    "pembahasan": "Penyakit dipecahkan dengan obat, masalah dipecahkan dengan solusi. Hubungan: persoalan dan pemecahannya."
+  },
+  {
+    "id": 161,
+    "soal": "BERUANG : HIBERNASI = BURUNG : ...",
+    "pilihan": ["A. Terbang", "B. Bermigrasi", "C. Berkicau", "D. Bersarang", "E. Bertelur"],
+    "jawaban": "B",
+    "pembahasan": "Beruang melakukan hibernasi di musim dingin, burung melakukan migrasi. Hubungan: hewan dan perilaku khasnya."
+  },
+  {
+    "id": 162,
+    "soal": "LOGAM : MELEBUR = KAYU : ...",
+    "pilihan": ["A. Terbakar", "B. Mengeras", "C. Membusuk", "D. Terpotong", "E. Lapuk"],
+    "jawaban": "A",
+    "pembahasan": "Logam dipanaskan akan melebur, kayu dipanaskan akan terbakar. Hubungan: bahan dan perubahan saat dipanaskan."
+  },
+  {
+    "id": 163,
+    "soal": "KUAT : RAPUH = TAHAN LAMA : ...",
+    "pilihan": ["A. Baru", "B. Cepat rusak", "C. Murah", "D. Lemah", "E. Tipis"],
+    "jawaban": "B",
+    "pembahasan": "Kuat berantonim dengan rapuh, tahan lama berantonim dengan cepat rusak. Hubungan: antonim."
+  },
+  {
+    "id": 164,
+    "soal": "KEBUN BINATANG : HEWAN = MUSEUM : ...",
+    "pilihan": ["A. Seni", "B. Pengunjung", "C. Koleksi benda bersejarah", "D. Arkeolog", "E. Sejarah"],
+    "jawaban": "C",
+    "pembahasan": "Kebun binatang menyimpan hewan, museum menyimpan koleksi benda bersejarah. Hubungan: tempat dan isinya."
+  },
+  {
+    "id": 165,
+    "soal": "BESI : MAGNET = BESI : ...",
+    "pilihan": ["A. Api", "B. Karat", "C. Baja", "D. Keras", "E. Logam"],
+    "jawaban": "B",
+    "pembahasan": "Besi dapat ditarik magnet dan besi dapat berkarat. Hubungan: benda dan sifat fisiknya."
+  },
+  {
+    "id": 166,
+    "soal": "ANGIN : KENCANG = AIR : ...",
+    "pilihan": ["A. Deras", "B. Banyak", "C. Banjir", "D. Basah", "E. Melimpah"],
+    "jawaban": "A",
+    "pembahasan": "Angin dengan intensitas tinggi disebut kencang, air dengan intensitas tinggi disebut deras. Hubungan: fenomena dan deskripsi intensitasnya."
+  },
+  {
+    "id": 167,
+    "soal": "PEMADAM KEBAKARAN : API = SATPAM : ...",
+    "pilihan": ["A. Senjata", "B. Keamanan", "C. Pencuri", "D. Gedung", "E. Malam"],
+    "jawaban": "C",
+    "pembahasan": "Pemadam kebakaran menghadapi api, satpam menghadapi pencuri. Hubungan: profesi dan hal yang dihadapi."
+  },
+  {
+    "id": 168,
+    "soal": "RODA : BERPUTAR = BALING-BALING : ...",
+    "pilihan": ["A. Terbang", "B. Berputar", "C. Angin", "D. Helikopter", "E. Cepat"],
+    "jawaban": "B",
+    "pembahasan": "Roda bergerak dengan berputar, baling-baling juga bergerak dengan berputar. Hubungan: benda dan cara geraknya."
+  },
+  {
+    "id": 169,
+    "soal": "LANGIT : BIRU = DARAH : ...",
+    "pilihan": ["A. Segar", "B. Merah", "C. Cair", "D. Tubuh", "E. Panas"],
+    "jawaban": "B",
+    "pembahasan": "Langit berwarna biru, darah berwarna merah. Hubungan: benda dan warnanya."
+  },
+  {
+    "id": 170,
+    "soal": "SURAT : AMPLOP = KADO : ...",
+    "pilihan": ["A. Hadiah", "B. Pita", "C. Bungkus kado", "D. Kotak", "E. Karton"],
+    "jawaban": "C",
+    "pembahasan": "Surat dimasukkan ke dalam amplop, kado dibungkus dengan bungkus kado. Hubungan: isi dan pembungkusnya."
+  },
+  {
+    "id": 171,
+    "soal": "SUMBER : MUARA = LAHIR : ...",
+    "pilihan": ["A. Tua", "B. Meninggal", "C. Hidup", "D. Berkembang", "E. Dewasa"],
+    "jawaban": "B",
+    "pembahasan": "Sumber adalah awal sungai, muara adalah akhir sungai. Lahir adalah awal kehidupan, meninggal adalah akhir kehidupan. Hubungan: titik awal dan titik akhir."
+  },
+  {
+    "id": 172,
+    "soal": "PASIR : PANTAI = LUMPUR : ...",
+    "pilihan": ["A. Kotor", "B. Sawah", "C. Rawa", "D. Basah", "E. Sungai"],
+    "jawaban": "C",
+    "pembahasan": "Pasir identik dengan pantai, lumpur identik dengan rawa. Hubungan: material dan tempat khasnya."
+  },
+  {
+    "id": 173,
+    "soal": "KOMPUTER : MEMPROSES DATA = KULKAS : ...",
+    "pilihan": ["A. Listrik", "B. Mendinginkan makanan", "C. Menyimpan", "D. Beku", "E. Masak"],
+    "jawaban": "B",
+    "pembahasan": "Komputer berfungsi memproses data, kulkas berfungsi mendinginkan makanan. Hubungan: alat dan fungsinya."
+  },
+  {
+    "id": 174,
+    "soal": "DARAT : KAPAL = UDARA : ...",
+    "pilihan": ["A. Langit", "B. Pesawat", "C. Roket", "D. Awan", "E. Terbang"],
+    "jawaban": "B",
+    "pembahasan": "Kapal digunakan di jalur darat (sungai) dan laut, pesawat digunakan di jalur udara. Hubungan: jalur dan kendaraan yang digunakan."
+  },
+  {
+    "id": 175,
+    "soal": "LEMAS : MAKAN = MENGANTUK : ...",
+    "pilihan": ["A. Minum kopi", "B. Tidur", "C. Istirahat", "D. Santai", "E. Berbaring"],
+    "jawaban": "B",
+    "pembahasan": "Lemas diatasi dengan makan, mengantuk diatasi dengan tidur. Hubungan: kondisi dan cara mengatasinya."
+  },
+  {
+    "id": 176,
+    "soal": "KEBERANIAN : PENGECUT = KEBAIKAN : ...",
+    "pilihan": ["A. Jahat", "B. Kejahatan", "C. Keburukan", "D. Nakal", "E. Dosa"],
+    "jawaban": "C",
+    "pembahasan": "Keberanian berantonim dengan kepengecutan/pengecut, kebaikan berantonim dengan keburukan. Hubungan: antonim."
+  },
+  {
+    "id": 177,
+    "soal": "RUSA : TANDUK = KERBAU : ...",
+    "pilihan": ["A. Besar", "B. Hitam", "C. Tanduk", "D. Kuat", "E. Bajak"],
+    "jawaban": "C",
+    "pembahasan": "Rusa memiliki tanduk, kerbau juga memiliki tanduk. Hubungan: hewan dan ciri fisik yang sama."
+  },
+  {
+    "id": 178,
+    "soal": "ENERGI : BATERAI = TENAGA : ...",
+    "pilihan": ["A. Listrik", "B. Makanan", "C. Olahraga", "D. Bensin", "E. Motor"],
+    "jawaban": "B",
+    "pembahasan": "Energi disimpan dalam baterai, tenaga (untuk tubuh) diperoleh dari makanan. Hubungan: daya dan sumbernya."
+  },
+  {
+    "id": 179,
+    "soal": "KATA : KAMUS = PETA : ...",
+    "pilihan": ["A. Lokasi", "B. Atlas", "C. Navigasi", "D. Kompas", "E. Wilayah"],
+    "jawaban": "B",
+    "pembahasan": "Kata-kata dikumpulkan dalam kamus, peta-peta dikumpulkan dalam atlas. Hubungan: unit dan kumpulannya."
+  },
+  {
+    "id": 180,
+    "soal": "SAKIT : SEMBUH = KONFLIK : ...",
+    "pilihan": ["A. Damai", "B. Selesai", "C. Perang", "D. Musuh", "E. Perdamaian"],
+    "jawaban": "A",
+    "pembahasan": "Sakit kondisi awal, sembuh kondisi akhir yang diharapkan. Konflik kondisi awal, damai kondisi akhir yang diharapkan. Hubungan: masalah dan penyelesaiannya."
+  },
+  {
+    "id": 181,
+    "soal": "ASTRONOMI : BINTANG = ENTOMOLOGI : ...",
+    "pilihan": ["A. Reptil", "B. Serangga", "C. Tumbuhan", "D. Fosil", "E. Virus"],
+    "jawaban": "B",
+    "pembahasan": "Astronomi mempelajari bintang, entomologi mempelajari serangga. Hubungan: ilmu dan objek kajiannya."
+  },
+  {
+    "id": 182,
+    "soal": "KUCING : MENCAKAR = LEBAH : ...",
+    "pilihan": ["A. Terbang", "B. Menyengat", "C. Menggigit", "D. Madu", "E. Sarang"],
+    "jawaban": "B",
+    "pembahasan": "Kucing menyerang dengan mencakar, lebah menyerang dengan menyengat. Hubungan: hewan dan cara menyerangnya."
+  },
+  {
+    "id": 183,
+    "soal": "BAJU : LEMARI = MOBIL : ...",
+    "pilihan": ["A. Jalan", "B. Garasi", "C. Parkir", "D. Bengkel", "E. Dealer"],
+    "jawaban": "B",
+    "pembahasan": "Baju disimpan di lemari, mobil disimpan di garasi. Hubungan: benda dan tempat menyimpannya."
+  },
+  {
+    "id": 184,
+    "soal": "PENJUAL : PEMBELI = GURU : ...",
+    "pilihan": ["A. Sekolah", "B. Mengajar", "C. Murid", "D. Ilmu", "E. Buku"],
+    "jawaban": "C",
+    "pembahasan": "Penjual berinteraksi dengan pembeli, guru berinteraksi dengan murid. Hubungan: dua pihak yang saling berinteraksi."
+  },
+  {
+    "id": 185,
+    "soal": "LAUTAN : OMBAK = GURUN : ...",
+    "pilihan": ["A. Panas", "B. Pasir bergelombang", "C. Kering", "D. Unta", "E. Badai pasir"],
+    "jawaban": "B",
+    "pembahasan": "Lautan memiliki ombak, gurun memiliki pasir bergelombang (bukit pasir). Hubungan: bentang alam dan ciri khasnya."
+  },
+  {
+    "id": 186,
+    "soal": "PAKU : PALU = SEKRUP : ...",
+    "pilihan": ["A. Baut", "B. Obeng", "C. Kunci", "D. Besi", "E. Pasang"],
+    "jawaban": "B",
+    "pembahasan": "Paku dipasang menggunakan palu, sekrup dipasang menggunakan obeng. Hubungan: benda dan alat untuk memasangnya."
+  },
+  {
+    "id": 187,
+    "soal": "BUKU HARIAN : RAHASIA = SURAT KABAR : ...",
+    "pilihan": ["A. Berita", "B. Publik", "C. Wartawan", "D. Informasi", "E. Cetak"],
+    "jawaban": "B",
+    "pembahasan": "Buku harian bersifat rahasia (privat), surat kabar bersifat publik. Hubungan: media dan sifat informasinya."
+  },
+  {
+    "id": 188,
+    "soal": "PAHLAWAN : PENJAJAH = PEMBELA : ...",
+    "pilihan": ["A. Pengacara", "B. Penuntut", "C. Hakim", "D. Jaksa", "E. Terdakwa"],
+    "jawaban": "D",
+    "pembahasan": "Pahlawan berlawanan dengan penjajah, pembela berlawanan dengan jaksa (penuntut). Hubungan: pihak yang berlawanan."
+  },
+  {
+    "id": 189,
+    "soal": "KUNCI : GEMBOK = SANDI : ...",
+    "pilihan": ["A. Kata", "B. Rahasia", "C. Enkripsi", "D. Akun", "E. Masuk"],
+    "jawaban": "D",
+    "pembahasan": "Kunci digunakan untuk membuka gembok, sandi digunakan untuk membuka akun. Hubungan: alat membuka dan yang dibuka."
+  },
+  {
+    "id": 190,
+    "soal": "KARANG : LAUT = BATU : ...",
+    "pilihan": ["A. Sungai", "B. Gunung", "C. Keras", "D. Kerikil", "E. Tanah"],
+    "jawaban": "B",
+    "pembahasan": "Karang ditemukan di laut, batu ditemukan di gunung. Hubungan: benda dan tempat khasnya."
+  },
+  {
+    "id": 191,
+    "soal": "CERITA PENDEK : PROSA = PANTUN : ...",
+    "pilihan": ["A. Sajak", "B. Puisi", "C. Syair", "D. Bait", "E. Rima"],
+    "jawaban": "B",
+    "pembahasan": "Cerita pendek adalah salah satu jenis prosa, pantun adalah salah satu jenis puisi. Hubungan: khusus dan umum."
+  },
+  {
+    "id": 192,
+    "soal": "BERLIAN : KERAS = KAPAS : ...",
+    "pilihan": ["A. Putih", "B. Ringan", "C. Lembut", "D. Tipis", "E. Halus"],
+    "jawaban": "C",
+    "pembahasan": "Berlian dikenal sebagai benda terkeras, kapas dikenal sebagai benda terlembut. Hubungan: benda dan sifat ekstremnya."
+  },
+  {
+    "id": 193,
+    "soal": "KESEHATAN : OLAHRAGA = KECERDASAN : ...",
+    "pilihan": ["A. Sekolah", "B. Buku", "C. Belajar", "D. Guru", "E. Ujian"],
+    "jawaban": "C",
+    "pembahasan": "Kesehatan dijaga dengan olahraga, kecerdasan dijaga dengan belajar. Hubungan: kondisi dan cara mempertahankannya."
+  },
+  {
+    "id": 194,
+    "soal": "TIKUS : KUCING = KELINCI : ...",
+    "pilihan": ["A. Rubah", "B. Serigala", "C. Elang", "D. Harimau", "E. Anjing"],
+    "jawaban": "A",
+    "pembahasan": "Tikus adalah mangsa kucing, kelinci adalah mangsa rubah. Hubungan: mangsa dan pemangsa."
+  },
+  {
+    "id": 195,
+    "soal": "PISANG : KULITNYA = UDANG : ...",
+    "pilihan": ["A. Laut", "B. Cangkangnya", "C. Sungai", "D. Rebus", "E. Ekornya"],
+    "jawaban": "B",
+    "pembahasan": "Pisang memiliki kulit (yang dikupas), udang memiliki cangkang (yang dikupas). Hubungan: bahan makanan dan lapisan luarnya."
+  },
+  {
+    "id": 196,
+    "soal": "IKAN : BERENANG = ULAR : ...",
+    "pilihan": ["A. Berbisa", "B. Melata", "C. Merayap", "D. Membelit", "E. Bergerak"],
+    "jawaban": "B",
+    "pembahasan": "Ikan bergerak dengan berenang, ular bergerak dengan melata. Hubungan: hewan dan cara bergeraknya."
+  },
+  {
+    "id": 197,
+    "soal": "COKELAT : KAKAO = TEH : ...",
+    "pilihan": ["A. Daun", "B. Panas", "C. Manis", "D. Daun teh", "E. Minuman"],
+    "jawaban": "D",
+    "pembahasan": "Cokelat dibuat dari kakao, teh dibuat dari daun teh. Hubungan: produk dan bahan asalnya."
+  },
+  {
+    "id": 198,
+    "soal": "GEMPA : RICHTER = SUARA : ...",
+    "pilihan": ["A. Decibel", "B. Hertz", "C. Watt", "D. Frekuensi", "E. Gelombang"],
+    "jawaban": "A",
+    "pembahasan": "Gempa diukur dengan skala Richter, suara diukur dengan satuan Decibel. Hubungan: fenomena dan satuan ukurnya."
+  },
+  {
+    "id": 199,
+    "soal": "MENTEGA : ROTI = SAMBAL : ...",
+    "pilihan": ["A. Pedas", "B. Nasi", "C. Cabai", "D. Makan", "E. Piring"],
+    "jawaban": "B",
+    "pembahasan": "Mentega adalah pelengkap roti, sambal adalah pelengkap nasi. Hubungan: pelengkap dan makanan utamanya."
+  },
+  {
+    "id": 200,
+    "soal": "LANGKAH : PERJALANAN = KATA : ...",
+    "pilihan": ["A. Puisi", "B. Kamus", "C. Karangan", "D. Huruf", "E. Bahasa"],
+    "jawaban": "C",
+    "pembahasan": "Langkah menyusun perjalanan, kata menyusun karangan. Hubungan: unit terkecil dan hasil susunannya."
+  }
+]

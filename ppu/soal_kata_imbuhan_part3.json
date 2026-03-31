@@ -1,0 +1,708 @@
+{
+  "materi": "Kata Imbuhan",
+  "part": 3,
+  "total_soal": 50,
+  "soal": [
+    {
+      "id": 101,
+      "materi": "Kata Imbuhan",
+      "soal": "Kata 'memberikan' dan 'memberi' memiliki perbedaan penggunaan. Kalimat yang TEPAT menggunakan 'memberikan' adalah ...",
+      "pilihan_jawaban": {
+        "A": "Ia memberi senyum kepada semua orang.",
+        "B": "Ia memberikan hadiah kepada adiknya.",
+        "C": "Ibu memberi nasihat setiap pagi.",
+        "D": "Ayah memberi semangat kami.",
+        "E": "Guru memberi pujian kepada murid."
+      },
+      "jawaban_benar": "B",
+      "pembahasan": "'Memberikan' (me-kan) digunakan jika ada objek yang berpindah tangan secara nyata. 'Hadiah' adalah benda nyata yang berpindah, sehingga 'memberikan hadiah' tepat. Senyum, nasihat, semangat, pujian lebih tepat menggunakan 'memberi' karena bukan benda yang berpindah secara fisik."
+    },
+    {
+      "id": 102,
+      "materi": "Kata Imbuhan",
+      "soal": "Imbuhan pe- pada kata 'perantara' bermakna ...",
+      "pilihan_jawaban": {
+        "A": "orang yang berada di antara",
+        "B": "sesuatu yang berfungsi sebagai penghubung",
+        "C": "proses perantaraan",
+        "D": "tempat perantara",
+        "E": "B dan keduanya benar"
+      },
+      "jawaban_benar": "B",
+      "pembahasan": "Imbuhan pe- pada 'perantara' bermakna sesuatu atau seseorang yang berfungsi sebagai penghubung di antara dua pihak. Ini adalah makna pe- yang menyatakan alat atau orang yang berfungsi tertentu, bukan sekadar posisi berada di antara."
+    },
+    {
+      "id": 103,
+      "materi": "Kata Imbuhan",
+      "soal": "Bentuk yang TEPAT dari imbuhan me- pada kata 'ziarah' adalah ...",
+      "pilihan_jawaban": {
+        "A": "meziarah",
+        "B": "menziarah",
+        "C": "menziarahi",
+        "D": "mengziarah",
+        "E": "meyiarahi"
+      },
+      "jawaban_benar": "C",
+      "pembahasan": "Bentuk yang tepat adalah 'menziarahi'. Kata 'ziarah' diawali huruf z, sehingga imbuhan me- berubah menjadi men- (nasal n). Ditambah imbuhan -i karena membutuhkan objek tempat yang diziarahi. Proses: men + ziarah + i = menziarahi."
+    },
+    {
+      "id": 104,
+      "materi": "Kata Imbuhan",
+      "soal": "Kata 'pemadam' dalam frasa 'pemadam kebakaran' menggunakan imbuhan pe- yang bermakna ...",
+      "pilihan_jawaban": {
+        "A": "orang yang memadamkan",
+        "B": "alat untuk memadamkan",
+        "C": "proses memadamkan",
+        "D": "A dan B keduanya benar",
+        "E": "tempat memadamkan"
+      },
+      "jawaban_benar": "D",
+      "pembahasan": "Imbuhan pe- pada 'pemadam' dapat bermakna orang yang memadamkan (pelaku) atau alat untuk memadamkan. Dalam 'pemadam kebakaran', maknanya adalah tim/orang yang bertugas memadamkan kebakaran. Dalam 'pemadam api' (alat), maknanya adalah alat pemadam. Keduanya valid tergantung konteks."
+    },
+    {
+      "id": 105,
+      "materi": "Kata Imbuhan",
+      "soal": "Perhatikan kalimat: 'Peserta olimpiade itu berhasil meraih medali emas.' Imbuhan ber- pada 'berhasil' bermakna ...",
+      "pilihan_jawaban": {
+        "A": "mempunyai hasil",
+        "B": "mendapatkan keberhasilan",
+        "C": "dalam keadaan berhasil",
+        "D": "mencapai tujuan/sukses",
+        "E": "melakukan perbuatan"
+      },
+      "jawaban_benar": "D",
+      "pembahasan": "Imbuhan ber- pada 'berhasil' dalam konteks kalimat tersebut bermakna mencapai tujuan atau sukses dalam melakukan sesuatu. Kata 'berhasil' sudah menjadi kata adjektif/verba yang menyatakan pencapaian positif."
+    },
+    {
+      "id": 106,
+      "materi": "Kata Imbuhan",
+      "soal": "Kata 'persempit' dalam kalimat 'Pemerintah mempersempit ruang gerak koruptor' dibentuk dari ...",
+      "pilihan_jawaban": {
+        "A": "per- + sempit",
+        "B": "memper- + sempit",
+        "C": "mem- + persempit",
+        "D": "me- + per- + sempit",
+        "E": "memp- + ersempit"
+      },
+      "jawaban_benar": "B",
+      "pembahasan": "Kata 'mempersempit' dibentuk dari imbuhan memper- yang melekat pada kata dasar 'sempit'. Imbuhan memper- bermakna menjadikan lebih sempit atau menyebabkan menjadi semakin sempit. Ini adalah imbuhan kausatif."
+    },
+    {
+      "id": 107,
+      "materi": "Kata Imbuhan",
+      "soal": "Pasangan kata berikut yang memiliki imbuhan dengan makna BERBEDA adalah ...",
+      "pilihan_jawaban": {
+        "A": "berlari – berjalan",
+        "B": "berteriak – bernyanyi",
+        "C": "berdagang – bertani",
+        "D": "berlari – berdagang",
+        "E": "berjalan – berenang"
+      },
+      "jawaban_benar": "D",
+      "pembahasan": "'Berlari' menggunakan ber- bermakna melakukan aktivitas/perbuatan, sedangkan 'berdagang' menggunakan ber- bermakna bermata pencaharian. Keduanya memiliki makna imbuhan yang berbeda. Pasangan A, B, E semuanya bermakna melakukan aktivitas, pasangan C keduanya bermakna bermata pencaharian."
+    },
+    {
+      "id": 108,
+      "materi": "Kata Imbuhan",
+      "soal": "Kata 'dipertanggungjawabkan' mengandung imbuhan ...",
+      "pilihan_jawaban": {
+        "A": "di- + per- + tanggung + jawab + -kan",
+        "B": "diper- + tanggungjawab + -kan",
+        "C": "di- + pertanggungjawab + -kan",
+        "D": "dipertanggung- + jawab + -kan",
+        "E": "di- + tanggung + jawab + -kan"
+      },
+      "jawaban_benar": "B",
+      "pembahasan": "Kata 'dipertanggungjawabkan' dibentuk dari imbuhan diper-kan (pasif dari memper-kan) yang melekat pada kata majemuk 'tanggungjawab'. Ini merupakan bentuk pasif dari 'mempertanggungjawabkan'."
+    },
+    {
+      "id": 109,
+      "materi": "Kata Imbuhan",
+      "soal": "Kata yang mengandung imbuhan sisipan (-el-, -em-, -er-) adalah ...",
+      "pilihan_jawaban": {
+        "A": "teladan",
+        "B": "telapak",
+        "C": "temali",
+        "D": "gemetar",
+        "E": "ketiga"
+      },
+      "jawaban_benar": "D",
+      "pembahasan": "Kata 'gemetar' mengandung sisipan -em- yang disisipkan pada kata dasar 'getar' → g + em + etar = gemetar. Imbuhan sisipan -em-, -el-, -er- adalah imbuhan yang disisipkan di antara konsonan dan vokal pertama kata dasar. 'Teladan', 'telapak', 'temali' bukan berasal dari sisipan."
+    },
+    {
+      "id": 110,
+      "materi": "Kata Imbuhan",
+      "soal": "Makna imbuhan sisipan -el- pada kata 'telunjuk' adalah ...",
+      "pilihan_jawaban": {
+        "A": "menyatakan banyak",
+        "B": "menyatakan alat",
+        "C": "menyatakan menyerupai",
+        "D": "menyatakan intensitas",
+        "E": "tidak produktif, sudah menjadi bagian kata"
+      },
+      "jawaban_benar": "E",
+      "pembahasan": "Imbuhan sisipan dalam bahasa Indonesia modern (-el-, -em-, -er-) tidak lagi produktif, artinya tidak digunakan untuk membentuk kata baru. Kata seperti 'telunjuk', 'gemetar', 'gerigi' merupakan bentuk yang sudah leksikalisasi dan sisipannya tidak lagi bermakna mandiri."
+    },
+    {
+      "id": 111,
+      "materi": "Kata Imbuhan",
+      "soal": "Penulisan imbuhan yang BENAR pada kalimat berikut adalah ...",
+      "pilihan_jawaban": {
+        "A": "Ia men-download file itu semalam.",
+        "B": "Ia mendownload file itu semalam.",
+        "C": "Ia mengunduh file itu semalam.",
+        "D": "Ia di-download file itu semalam.",
+        "E": "Ia men download file itu semalam."
+      },
+      "jawaban_benar": "C",
+      "pembahasan": "Penulisan yang paling tepat sesuai KBBI adalah 'mengunduh' sebagai padanan resmi kata 'download' dalam bahasa Indonesia. Jika terpaksa menggunakan kata serapan, penulisan dengan tanda hubung (men-download) lebih dapat diterima daripada tanpa tanda hubung."
+    },
+    {
+      "id": 112,
+      "materi": "Kata Imbuhan",
+      "soal": "Kata 'penyelenggara' mengandung imbuhan pe(N)- yang bermakna ...",
+      "pilihan_jawaban": {
+        "A": "proses menyelenggarakan",
+        "B": "orang atau lembaga yang menyelenggarakan",
+        "C": "hasil penyelenggaraan",
+        "D": "tempat penyelenggaraan",
+        "E": "alat untuk menyelenggarakan"
+      },
+      "jawaban_benar": "B",
+      "pembahasan": "Imbuhan pe(N)- pada 'penyelenggara' bermakna orang atau lembaga yang menyelenggarakan sesuatu. Ini adalah makna pe- sebagai pelaku. Kata 'penyelenggara' tanpa -an merujuk pada subjek/pelaku, bukan proses."
+    },
+    {
+      "id": 113,
+      "materi": "Kata Imbuhan",
+      "soal": "Makna imbuhan ke-an pada kata 'kecelakaan' adalah ...",
+      "pilihan_jawaban": {
+        "A": "terlalu celaka",
+        "B": "hal yang berhubungan dengan celaka",
+        "C": "peristiwa atau kejadian celaka",
+        "D": "tempat celaka",
+        "E": "menjadi celaka"
+      },
+      "jawaban_benar": "C",
+      "pembahasan": "Imbuhan ke-an pada 'kecelakaan' bermakna peristiwa atau kejadian yang bersifat celaka (musibah). Ini adalah makna ke-an yang menyatakan suatu peristiwa atau kejadian yang tidak diinginkan."
+    },
+    {
+      "id": 114,
+      "materi": "Kata Imbuhan",
+      "soal": "Kata berimbuhan yang TIDAK tepat adalah ...",
+      "pilihan_jawaban": {
+        "A": "melipatgandakan keuntungan",
+        "B": "menganak-tirikan salah satu pihak",
+        "C": "menomorduakan kepentingan rakyat",
+        "D": "memperalat orang lain",
+        "E": "menghiraukan peringatan"
+      },
+      "jawaban_benar": "B",
+      "pembahasan": "'Menganak-tirikan' tidak baku. Bentuk yang benar adalah 'menganaktirikan' (ditulis serangkai tanpa tanda hubung karena 'anak tiri' merupakan kata majemuk yang mendapat imbuhan me-kan). Penulisan tanda hubung pada kata majemuk berimbuhan tidak sesuai kaidah."
+    },
+    {
+      "id": 115,
+      "materi": "Kata Imbuhan",
+      "soal": "Kalimat yang menggunakan imbuhan ter- bermakna 'dapat/mampu' adalah ...",
+      "pilihan_jawaban": {
+        "A": "Ia terjatuh saat berlari kencang.",
+        "B": "Tas itu tertinggal di bus.",
+        "C": "Masalah pelik itu akhirnya terpecahkan.",
+        "D": "Ia terpilih menjadi ketua OSIS.",
+        "E": "Gunung itu tertinggi di kawasan ini."
+      },
+      "jawaban_benar": "C",
+      "pembahasan": "Imbuhan ter- pada 'terpecahkan' bermakna dapat atau berhasil dipecahkan. Ini adalah makna ter- yang menyatakan kemampuan atau ketercapaian. Pilihan A bermakna tidak sengaja, B bermakna tidak sengaja/tertinggal, D bermakna pasif biasa, E bermakna superlatif."
+    },
+    {
+      "id": 116,
+      "materi": "Kata Imbuhan",
+      "soal": "Imbuhan -an pada kata 'lautan' bermakna ...",
+      "pilihan_jawaban": {
+        "A": "sesuatu yang dilaut",
+        "B": "kumpulan atau hamparan laut yang luas",
+        "C": "alat untuk berlaut",
+        "D": "hasil dari laut",
+        "E": "proses menjadi laut"
+      },
+      "jawaban_benar": "B",
+      "pembahasan": "Imbuhan -an pada 'lautan' bermakna kumpulan atau hamparan yang luas. 'Lautan' berarti hamparan laut yang sangat luas. Ini adalah makna -an kolektif yang menyatakan kumpulan besar. Contoh lain: hutan (kumpulan pohon besar), padang pasiran."
+    },
+    {
+      "id": 117,
+      "materi": "Kata Imbuhan",
+      "soal": "Kalimat yang menggunakan dua imbuhan sekaligus secara BENAR adalah ...",
+      "pilihan_jawaban": {
+        "A": "Pemerintah akan memprioritaskan dan meningkatan anggaran pendidikan.",
+        "B": "Program itu berhasil dilaksanakan dan diselesaikan tepat waktu.",
+        "C": "Mereka mendiskusikan dan memecahkan masalah bersama-sama.",
+        "D": "Ia mengerjakan dan menyelesaian tugas itu.",
+        "E": "Kami mempersiapkan dan memperlengkapi kebutuhan."
+      },
+      "jawaban_benar": "C",
+      "pembahasan": "Kalimat C menggunakan 'mendiskusikan' dan 'memecahkan' keduanya dengan imbuhan yang benar. Kalimat A salah: 'meningkatan' seharusnya 'meningkatkan'. Kalimat D salah: 'menyelesaian' seharusnya 'menyelesaikan'. Kalimat E: 'memperlengkapi' tidak baku, yang baku 'melengkapi'."
+    },
+    {
+      "id": 118,
+      "materi": "Kata Imbuhan",
+      "soal": "Kata 'pertumbuhan' dibentuk dari ...",
+      "pilihan_jawaban": {
+        "A": "per- + tumbuh + -an",
+        "B": "pe- + tumbuh + -an",
+        "C": "per- + tumbuhan",
+        "D": "pert- + umbuhan",
+        "E": "pertum- + buhan"
+      },
+      "jawaban_benar": "A",
+      "pembahasan": "Kata 'pertumbuhan' dibentuk dari konfiks per-an yang melekat pada kata dasar 'tumbuh'. Imbuhan per-an pada kata kerja menyatakan proses atau hasil. 'Pertumbuhan' berarti proses atau hasil dari tumbuh."
+    },
+    {
+      "id": 119,
+      "materi": "Kata Imbuhan",
+      "soal": "Kata yang mengandung imbuhan ber- bermakna 'menghasilkan' adalah ...",
+      "pilihan_jawaban": {
+        "A": "berbuah",
+        "B": "berlari",
+        "C": "berdagang",
+        "D": "berpakaian",
+        "E": "berjalan"
+      },
+      "jawaban_benar": "A",
+      "pembahasan": "Imbuhan ber- pada 'berbuah' bermakna menghasilkan buah. Ini adalah makna ber- yang menyatakan menghasilkan sesuatu. Contoh lain: berbiji, bertelur, beranak. Pilihan lain bermakna melakukan aktivitas (berlari, berjalan, berdagang) atau memakai (berpakaian)."
+    },
+    {
+      "id": 120,
+      "materi": "Kata Imbuhan",
+      "soal": "Penulisan kata berimbuhan yang BENAR sesuai KBBI adalah ...",
+      "pilihan_jawaban": {
+        "A": "mengkwatirkan",
+        "B": "mengkhawatirkan",
+        "C": "mengkuatirkan",
+        "D": "meng-khawatirkan",
+        "E": "menguatirkan"
+      },
+      "jawaban_benar": "B",
+      "pembahasan": "Penulisan yang benar sesuai KBBI adalah 'mengkhawatirkan'. Kata dasar yang benar adalah 'khawatir' (bukan 'kuatir'). Huruf kh tidak luluh saat bertemu me-, sehingga tetap menjadi mengkhawatirkan. Huruf k pada gugus kh diperlakukan berbeda dari k tunggal."
+    },
+    {
+      "id": 121,
+      "materi": "Kata Imbuhan",
+      "soal": "Makna imbuhan me- pada kata 'mengeras' dalam kalimat 'Semen itu mengeras setelah disiram air' adalah ...",
+      "pilihan_jawaban": {
+        "A": "membuat sesuatu menjadi keras",
+        "B": "menjadi keras",
+        "C": "seperti keras",
+        "D": "dalam keadaan keras",
+        "E": "mencari yang keras"
+      },
+      "jawaban_benar": "B",
+      "pembahasan": "Imbuhan me- pada 'mengeras' bermakna menjadi keras (intransitif). Subjek kalimat (semen) berubah keadaan menjadi keras. Ini adalah makna me- yang menyatakan perubahan keadaan pada subjek, bukan objek."
+    },
+    {
+      "id": 122,
+      "materi": "Kata Imbuhan",
+      "soal": "Kata 'kemanusiaan' memiliki imbuhan ke-an yang bermakna ...",
+      "pilihan_jawaban": {
+        "A": "terlalu manusiawi",
+        "B": "hal yang berhubungan dengan sifat manusia",
+        "C": "kumpulan manusia",
+        "D": "tempat manusia",
+        "E": "menjadi manusia"
+      },
+      "jawaban_benar": "B",
+      "pembahasan": "Imbuhan ke-an pada 'kemanusiaan' bermakna hal yang berhubungan dengan sifat atau kondisi manusia. 'Nilai kemanusiaan' berarti nilai yang berhubungan dengan harkat dan martabat manusia. Ini adalah ke-an abstrak."
+    },
+    {
+      "id": 123,
+      "materi": "Kata Imbuhan",
+      "soal": "Kata yang menggunakan imbuhan -wati bermakna penanda gender perempuan adalah ...",
+      "pilihan_jawaban": {
+        "A": "karyawati",
+        "B": "dermawati",
+        "C": "seniwati",
+        "D": "A dan C benar",
+        "E": "Semua benar"
+      },
+      "jawaban_benar": "D",
+      "pembahasan": "Imbuhan -wati adalah penanda gender perempuan: 'karyawati' (karyawan perempuan) dan 'seniwati' (seniman perempuan). 'Dermawati' bukan kata baku; bentuk bakunya 'dermawati' jarang digunakan, yang baku adalah 'dermawan' untuk semua gender dalam konteks formal."
+    },
+    {
+      "id": 124,
+      "materi": "Kata Imbuhan",
+      "soal": "Kalimat yang menggunakan konfiks ber-an dengan tepat adalah ...",
+      "pilihan_jawaban": {
+        "A": "Mereka berpandangan luas tentang masa depan.",
+        "B": "Anak-anak berlarian di taman itu.",
+        "C": "Para tamu berdatangan dari berbagai daerah.",
+        "D": "B dan C benar",
+        "E": "Semua benar"
+      },
+      "jawaban_benar": "D",
+      "pembahasan": "Konfiks ber-an pada 'berlarian' bermakna melakukan sesuatu dengan tidak beraturan atau ke berbagai arah. Pada 'berdatangan' bermakna datang secara beruntun dari berbagai arah. Keduanya tepat. 'Berpandangan' menggunakan ber- biasa, bukan ber-an."
+    },
+    {
+      "id": 125,
+      "materi": "Kata Imbuhan",
+      "soal": "Makna imbuhan me- pada kata 'melompat' dan 'melayang' yang SAMA adalah ...",
+      "pilihan_jawaban": {
+        "A": "menjadi seperti",
+        "B": "melakukan perbuatan",
+        "C": "menuju ke",
+        "D": "dalam keadaan",
+        "E": "menyebabkan"
+      },
+      "jawaban_benar": "B",
+      "pembahasan": "Imbuhan me- pada 'melompat' dan 'melayang' keduanya bermakna melakukan perbuatan (aktivitas). Keduanya adalah verba intransitif aktif yang menyatakan gerakan atau aktivitas fisik yang dilakukan subjek."
+    },
+    {
+      "id": 126,
+      "materi": "Kata Imbuhan",
+      "soal": "Perhatikan kata-kata berikut: (1) penyair, (2) pengarang, (3) pelajar, (4) pelaut, (5) pedagang. Kata yang menggunakan pe- bermakna 'bermata pencaharian' adalah ...",
+      "pilihan_jawaban": {
+        "A": "1 dan 2",
+        "B": "3 dan 4",
+        "C": "4 dan 5",
+        "D": "2 dan 3",
+        "E": "1 dan 5"
+      },
+      "jawaban_benar": "C",
+      "pembahasan": "'Pelaut' bermakna orang yang bermata pencaharian sebagai nelayan/berlayar, dan 'pedagang' bermakna orang yang bermata pencaharian berdagang. Keduanya merujuk pada profesi sebagai sumber penghidupan. 'Penyair' dan 'pengarang' lebih bermakna pelaku seni, 'pelajar' bermakna orang yang belajar."
+    },
+    {
+      "id": 127,
+      "materi": "Kata Imbuhan",
+      "soal": "Kata 'pengetahuan' dibentuk dari ...",
+      "pilihan_jawaban": {
+        "A": "pe- + ngetahuan",
+        "B": "penge- + tahuan",
+        "C": "penge- + tahu + -an",
+        "D": "pe- + tahu + -an",
+        "E": "peng- + etahuan"
+      },
+      "jawaban_benar": "C",
+      "pembahasan": "Kata 'pengetahuan' dibentuk dari penge- + tahu + -an. Kata dasar 'tahu' adalah kata bersuku satu setelah mengalami proses morfologi, sehingga imbuhan pe- menjadi penge-. Bentuk: penge + tahu + an = pengetahuan."
+    },
+    {
+      "id": 128,
+      "materi": "Kata Imbuhan",
+      "soal": "Kata berimbuhan yang mengandung makna 'kolektif/kelompok' adalah ...",
+      "pilihan_jawaban": {
+        "A": "dedaunan",
+        "B": "daun-daun",
+        "C": "berdaun",
+        "D": "mendaun",
+        "E": "perdaunan"
+      },
+      "jawaban_benar": "A",
+      "pembahasan": "Kata 'dedaunan' (dari bentuk ulang de- + daun + -an) bermakna kumpulan daun. Imbuhan -an pada kata ulang parsial ini menyatakan makna kolektif. Ini berbeda dari 'daun-daun' yang sekadar menyatakan banyak daun tanpa nuansa kumpulan."
+    },
+    {
+      "id": 129,
+      "materi": "Kata Imbuhan",
+      "soal": "Kata yang mengandung imbuhan per-an bermakna 'tempat' adalah ...",
+      "pilihan_jawaban": {
+        "A": "perjalanan",
+        "B": "pertemuan",
+        "C": "persawahan",
+        "D": "pertumbuhan",
+        "E": "perjanjian"
+      },
+      "jawaban_benar": "C",
+      "pembahasan": "Kata 'persawahan' (per- + sawah + -an) bermakna daerah atau kawasan yang banyak sawahnya (tempat/kawasan). Ini adalah makna per-an yang menyatakan tempat atau kawasan. Pilihan lain bermakna proses atau peristiwa."
+    },
+    {
+      "id": 130,
+      "materi": "Kata Imbuhan",
+      "soal": "Imbuhan yang TEPAT untuk melengkapi kata '...wujud...kan' dalam kalimat 'Pemerintah berusaha ... impian rakyat' adalah ...",
+      "pilihan_jawaban": {
+        "A": "me- dan -kan → mewujudkan",
+        "B": "me- dan -i → mewujudi",
+        "C": "ber- dan -kan → berwujudkan",
+        "D": "ter- dan -kan → terwujudkan",
+        "E": "di- dan -kan → diwujudkan"
+      },
+      "jawaban_benar": "A",
+      "pembahasan": "'Mewujudkan' adalah bentuk tepat untuk kalimat aktif dengan subjek 'Pemerintah' dan objek 'impian rakyat'. Imbuhan me-kan menyatakan menyebabkan sesuatu menjadi wujud/nyata. Pilihan E (pasif) tidak cocok karena subjeknya jelas aktif."
+    },
+    {
+      "id": 131,
+      "materi": "Kata Imbuhan",
+      "soal": "Kata 'ketergantungan' dibentuk dari ...",
+      "pilihan_jawaban": {
+        "A": "ke- + ter- + gantung + -an",
+        "B": "ke-an + tergantung",
+        "C": "keter- + gantung + -an",
+        "D": "ke- + gantung + -an",
+        "E": "ketera- + gantungan"
+      },
+      "jawaban_benar": "B",
+      "pembahasan": "Kata 'ketergantungan' dibentuk dari konfiks ke-an yang melekat pada kata 'tergantung'. 'Tergantung' sendiri merupakan kata berimbuhan (ter- + gantung), lalu ke-an menambahkan makna abstrak nomina: ke + tergantung + an = ketergantungan."
+    },
+    {
+      "id": 132,
+      "materi": "Kata Imbuhan",
+      "soal": "Kalimat yang menggunakan imbuhan -i dengan makna 'menuju ke' adalah ...",
+      "pilihan_jawaban": {
+        "A": "Ia mengunjungi neneknya setiap minggu.",
+        "B": "Ia memukuli adiknya karena nakal.",
+        "C": "Ia menggarami sayuran itu.",
+        "D": "Ia menghormati orang yang lebih tua.",
+        "E": "Ia mempelajari bahasa Jepang."
+      },
+      "jawaban_benar": "A",
+      "pembahasan": "Imbuhan -i pada 'mengunjungi' bermakna menuju ke atau mendatangi tempat/orang. Ini adalah makna -i yang menyatakan arah. Pilihan B (-i iteratif/berulang), C (-i memberi sesuatu), D (-i melakukan kepada), E (me-i = mempelajari tidak termasuk menuju ke)."
+    },
+    {
+      "id": 133,
+      "materi": "Kata Imbuhan",
+      "soal": "Perhatikan kalimat: 'Ibu memasak nasi goreng untuk sarapan.' Jika kalimat diubah menjadi pasif, bentuk yang TEPAT adalah ...",
+      "pilihan_jawaban": {
+        "A": "Nasi goreng dimasak ibu untuk sarapan.",
+        "B": "Nasi goreng dimasaki ibu untuk sarapan.",
+        "C": "Nasi goreng memasakkan ibu untuk sarapan.",
+        "D": "Nasi goreng termasak ibu untuk sarapan.",
+        "E": "Nasi goreng memasak ibu untuk sarapan."
+      },
+      "jawaban_benar": "A",
+      "pembahasan": "Kalimat aktif 'Ibu memasak nasi goreng' diubah pasif menjadi 'Nasi goreng dimasak ibu'. Imbuhan me- diganti di- untuk membentuk kalimat pasif. Bentuk 'dimasaki' tidak tepat karena kata dasar aslinya 'masak' tanpa -i, dan 'termasak' tidak menyatakan pasif aktif."
+    },
+    {
+      "id": 134,
+      "materi": "Kata Imbuhan",
+      "soal": "Kata 'merakyat' menggunakan imbuhan me- yang bermakna ...",
+      "pilihan_jawaban": {
+        "A": "menjadi rakyat",
+        "B": "seperti rakyat/bersahaja",
+        "C": "mencari rakyat",
+        "D": "membuat rakyat",
+        "E": "milik rakyat"
+      },
+      "jawaban_benar": "B",
+      "pembahasan": "Imbuhan me- pada 'merakyat' bermakna bersikap seperti rakyat biasa atau hidup bersahaja dekat dengan rakyat. Ini adalah makna me- yang menyatakan berlaku atau bersifat seperti kata dasarnya. Digunakan untuk mendeskripsikan pemimpin yang dekat dengan masyarakat."
+    },
+    {
+      "id": 135,
+      "materi": "Kata Imbuhan",
+      "soal": "Kata yang menggunakan imbuhan me- TIDAK baku adalah ...",
+      "pilihan_jawaban": {
+        "A": "mengubah",
+        "B": "merubah",
+        "C": "mengolah",
+        "D": "memoles",
+        "E": "meracik"
+      },
+      "jawaban_benar": "B",
+      "pembahasan": "'Merubah' tidak baku karena kata dasarnya adalah 'ubah', bukan 'rubah'. Imbuhan me- pada kata dasar 'ubah' yang diawali huruf vokal menjadi 'mengubah', bukan 'merubah'. Bentuk baku yang benar adalah 'mengubah'."
+    },
+    {
+      "id": 136,
+      "materi": "Kata Imbuhan",
+      "soal": "Kalimat yang menggunakan kata berimbuhan bermakna LOKATIF (tempat) adalah ...",
+      "pilihan_jawaban": {
+        "A": "Pertemuan itu dihadiri banyak peserta.",
+        "B": "Pekuburan itu terletak di pinggir desa.",
+        "C": "Pertumbuhan ekonomi meningkat tahun ini.",
+        "D": "Perjuangan mereka akhirnya berhasil.",
+        "E": "Pengiriman barang tertunda akibat banjir."
+      },
+      "jawaban_benar": "B",
+      "pembahasan": "Kata 'pekuburan' dalam kalimat B menggunakan pe-an bermakna tempat (tempat menguburkan). Kalimat B juga mengandung konteks lokasi. Pilihan lain menggunakan kata berimbuhan bermakna proses (pengiriman, pertumbuhan) atau peristiwa (pertemuan, perjuangan)."
+    },
+    {
+      "id": 137,
+      "materi": "Kata Imbuhan",
+      "soal": "Kata 'sesama' menggunakan imbuhan se- yang bermakna ...",
+      "pilihan_jawaban": {
+        "A": "satu/seluruh",
+        "B": "sama dengan",
+        "C": "seperti",
+        "D": "sejak/semenjak",
+        "E": "saling/bersama-sama"
+      },
+      "jawaban_benar": "B",
+      "pembahasan": "Imbuhan se- pada 'sesama' bermakna sama dengan atau setara. 'Sesama manusia' berarti manusia yang sama-sama (setara). Ini berbeda dari se- yang bermakna satu (sekelas), seluruh (sekolah), atau seperti (seperti)."
+    },
+    {
+      "id": 138,
+      "materi": "Kata Imbuhan",
+      "soal": "Manakah penggunaan imbuhan pe(N)- yang TEPAT?",
+      "pilihan_jawaban": {
+        "A": "pensuplai barang",
+        "B": "penyuplai barang",
+        "C": "pengusuplai barang",
+        "D": "pemasuplai barang",
+        "E": "penyupplai barang"
+      },
+      "jawaban_benar": "B",
+      "pembahasan": "Kata 'penyuplai' berasal dari pe(N)- + suplai. Kata 'suplai' diawali huruf s, sehingga pe- berubah menjadi peny- (s luluh jadi ny). Bentuk yang tepat: pe + s(luluh)uplai = penyuplai."
+    },
+    {
+      "id": 139,
+      "materi": "Kata Imbuhan",
+      "soal": "Kata 'pemersatu' dibentuk dari imbuhan ...",
+      "pilihan_jawaban": {
+        "A": "pe- + mersatu",
+        "B": "pemer- + satu",
+        "C": "peme- + rsatu",
+        "D": "pe- + mer- + satu",
+        "E": "pem- + ersatu"
+      },
+      "jawaban_benar": "B",
+      "pembahasan": "Kata 'pemersatu' dibentuk dari pemer- + satu. Imbuhan pemer- merupakan gabungan pe- dan mer- (dari ber-) yang berfungsi membentuk nomina pelaku dari kata kerja berimbuhan. 'Pemersatu' berarti sesuatu atau seseorang yang mempersatukan."
+    },
+    {
+      "id": 140,
+      "materi": "Kata Imbuhan",
+      "soal": "Kalimat dengan penggunaan imbuhan me- yang SALAH adalah ...",
+      "pilihan_jawaban": {
+        "A": "Ia menelepon temannya setiap hari.",
+        "B": "Kami mengelas besi itu di bengkel.",
+        "C": "Ia memfotokopi berkas itu.",
+        "D": "Mereka mengkritik kebijakan baru tersebut.",
+        "E": "Pemerintah mengesahkan undang-undang itu."
+      },
+      "jawaban_benar": "D",
+      "pembahasan": "'Mengkritik' salah karena kata dasar 'kritik' diawali huruf k yang harus luluh saat bertemu me-. Bentuk yang benar adalah 'mengritik' (k luluh, meng + ritik = mengritik). Pilihan A (menelepon), C (memfotokopi), E (mengesahkan) sudah benar."
+    },
+    {
+      "id": 141,
+      "materi": "Kata Imbuhan",
+      "soal": "Makna imbuhan ber- pada kata 'bersenjata' dalam kalimat 'Kelompok bersenjata itu menyerang desa' adalah ...",
+      "pilihan_jawaban": {
+        "A": "membuat senjata",
+        "B": "mempunyai/membawa senjata",
+        "C": "menggunakan senjata",
+        "D": "menjual senjata",
+        "E": "seperti senjata"
+      },
+      "jawaban_benar": "B",
+      "pembahasan": "Imbuhan ber- pada 'bersenjata' bermakna mempunyai atau membawa senjata. Ini adalah makna ber- yang menyatakan kepemilikan atau kelengkapan benda. Konteks kalimat menunjukkan kelompok tersebut dilengkapi dengan senjata."
+    },
+    {
+      "id": 142,
+      "materi": "Kata Imbuhan",
+      "soal": "Kata 'keterangan' yang digunakan dalam kalimat 'Polisi meminta keterangan saksi' bermakna ...",
+      "pilihan_jawaban": {
+        "A": "proses menerangkan",
+        "B": "orang yang menerangkan",
+        "C": "sesuatu yang diterangkan/penjelasan",
+        "D": "tempat menerangkan",
+        "E": "alat untuk menerangkan"
+      },
+      "jawaban_benar": "C",
+      "pembahasan": "Kata 'keterangan' dibentuk dari ke- + terang + -an, bermakna sesuatu yang diterangkan atau penjelasan. Dalam konteks kalimat, 'keterangan saksi' berarti penjelasan atau informasi yang diberikan oleh saksi."
+    },
+    {
+      "id": 143,
+      "materi": "Kata Imbuhan",
+      "soal": "Penulisan kata berimbuhan yang BENAR dalam konteks formal adalah ...",
+      "pilihan_jawaban": {
+        "A": "Kami akan me-review proposal tersebut.",
+        "B": "Kami akan mereviu proposal tersebut.",
+        "C": "Kami akan mereview proposal tersebut.",
+        "D": "Kami akan meng-review proposal tersebut.",
+        "E": "Kami akan mengereview proposal tersebut."
+      },
+      "jawaban_benar": "B",
+      "pembahasan": "Penulisan yang benar dalam konteks formal adalah 'mereviu' yang merupakan penyerapan kata 'review' ke dalam bahasa Indonesia. Sesuai KBBI, 'review' diserap menjadi 'reviu', dan mendapat imbuhan me- menjadi 'mereviu'. Penulisan dengan tanda hubung (me-review) kurang tepat untuk kata yang sudah diserap."
+    },
+    {
+      "id": 144,
+      "materi": "Kata Imbuhan",
+      "soal": "Kata 'kewarganegaraan' mengandung imbuhan ...",
+      "pilihan_jawaban": {
+        "A": "ke- + warga + negara + -an",
+        "B": "ke-an pada kata 'warga negara'",
+        "C": "ke- + warganegara + -an",
+        "D": "kewarga- + negara + -an",
+        "E": "ke- + -an pada frasa 'warga negara'"
+      },
+      "jawaban_benar": "C",
+      "pembahasan": "Kata 'kewarganegaraan' dibentuk dari konfiks ke-an yang melekat pada kata majemuk 'warganegara'. 'Warganegara' sudah merupakan kata majemuk yang ditulis serangkai, lalu ke-an ditambahkan: ke + warganegara + an = kewarganegaraan."
+    },
+    {
+      "id": 145,
+      "materi": "Kata Imbuhan",
+      "soal": "Kata yang pembentukannya menggunakan imbuhan me- + kata dasar berawalan konsonan yang TIDAK luluh adalah ...",
+      "pilihan_jawaban": {
+        "A": "menggoreng",
+        "B": "menyanyi",
+        "C": "membeli",
+        "D": "mentranskripsi",
+        "E": "menyanyi"
+      },
+      "jawaban_benar": "D",
+      "pembahasan": "Kata 'mentranskripsi' menggunakan me- pada kata dasar 'transkripsi' yang diawali gugus konsonan 'tr'. Konsonan t dalam gugus tr tidak luluh karena diikuti konsonan lain (r). Ini adalah pengecualian: konsonan yang diikuti konsonan lain dalam gugus tidak luluh."
+    },
+    {
+      "id": 146,
+      "materi": "Kata Imbuhan",
+      "soal": "Imbuhan me- yang menghasilkan bentuk menge- terdapat pada kata ...",
+      "pilihan_jawaban": {
+        "A": "mengambil",
+        "B": "mengecek",
+        "C": "mengolah",
+        "D": "mengangkat",
+        "E": "mengurus"
+      },
+      "jawaban_benar": "B",
+      "pembahasan": "Kata 'mengecek' menggunakan menge- karena kata dasar 'cek' hanya terdiri dari satu suku kata. Aturan: me- menjadi menge- jika kata dasarnya bersuku satu. Pilihan lain: 'mengambil' (me- + ambil, kata bervokal awal), 'mengolah' (me- + olah), dll."
+    },
+    {
+      "id": 147,
+      "materi": "Kata Imbuhan",
+      "soal": "Perhatikan kalimat: 'Hasil pertanian daerah itu dikirimkan ke kota.' Kata 'dikirimkan' memiliki makna pasif ...",
+      "pilihan_jawaban": {
+        "A": "sesuatu yang dikirim oleh seseorang ke kota",
+        "B": "proses pengiriman ke kota",
+        "C": "kota yang menjadi tujuan kiriman",
+        "D": "dihasilkan untuk dikirim",
+        "E": "kiriman yang sampai di kota"
+      },
+      "jawaban_benar": "A",
+      "pembahasan": "'Dikirimkan' adalah bentuk pasif dari 'mengirimkan'. Imbuhan di-kan pada kata ini menyatakan sesuatu (hasil pertanian) diperlakukan sebagai objek yang dikirim ke suatu tempat (kota) oleh pelaku tertentu. Ini adalah konstruksi pasif kausatif."
+    },
+    {
+      "id": 148,
+      "materi": "Kata Imbuhan",
+      "soal": "Kata 'perbukitan' mengandung imbuhan per-an yang bermakna ...",
+      "pilihan_jawaban": {
+        "A": "proses membuat bukit",
+        "B": "kawasan atau daerah yang banyak bukitnya",
+        "C": "sebuah bukit yang besar",
+        "D": "puncak bukit",
+        "E": "lereng bukit"
+      },
+      "jawanan_benar": "B",
+      "pembahasan": "Kata 'perbukitan' (per- + bukit + -an) bermakna kawasan atau daerah yang banyak terdapat bukit. Ini adalah makna per-an yang menyatakan kawasan/daerah yang penuh dengan sesuatu. Contoh lain: pegunungan, persawahan, perkotaan.",
+      "jawaban_benar": "B"
+    },
+    {
+      "id": 149,
+      "materi": "Kata Imbuhan",
+      "soal": "Kalimat yang menggunakan imbuhan me-kan bermakna BENEFAKTIF (untuk kepentingan orang lain) adalah ...",
+      "pilihan_jawaban": {
+        "A": "Ia membelikan adiknya sepatu baru.",
+        "B": "Ia memasukkan baju ke lemari.",
+        "C": "Ia membukukan semua laporan.",
+        "D": "Ia meninggikan suara saat berdebat.",
+        "E": "Ia mendirikan tenda di pinggir danau."
+      },
+      "jawaban_benar": "A",
+      "pembahasan": "Imbuhan me-kan pada 'membelikan' bermakna melakukan perbuatan membeli untuk kepentingan orang lain (benefaktif). 'Membelikan adiknya' berarti membeli sesuatu demi adik. Ini adalah makna me-kan benefaktif yang melibatkan penerima manfaat."
+    },
+    {
+      "id": 150,
+      "materi": "Kata Imbuhan",
+      "soal": "Manakah kata yang mengandung imbuhan dengan jumlah morfem paling banyak?",
+      "pilihan_jawaban": {
+        "A": "menjalankan",
+        "B": "mempermasalahkan",
+        "C": "dipertanggungjawabkan",
+        "D": "ketidakberdayaan",
+        "E": "memperkerjakan"
+      },
+      "jawaban_benar": "C",
+      "pembahasan": "'Dipertanggungjawabkan' terdiri dari morfem: di- + per- + tanggung + jawab + -kan = 5 morfem (imbuhan di-, per-, -kan, dan kata majemuk tanggungjawab yang terdiri dari 2 morfem). 'Ketidakberdayaan' juga kompleks: ke- + tidak + ber- + daya + -an = 5 morfem. Namun 'dipertanggungjawabkan' lebih kompleks secara keseluruhan."
+    }
+  ]
+}

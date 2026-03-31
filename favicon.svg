@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="14" fill="#0A0A0F"/>
+  <rect x="4" y="4" width="56" height="56" rx="11" fill="none" stroke="#00F5C4" stroke-width="1.5" opacity="0.4"/>
+  <!-- D letter stylized -->
+  <text x="8" y="46" font-family="monospace" font-weight="900" font-size="42" fill="#00F5C4">D</text>
+  <!-- H accent -->
+  <text x="30" y="46" font-family="monospace" font-weight="900" font-size="42" fill="#FFB347">H</text>
+  <!-- small T -->
+  <text x="52" y="30" font-family="monospace" font-weight="700" font-size="14" fill="#00F5C4" opacity="0.7">T</text>
+  <!-- decorative dots -->
+  <circle cx="52" cy="48" r="2.5" fill="#00F5C4" opacity="0.8"/>
+  <circle cx="58" cy="48" r="2.5" fill="#FFB347" opacity="0.8"/>
+</svg>

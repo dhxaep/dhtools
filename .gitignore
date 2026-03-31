@@ -1,0 +1,8 @@
+node_modules
+
+# Development scripts (not needed in production)
+scripts/
+
+# Large JSON files (if needed locally)
+# Uncomment if you want to exclude KBBI files from git
+# kbbi*_part*.json

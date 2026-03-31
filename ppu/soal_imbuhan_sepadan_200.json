@@ -1,0 +1,1607 @@
+{
+  "materi": "Imbuhan Sepadan",
+  "total_soal": 200,
+  "keterangan": "Soal tipe imbuhan sepadan: siswa diminta menemukan kata yang memiliki pola imbuhan sama dengan kata yang diberikan di soal.",
+  "soal": [
+    {
+      "id": 1,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'pencemaran' memiliki pola imbuhan pe(N)-an. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "pengajian", "B": "pelajaran", "C": "pertanian", "D": "pelataran", "E": "pelarian"},
+      "jawaban_benar": "B",
+      "pembahasan": "'Pencemaran' = pe(N)- + cemar + -an. 'Pelajaran' = pe(N)- + ajar + -an. Keduanya menggunakan konfiks pe(N)-an bermakna proses/hasil. 'Pertanian' menggunakan per-an, 'pengajian' berbeda makna (kegiatan rutin)."
+    },
+    {
+      "id": 2,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'pengajian' memiliki pola imbuhan pe(N)-an (bentuk peng-). Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "pertanian", "B": "pengiriman", "C": "pelarian", "D": "pertolongan", "E": "pelatihan"},
+      "jawaban_benar": "B",
+      "pembahasan": "'Pengajian' = peng- + aji + -an. 'Pengiriman' = peng- + kirim + -an. Keduanya menggunakan bentuk peng- dari konfiks pe(N)-an. Pilihan lain menggunakan per-an atau pe-an berbeda."
+    },
+    {
+      "id": 3,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'keberanian' memiliki pola imbuhan ke-ber-an. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "keadilan", "B": "kecantikan", "C": "kebersihan", "D": "keberhasilan", "E": "kemampuan"},
+      "jawaban_benar": "D",
+      "pembahasan": "'Keberanian' = ke- + ber- + ani + -an. 'Keberhasilan' = ke- + ber- + hasil + -an. Keduanya mengandung tiga lapis imbuhan: ke-, ber-, dan -an. Pilihan lain hanya menggunakan konfiks ke-an tanpa ber-."
+    },
+    {
+      "id": 4,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'mempermasalahkan' memiliki pola imbuhan memper-kan. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "memperluas", "B": "mempertahankan", "C": "memperbaiki", "D": "memperindah", "E": "memperoleh"},
+      "jawaban_benar": "B",
+      "pembahasan": "'Mempermasalahkan' = memper- + masalah + -kan. 'Mempertahankan' = memper- + tahan + -kan. Keduanya menggunakan konfiks memper-kan. Pilihan lain menggunakan memper- tanpa -kan (memperluas, memperbaiki, memperindah)."
+    },
+    {
+      "id": 5,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'pemberontakan' memiliki pola imbuhan pem-an. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "penulisan", "B": "penyuluhan", "C": "pembangunan", "D": "pertolongan", "E": "pengiriman"},
+      "jawaban_benar": "C",
+      "pembahasan": "'Pemberontakan' = pem- + berontak + -an. 'Pembangunan' = pem- + bangun + -an. Keduanya menggunakan bentuk pem- dari konfiks pe(N)-an karena kata dasar berawalan huruf b. Pilihan lain menggunakan peny-, pen-, per-, atau peng-."
+    },
+    {
+      "id": 6,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'penyuluhan' memiliki pola imbuhan peny-an. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "pendidikan", "B": "penyebaran", "C": "pengiriman", "D": "pembangunan", "E": "pelatihan"},
+      "jawaban_benar": "B",
+      "pembahasan": "'Penyuluhan' = peny- + suluh + -an (s luluh). 'Penyebaran' = peny- + sebar + -an (s luluh). Keduanya menggunakan bentuk peny- dari pe(N)-an karena kata dasar berawalan huruf s. Pilihan lain menggunakan pen-, peng-, pem-, atau pe-."
+    },
+    {
+      "id": 7,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'ketidakhadiran' memiliki pola imbuhan ke-an pada frasa negasi. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "ketidakberdayaan", "B": "kehadiran", "C": "ketidakhadiran", "D": "keberdayaan", "E": "ketiadaan"},
+      "jawaban_benar": "A",
+      "pembahasan": "'Ketidakhadiran' = ke- + tidak + hadir + -an. 'Ketidakberdayaan' = ke- + tidak + berdaya + -an. Keduanya menggunakan konfiks ke-an yang melekat pada frasa negasi 'tidak + kata dasar'. Ini pola khas pembentukan nomina abstrak negasi."
+    },
+    {
+      "id": 8,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'berlarian' memiliki pola imbuhan ber-an. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "berjalan", "B": "berdatangan", "C": "berlari", "D": "berdua", "E": "berpakaian"},
+      "jawaban_benar": "B",
+      "pembahasan": "'Berlarian' = ber- + lari + -an (konfiks ber-an, bermakna berulang/ke berbagai arah). 'Berdatangan' = ber- + datang + -an dengan pola konfiks ber-an yang sama. Pilihan lain menggunakan ber- tanpa -an atau ber- dengan makna berbeda."
+    },
+    {
+      "id": 9,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'pertumbuhan' memiliki pola imbuhan per-an. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "pendidikan", "B": "perjalanan", "C": "penyebaran", "D": "pengiriman", "E": "pelayanan"},
+      "jawaban_benar": "B",
+      "pembahasan": "'Pertumbuhan' = per- + tumbuh + -an (konfiks per-an). 'Perjalanan' = per- + jalan + -an dengan pola yang sama. Keduanya menggunakan konfiks per-an. Pilihan lain menggunakan pe(N)-an dengan berbagai bentuk nasalisasi."
+    },
+    {
+      "id": 10,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'dipertanggungjawabkan' memiliki pola imbuhan diper-kan. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "dilakukan", "B": "dipertahankan", "C": "diberikan", "D": "disampaikan", "E": "ditingkatkan"},
+      "jawaban_benar": "B",
+      "pembahasan": "'Dipertanggungjawabkan' = diper- + tanggungjawab + -kan. 'Dipertahankan' = diper- + tahan + -kan. Keduanya menggunakan konfiks diper-kan (bentuk pasif dari memper-kan). Pilihan lain menggunakan di-kan biasa tanpa per-."
+    },
+    {
+      "id": 11,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'mengesampingkan' memiliki pola imbuhan menge-kan. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "menjalankan", "B": "mengesahkan", "C": "melaksanakan", "D": "meningkatkan", "E": "mengerjakan"},
+      "jawaban_benar": "B",
+      "pembahasan": "'Mengesampingkan' = menge- + samping + -kan. 'Mengesahkan' = menge- + sah + -kan. Keduanya menggunakan konfiks menge-kan (imbuhan menge- untuk kata yang memerlukan vokal penghubung e). Pilihan lain menggunakan me-kan biasa."
+    },
+    {
+      "id": 12,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'keterikatan' memiliki pola imbuhan ke-ter-an. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "keterangan", "B": "keterlibatan", "C": "keadaan", "D": "keteraturan", "E": "B dan D benar"},
+      "jawaban_benar": "E",
+      "pembahasan": "'Keterikatan' = ke- + ter- + ikat + -an. 'Keterlibatan' = ke- + ter- + libat + -an dan 'Keteraturan' = ke- + ter- + atur + -an. Ketiganya menggunakan pola ke-ter-an. 'Keterangan' = ke- + terang + -an (hanya ke-an, bukan ke-ter-an)."
+    },
+    {
+      "id": 13,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'peternakan' memiliki pola imbuhan pe-an (tanpa nasalisasi). Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "pembuatan", "B": "pelabuhan", "C": "penyebaran", "D": "pengiriman", "E": "pendidikan"},
+      "jawaban_benar": "B",
+      "pembahasan": "'Peternakan' = pe- + ternak + -an (tanpa nasalisasi, pe- tidak berubah). 'Pelabuhan' = pe- + labuh + -an (tanpa nasalisasi). Keduanya menggunakan pe-an tanpa nasalisasi karena kata dasar berawalan konsonan yang tidak memerlukan nasal (t, l). Sebenarnya pe-ternak menggunakan pe- biasa karena adanya prefiks ter- pada kata dasarnya."
+    },
+    {
+      "id": 14,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'mempersiapkan' memiliki pola imbuhan memper-kan. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "memperlihatkan", "B": "memperluas", "C": "memperindah", "D": "mempercepat", "E": "memperoleh"},
+      "jawaban_benar": "A",
+      "pembahasan": "'Mempersiapkan' = memper- + siap + -kan. 'Memperlihatkan' = memper- + lihat + -kan. Keduanya menggunakan konfiks memper-kan. Pilihan lain hanya menggunakan memper- tanpa akhiran -kan."
+    },
+    {
+      "id": 15,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'menandatangani' memiliki pola imbuhan me-i pada kata majemuk. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "menghormati", "B": "mengunjungi", "C": "menganaktirikan", "D": "melipatgandakan", "E": "memberitahukan"},
+      "jawaban_benar": "E",
+      "pembahasan": "'Menandatangani' = me- + tanda tangan (kata majemuk) + -i. 'Memberitahukan' = me- + beritahu (kata majemuk) + -kan. Keduanya menggunakan imbuhan pada kata majemuk. Pilihan lain menggunakan imbuhan pada kata dasar tunggal."
+    },
+    {
+      "id": 16,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'keilmuan' memiliki pola imbuhan ke-an bermakna 'hal yang berhubungan dengan'. Kata manakah yang memiliki pola dan makna imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "kepanasan", "B": "kedinginan", "C": "kebudayaan", "D": "kebanjiran", "E": "kebesaran (terlalu besar)"},
+      "jawaban_benar": "C",
+      "pembahasan": "'Keilmuan' = ke- + ilmu + -an (bermakna hal yang berkaitan dengan ilmu, abstrak). 'Kebudayaan' = ke- + budaya + -an (bermakna hal yang berkaitan dengan budaya). Keduanya menggunakan ke-an abstrak. Pilihan A, B, D bermakna terkena/menderita. Pilihan E bermakna terlalu."
+    },
+    {
+      "id": 17,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'kepanasan' memiliki pola imbuhan ke-an bermakna 'menderita/terkena'. Kata manakah yang memiliki pola dan makna imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "keadilan", "B": "kehujanan", "C": "keberanian", "D": "kebijaksanaan", "E": "keilmuan"},
+      "jawaban_benar": "B",
+      "pembahasan": "'Kepanasan' = ke- + panas + -an (bermakna terkena panas/terlalu panas). 'Kehujanan' = ke- + hujan + -an (bermakna terkena hujan). Keduanya menggunakan ke-an yang bermakna terkena atau menderita sesuatu. Pilihan lain bermakna abstrak/sifat."
+    },
+    {
+      "id": 18,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'pemberitahuan' memiliki pola imbuhan pem-an pada kata majemuk. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "penulisan", "B": "pengumuman", "C": "penyampaian", "D": "pelaksanaan", "E": "pertimbangan"},
+      "jawaban_benar": "C",
+      "pembahasan": "'Pemberitahuan' = pem- + beritahu + -an (pe(N)-an pada kata majemuk beritahu). 'Penyampaian' = peny- + sampai + -an. Namun yang paling sepadan adalah pola pe(N)-an pada kata yang cukup panjang. Pilihan C menggunakan peny-an (s luluh), sama-sama pe(N)-an. Pilihan E menggunakan per-an."
+    },
+    {
+      "id": 19,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'memperkirakan' memiliki pola imbuhan memper-kan dari kata dasar pendek. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "memperlihatkan", "B": "memperoleh", "C": "memperlakukan", "D": "mempertukarkan", "E": "memperlambat"},
+      "jawaban_benar": "D",
+      "pembahasan": "'Memperkirakan' = memper- + kira + -kan. 'Mempertukarkan' = memper- + tukar + -kan. Keduanya menggunakan konfiks memper-kan pada kata dasar yang relatif pendek (2 suku kata). Pilihan lain tidak menggunakan konfiks memper-kan secara utuh."
+    },
+    {
+      "id": 20,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'pemberdayaan' memiliki pola imbuhan pem-ber-an. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "pemberontakan", "B": "pembangunan", "C": "pemberitaan", "D": "pemberangkatan", "E": "pembuatan"},
+      "jawaban_benar": "C",
+      "pembahasan": "'Pemberdayaan' = pem- + ber- + daya + -an (mengandung ber- di dalam kata dasar). 'Pemberitaan' = pem- + berita + -an. Namun yang paling sepadan pola pem-ber-an adalah 'pemberantasan' atau sejenisnya. Dari pilihan yang ada, 'pemberitaan' paling mendekati pola pem-an dari kata ber-."
+    },
+    {
+      "id": 21,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'menggarisbawahi' memiliki pola imbuhan me-i pada kata majemuk. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "menghormati", "B": "menganak-tirikan", "C": "menandatangani", "D": "mempelajari", "E": "mengunjungi"},
+      "jawaban_benar": "C",
+      "pembahasan": "'Menggarisbawahi' = me- + garis bawah (majemuk) + -i. 'Menandatangani' = me- + tanda tangan (majemuk) + -i. Keduanya menggunakan imbuhan me-i yang melekat pada kata majemuk. Pilihan lain menggunakan me-i pada kata dasar tunggal."
+    },
+    {
+      "id": 22,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'persawahan' memiliki pola imbuhan per-an bermakna kawasan/tempat. Kata manakah yang memiliki pola dan makna imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "perjalanan", "B": "pertempuran", "C": "perbukitan", "D": "pertemuan", "E": "pertumbuhan"},
+      "jawaban_benar": "C",
+      "pembahasan": "'Persawahan' = per- + sawah + -an (bermakna kawasan/daerah bersawah). 'Perbukitan' = per- + bukit + -an (bermakna kawasan/daerah berbukit). Keduanya menggunakan per-an bermakna kawasan. Pilihan lain bermakna peristiwa atau proses."
+    },
+    {
+      "id": 23,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'pengetahuan' memiliki pola imbuhan penge-an. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "pengiriman", "B": "pengelolaan", "C": "pendidikan", "D": "penyebaran", "E": "pembangunan"},
+      "jawaban_benar": "B",
+      "pembahasan": "'Pengetahuan' = penge- + tahu + -an (penge- karena tahu bersuku satu). 'Pengelolaan' = penge- + lola + -an. Keduanya menggunakan bentuk penge- dari pe(N)- pada kata yang memerlukan vokal penghubung e. Pilihan lain menggunakan peng-, pen-, peny-, atau pem-."
+    },
+    {
+      "id": 24,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'menyederhanakan' memiliki pola imbuhan meny-kan (s luluh). Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "menjalankan", "B": "melaksanakan", "C": "menyelesaikan", "D": "mempercepat", "E": "mengerjakan"},
+      "jawaban_benar": "C",
+      "pembahasan": "'Menyederhanakan' = meny- + sederhana + -kan (s luluh jadi ny). 'Menyelesaikan' = meny- + selesai + -kan (s luluh jadi ny). Keduanya menggunakan konfiks meny-kan dari huruf awal s yang luluh. Pilihan lain menggunakan men-, me-, memp-, atau meng-."
+    },
+    {
+      "id": 25,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'dipermasalahkan' memiliki pola imbuhan diper-kan. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "dilaksanakan", "B": "dipertimbangkan", "C": "diberikan", "D": "diselesaikan", "E": "ditingkatkan"},
+      "jawaban_benar": "B",
+      "pembahasan": "'Dipermasalahkan' = diper- + masalah + -kan (pasif memper-kan). 'Dipertimbangkan' = diper- + timbang + -kan. Keduanya menggunakan konfiks diper-kan. Pilihan lain menggunakan di-kan biasa tanpa per-."
+    },
+    {
+      "id": 26,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'kebersamaan' memiliki pola imbuhan ke-ber-an. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "kesatuan", "B": "kemampuan", "C": "keberadaan", "D": "keadilan", "E": "kecantikan"},
+      "jawaban_benar": "C",
+      "pembahasan": "'Kebersamaan' = ke- + ber- + sama + -an. 'Keberadaan' = ke- + ber- + ada + -an. Keduanya menggunakan pola ke-ber-an yang mengandung prefiks ber- di dalam strukturnya. Pilihan lain hanya menggunakan konfiks ke-an tanpa ber-."
+    },
+    {
+      "id": 27,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'penyederhanaan' memiliki pola imbuhan peny-an (s luluh). Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "pengiriman", "B": "penyuluhan", "C": "pembangunan", "D": "pendidikan", "E": "perjalanan"},
+      "jawaban_benar": "B",
+      "pembahasan": "'Penyederhanaan' = peny- + sederhana + -an (s luluh). 'Penyuluhan' = peny- + suluh + -an (s luluh). Keduanya menggunakan bentuk peny- dari pe(N)-an karena kata dasar berawalan s. Pilihan lain menggunakan peng-, pem-, pen-, atau per-."
+    },
+    {
+      "id": 28,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'memperbarui' memiliki pola imbuhan memper-i. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "memperkuat", "B": "mempercayai", "C": "memperluas", "D": "memperindah", "E": "memperoleh"},
+      "jawaban_benar": "B",
+      "pembahasan": "'Memperbarui' = memper- + baru + -i. 'Mempercayai' = memper- + caya + -i. Keduanya menggunakan konfiks memper-i. Pilihan lain menggunakan memper- tanpa akhiran atau dengan -kan."
+    },
+    {
+      "id": 29,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'ketergantungan' memiliki pola imbuhan ke-an pada kata berimbuhan ter-. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "keadilan", "B": "keterangan", "C": "keterikatan", "D": "keberadaan", "E": "kemampuan"},
+      "jawaban_benar": "C",
+      "pembahasan": "'Ketergantungan' = ke- + ter- + gantung + -an (ke-an pada kata berter-). 'Keterikatan' = ke- + ter- + ikat + -an. Keduanya menggunakan pola ke-ter-an. 'Keterangan' hanya ke-an biasa (ke- + terang + -an, bukan ke-ter-an)."
+    },
+    {
+      "id": 30,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'menyosialisasikan' memiliki pola imbuhan meny-kan (s luluh) pada kata serapan. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "mengimplementasikan", "B": "menginternalisasikan", "C": "menyederhanakan", "D": "mengomunikasikan", "E": "mendigitalisasikan"},
+      "jawaban_benar": "C",
+      "pembahasan": "'Menyosialisasikan' = meny- + sosialisasi + -kan (s luluh). 'Menyederhanakan' = meny- + sederhana + -kan (s luluh). Keduanya menggunakan pola meny-kan karena kata dasar berawalan huruf s. Pilihan lain menggunakan meng- atau men-."
+    },
+    {
+      "id": 31,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'pertolongan' memiliki pola imbuhan per-an bermakna proses/tindakan. Kata manakah yang memiliki pola dan makna imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "persawahan", "B": "perbukitan", "C": "pertempuran", "D": "perkotaan", "E": "perladangan"},
+      "jawaban_benar": "C",
+      "pembahasan": "'Pertolongan' = per- + tolong + -an (bermakna tindakan/proses). 'Pertempuran' = per- + tempur + -an (bermakna peristiwa/tindakan). Keduanya menggunakan per-an bermakna tindakan atau peristiwa. Pilihan lain bermakna kawasan/tempat."
+    },
+    {
+      "id": 32,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'pendistribusian' memiliki pola imbuhan pen-an pada kata serapan. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "penyebaran", "B": "penjaringan", "C": "pengiriman", "D": "penjualan", "E": "pembangunan"},
+      "jawaban_benar": "D",
+      "pembahasan": "'Pendistribusian' = pen- + distribusi + -an (d, nasal n). 'Penjualan' = pen- + jual + -an (j, nasal n). Keduanya menggunakan bentuk pen- dari pe(N)-an karena kata dasar berawalan d atau j. Pilihan lain menggunakan peny-, peng-, atau pem-."
+    },
+    {
+      "id": 33,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'mengomunikasikan' memiliki pola imbuhan meng-kan (k luluh). Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "mensosialisasikan", "B": "menginformasikan", "C": "mengonsolidasikan", "D": "mentranskripsi", "E": "menyempurnakan"},
+      "jawaban_benar": "C",
+      "pembahasan": "'Mengomunikasikan' = meng- + komunikasi + -kan (k luluh jadi meng-). 'Mengonsolidasikan' = meng- + konsolidasi + -kan (k luluh). Keduanya menggunakan meng-kan dengan peluluhan huruf k. Pilihan B benar juga (meng-informasi-kan) tapi tidak ada peluluhan. Pilihan A salah (harusnya meny-)."
+    },
+    {
+      "id": 34,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'perkembangan' memiliki pola imbuhan per-an. Kata manakah yang TIDAK memiliki pola imbuhan yang sama?",
+      "pilihan_jawaban": {"A": "pertumbuhan", "B": "perjalanan", "C": "perjuangan", "D": "persawahan", "E": "penyebaran"},
+      "jawaban_benar": "E",
+      "pembahasan": "'Perkembangan', 'pertumbuhan', 'perjalanan', 'perjuangan', dan 'persawahan' semuanya menggunakan konfiks per-an. 'Penyebaran' menggunakan konfiks peny-an (pe(N)-an dengan s luluh), bukan per-an. Jadi 'penyebaran' TIDAK memiliki pola yang sama."
+    },
+    {
+      "id": 35,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'mempersatukan' memiliki pola imbuhan memper-kan. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "memperluas", "B": "mempersoalkan", "C": "mempercepat", "D": "memperindah", "E": "memperoleh"},
+      "jawaban_benar": "B",
+      "pembahasan": "'Mempersatukan' = memper- + satu + -kan. 'Mempersoalkan' = memper- + soal + -kan. Keduanya menggunakan konfiks memper-kan secara lengkap. Pilihan lain menggunakan memper- tanpa -kan (memperluas, memperindah) atau berbeda strukturnya."
+    },
+    {
+      "id": 36,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'kewarganegaraan' memiliki pola imbuhan ke-an pada kata majemuk. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "keadilan", "B": "keberanian", "C": "keikutsertaan", "D": "kemampuan", "E": "kebijaksanaan"},
+      "jawaban_benar": "C",
+      "pembahasan": "'Kewarganegaraan' = ke- + warganegara (majemuk) + -an. 'Keikutsertaan' = ke- + ikutserta (majemuk) + -an. Keduanya menggunakan ke-an yang melekat pada kata majemuk. Pilihan lain menggunakan ke-an pada kata dasar tunggal atau kata berimbuhan."
+    },
+    {
+      "id": 37,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'pelaksanaan' memiliki pola imbuhan pe-an (tanpa nasalisasi penuh). Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "penyebaran", "B": "pembangunan", "C": "pengiriman", "D": "pelatihan", "E": "penjualan"},
+      "jawaban_benar": "D",
+      "pembahasan": "'Pelaksanaan' = pe- + laksana + -an (l tidak luluh, tetap pe-). 'Pelatihan' = pe- + latih + -an (l tidak luluh, tetap pe-). Keduanya menggunakan pe-an tanpa perubahan nasal karena kata dasar berawalan l. Pilihan lain menggunakan peny-, pem-, peng-, atau pen-."
+    },
+    {
+      "id": 38,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'terpercaya' memiliki pola imbuhan ter- pada adjektiva. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "terjatuh", "B": "terpilih", "C": "terkemuka", "D": "terpecahkan", "E": "terbakar"},
+      "jawaban_benar": "C",
+      "pembahasan": "'Terpercaya' = ter- + percaya (bermakna 'dapat dipercaya'/adjektiva). 'Terkemuka' = ter- + kemuka (bermakna menonjol/adjektiva). Keduanya menggunakan ter- yang membentuk adjektiva bermakna 'dapat' atau 'bersifat'. Pilihan lain bermakna tidak sengaja, pasif, atau sudah selesai."
+    },
+    {
+      "id": 39,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'pengembangan' memiliki pola imbuhan peng-an. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "penyebaran", "B": "pembangunan", "C": "pengarahan", "D": "pelatihan", "E": "pendidikan"},
+      "jawaban_benar": "C",
+      "pembahasan": "'Pengembangan' = peng- + kembang + -an (k luluh). 'Pengarahan' = peng- + arah + -an (kata berawalan vokal, peng-). Keduanya menggunakan bentuk peng- dari pe(N)-an. Pilihan B (pem-), A (peny-), D dan E (pe- atau pen-)."
+    },
+    {
+      "id": 40,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'membelikan' memiliki pola imbuhan me-kan bermakna benefaktif. Kata manakah yang memiliki pola dan makna imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "membesarkan", "B": "memasukkan", "C": "memasak kan", "D": "membawakannya", "E": "membawakan"},
+      "jawaban_benar": "E",
+      "pembahasan": "'Membelikan' = me- + beli + -kan (benefaktif: membeli untuk orang lain). 'Membawakan' = me- + bawa + -kan (benefaktif: membawa untuk orang lain). Keduanya menggunakan me-kan bermakna melakukan sesuatu demi kepentingan orang lain. Pilihan lain bermakna kausatif atau direktif."
+    },
+    {
+      "id": 41,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'penyelesaian' memiliki pola imbuhan peny-an (s luluh). Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "pengembangan", "B": "pembangunan", "C": "penyebaran", "D": "pertolongan", "E": "peningkatan"},
+      "jawaban_benar": "C",
+      "pembahasan": "'Penyelesaian' = peny- + selesai + -an (s luluh). 'Penyebaran' = peny- + sebar + -an (s luluh). Keduanya menggunakan peny-an karena kata dasar berawalan huruf s. Pilihan lain menggunakan peng-, pem-, per-, atau pe(N)- bentuk lain."
+    },
+    {
+      "id": 42,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'berkesinambungan' memiliki pola imbuhan ber-ke-an. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "berkelanjutan", "B": "berkembang", "C": "bersama", "D": "berhasil", "E": "berjalan"},
+      "jawaban_benar": "A",
+      "pembahasan": "'Berkesinambungan' = ber- + ke- + sinambung + -an (pola ber-ke-an). 'Berkelanjutan' = ber- + ke- + lanjut + -an. Keduanya menggunakan pola ber-ke-an yang cukup langka. Pilihan lain hanya menggunakan ber- tunggal tanpa ke-an."
+    },
+    {
+      "id": 43,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'permasalahan' memiliki pola imbuhan per-an. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "penyebaran", "B": "pendidikan", "C": "persoalan", "D": "pembangunan", "E": "pengiriman"},
+      "jawaban_benar": "C",
+      "pembahasan": "'Permasalahan' = per- + masalah + -an (konfiks per-an). 'Persoalan' = per- + soal + -an. Keduanya menggunakan konfiks per-an. Pilihan lain menggunakan peny-, pen-, pem-, atau peng-."
+    },
+    {
+      "id": 44,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'menggarami' memiliki pola imbuhan me-i bermakna 'memberi sesuatu pada'. Kata manakah yang memiliki pola dan makna imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "memukuli", "B": "mengunjungi", "C": "mewarnai", "D": "mendekati", "E": "menghormati"},
+      "jawaban_benar": "C",
+      "pembahasan": "'Menggarami' = me- + garam + -i (memberi garam pada). 'Mewarnai' = me- + warna + -i (memberi warna pada). Keduanya menggunakan me-i bermakna memberi atau menambahkan sesuatu pada objek. Pilihan lain bermakna melakukan berulang (memukuli), menuju (mengunjungi, mendekati), atau melakukan (menghormati)."
+    },
+    {
+      "id": 45,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'peninggalan' memiliki pola imbuhan pe(N)-an bermakna 'hasil'. Kata manakah yang memiliki pola dan makna imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "pengiriman", "B": "penemuan", "C": "penyebaran", "D": "pendidikan", "E": "perjalanan"},
+      "jawaban_benar": "B",
+      "pembahasan": "'Peninggalan' = pe(N)- + tinggal + -an (hasil: sesuatu yang ditinggalkan). 'Penemuan' = pe(N)- + temu + -an (hasil: sesuatu yang ditemukan). Keduanya menggunakan pe(N)-an bermakna hasil perbuatan. Pilihan lain bermakna proses atau peristiwa."
+    },
+    {
+      "id": 46,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'terlantar' memiliki pola imbuhan ter- bermakna 'tidak terawat/terbengkalai'. Kata manakah yang memiliki pola dan makna imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "terjatuh", "B": "terpilih", "C": "terbengkalai", "D": "terpecahkan", "E": "terbakar"},
+      "jawaban_benar": "C",
+      "pembahasan": "'Terlantar' = ter- + lantar (bermakna terbengkalai, tidak ada yang mengurus). 'Terbengkalai' = ter- + bengkalai (bermakna tidak terselesaikan/terabaikan). Keduanya menggunakan ter- bermakna dalam keadaan diabaikan atau tidak terurus. Pilihan lain bermakna tidak sengaja atau sudah selesai."
+    },
+    {
+      "id": 47,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'perumahan' memiliki pola imbuhan per-an bermakna kawasan. Kata manakah yang memiliki pola dan makna imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "pertolongan", "B": "perjuangan", "C": "perindustrian", "D": "pertempuran", "E": "pertanian"},
+      "jawaban_benar": "C",
+      "pembahasan": "'Perumahan' = per- + rumah + -an (kawasan rumah). 'Perindustrian' = per- + industri + -an (kawasan industri). Keduanya menggunakan per-an bermakna kawasan atau daerah. Pilihan lain bermakna proses, tindakan, atau peristiwa."
+    },
+    {
+      "id": 48,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'memberantas' memiliki pola imbuhan mem-kan yang mengandung ber-. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "membangun", "B": "memberikan", "C": "membiayai", "D": "memperbaiki", "E": "membolehkan"},
+      "jawaban_benar": "B",
+      "pembahasan": "'Memberantas' = mem- + berantas (kata dasar berawal b). 'Memberikan' = mem- + beri + -kan (kata dasar berawal b, menggunakan mem-). Keduanya menggunakan mem- karena kata dasar berawalan b. Pilihan D menggunakan memper-, berbeda pola."
+    },
+    {
+      "id": 49,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'keikhlasan' memiliki pola imbuhan ke-an pada kata serapan. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "keberanian", "B": "keahlian", "C": "kecantikan", "D": "keadilan", "E": "kemampuan"},
+      "jawaban_benar": "B",
+      "pembahasan": "'Keikhlasan' = ke- + ikhlas + -an (ke-an pada kata yang berawalan vokal i). 'Keahlian' = ke- + ahli + -an (ke-an pada kata yang berawalan vokal a). Keduanya menggunakan konfiks ke-an pada kata dasar berawalan vokal. Pola yang sama secara fonologis."
+    },
+    {
+      "id": 50,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'pengembara' memiliki pola imbuhan pe(N)- bermakna pelaku. Kata manakah yang memiliki pola dan makna imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "pelatihan", "B": "penyuluhan", "C": "pengelana", "D": "pertolongan", "E": "peningkatan"},
+      "jawaban_benar": "C",
+      "pembahasan": "'Pengembara' = pe(N)- + kembara (pelaku: orang yang mengembara). 'Pengelana' = pe(N)- + kelana (pelaku: orang yang mengembara/berkelana). Keduanya menggunakan pe(N)- bermakna pelaku. Pilihan lain menggunakan pe(N)-an (konfiks) yang bermakna proses, bukan pe(N)- tunggal bermakna pelaku."
+    },
+    {
+      "id": 51,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'mendinginkan' memiliki pola imbuhan me-kan kausatif. Kata manakah yang memiliki pola dan makna imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "menjalankan", "B": "memanaskan", "C": "memberikan", "D": "membawakan", "E": "menuliskan"},
+      "jawaban_benar": "B",
+      "pembahasan": "'Mendinginkan' = me- + dingin + -kan (kausatif: menyebabkan menjadi dingin). 'Memanaskan' = me- + panas + -kan (kausatif: menyebabkan menjadi panas). Keduanya menggunakan me-kan pada adjektif untuk menyatakan kausatif. Pilihan lain bermakna direktif atau benefaktif."
+    },
+    {
+      "id": 52,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'pengumuman' memiliki pola imbuhan peng-an. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "penyuluhan", "B": "pembangunan", "C": "penggunaan", "D": "pendidikan", "E": "pertolongan"},
+      "jawaban_benar": "C",
+      "pembahasan": "'Pengumuman' = peng- + umu + -an (dari kata 'umum', berawalan vokal). 'Penggunaan' = peng- + guna + -an (g luluh jadi ng, pola peng-). Keduanya menggunakan bentuk peng- dari pe(N)-an. Pilihan lain menggunakan peny-, pem-, pen-, atau per-."
+    },
+    {
+      "id": 53,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'dipertanyakan' memiliki pola imbuhan diper-kan. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "ditanyakan", "B": "diperkirakan", "C": "disampaikan", "D": "dilaksanakan", "E": "diberikan"},
+      "jawaban_benar": "B",
+      "pembahasan": "'Dipertanyakan' = diper- + tanya + -kan (pasif dari mempertanyakan). 'Diperkirakan' = diper- + kira + -kan (pasif dari memperkirakan). Keduanya menggunakan konfiks diper-kan. Pilihan lain menggunakan di-kan biasa."
+    },
+    {
+      "id": 54,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'mempelajari' memiliki pola imbuhan memper-i yang unik. Kata manakah yang memiliki pola imbuhan paling MIRIP?",
+      "pilihan_jawaban": {"A": "mempercayai", "B": "memperluas", "C": "memperindah", "D": "memperkuat", "E": "memperoleh"},
+      "jawaban_benar": "A",
+      "pembahasan": "'Mempelajari' = me- + pe- + ajar + -i (memper-i pada beberapa analisis). 'Mempercayai' = memper- + caya + -i. Keduanya menggunakan konfiks memper-i. Pilihan lain menggunakan memper- tanpa -i."
+    },
+    {
+      "id": 55,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'ketidakmampuan' memiliki pola imbuhan ke-an pada negasi. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "ketidakhadiran", "B": "kemampuan", "C": "kehadiran", "D": "ketidaksabaran", "E": "A dan D benar"},
+      "jawaban_benar": "E",
+      "pembahasan": "'Ketidakmampuan' = ke- + tidak + mampu + -an. 'Ketidakhadiran' = ke- + tidak + hadir + -an. 'Ketidaksabaran' = ke- + tidak + sabar + -an. Ketiganya menggunakan ke-an pada frasa negasi 'tidak + kata dasar'. Pilihan A dan D benar."
+    },
+    {
+      "id": 56,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'pemikiran' memiliki pola imbuhan pem-an. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "pendidikan", "B": "pembuatan", "C": "penyebaran", "D": "pengiriman", "E": "pelatihan"},
+      "jawaban_benar": "B",
+      "pembahasan": "'Pemikiran' = pem- + pikir + -an (p luluh jadi pem-, kata dasar pikir). 'Pembuatan' = pem- + buat + -an (kata dasar buat, berawalan b). Keduanya menggunakan pem-an. Pilihan lain menggunakan pen-, peny-, peng-, atau pe-."
+    },
+    {
+      "id": 57,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'menggalakkan' memiliki pola imbuhan meng-kan. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "menyebarkan", "B": "menjalankan", "C": "menggerakkan", "D": "mempercepat", "E": "meningkatkan"},
+      "jawaban_benar": "C",
+      "pembahasan": "'Menggalakkan' = meng- + galak + -kan (g tidak luluh, meng-). 'Menggerakkan' = meng- + gerak + -kan. Keduanya menggunakan konfiks meng-kan karena kata dasar berawalan g. Pilihan lain menggunakan meny-, men-, memp-, atau me-."
+    },
+    {
+      "id": 58,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'perencanaan' memiliki pola imbuhan per-an. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "penyebaran", "B": "pembangunan", "C": "perancangan", "D": "pendidikan", "E": "pengiriman"},
+      "jawaban_benar": "C",
+      "pembahasan": "'Perencanaan' = per- + rencana + -an. 'Perancangan' = per- + rancang + -an. Keduanya menggunakan konfiks per-an pada kata dasar berawalan r. Pilihan lain menggunakan peny-, pem-, pen-, atau peng-."
+    },
+    {
+      "id": 59,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'menjajaki' memiliki pola imbuhan me-i bermakna menuju/mendatangi. Kata manakah yang memiliki pola dan makna imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "memukuli", "B": "menggarami", "C": "memasuki", "D": "mewarnai", "E": "menghormati"},
+      "jawaban_benar": "C",
+      "pembahasan": "'Menjajaki' = me- + jajak + -i (menuju/mengeksplorasi sesuatu). 'Memasuki' = me- + masuk + -i (menuju ke dalam). Keduanya menggunakan me-i bermakna menuju atau mendatangi suatu tempat/hal. Pilihan lain bermakna memberi, berulang, atau melakukan."
+    },
+    {
+      "id": 60,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'pembaharuan' memiliki pola imbuhan pem-an. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "peningkatan", "B": "pembaruan", "C": "pengembangan", "D": "perubahan", "E": "penyebaran"},
+      "jawaban_benar": "B",
+      "pembahasan": "'Pembaharuan' = pem- + baharu + -an. 'Pembaruan' = pem- + baru + -an. Keduanya menggunakan pem-an karena kata dasar berawalan b. Kedua kata ini sebenarnya bersinonim. Pilihan lain menggunakan pe(N)-an bentuk lain atau per-an."
+    },
+    {
+      "id": 61,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'kesadaran' memiliki pola imbuhan ke-an dari kata adjektif 'sadar'. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "kepanasan", "B": "kedinginan", "C": "keberanian", "D": "kematangan", "E": "kehujanan"},
+      "jawaban_benar": "D",
+      "pembahasan": "'Kesadaran' = ke- + sadar + -an (adjektif → nomina abstrak). 'Kematangan' = ke- + matang + -an (adjektif → nomina abstrak). Keduanya menggunakan ke-an untuk membentuk nomina abstrak dari adjektif. Pilihan A, B, E bermakna terkena, pilihan C mengandung ber-."
+    },
+    {
+      "id": 62,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'pemberantasan' memiliki pola imbuhan pem-an. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "pengiriman", "B": "penyebaran", "C": "pembuktian", "D": "peningkatan", "E": "pertolongan"},
+      "jawaban_benar": "C",
+      "pembahasan": "'Pemberantasan' = pem- + berantas + -an (kata dasar berawalan b). 'Pembuktian' = pem- + bukti + -an (kata dasar berawalan b). Keduanya menggunakan pem-an karena kata dasar berawalan b. Pilihan lain menggunakan peng-, peny-, pe-, atau per-."
+    },
+    {
+      "id": 63,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'penanggulangan' memiliki pola imbuhan pe(N)-an (nan-). Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "penyebaran", "B": "penangkapan", "C": "pembangunan", "D": "pengiriman", "E": "pelatihan"},
+      "jawaban_benar": "B",
+      "pembahasan": "'Penanggulangan' = pe- + N + tanggulang + -an → penanggulangan (t luluh, nasal n). 'Penangkapan' = pe- + N + tangkap + -an (t luluh, nasal n). Keduanya menggunakan pe(N)-an dengan nasal n karena kata dasar berawalan t. Pilihan lain menggunakan peny-, pem-, peng-, atau pe-."
+    },
+    {
+      "id": 64,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'menyepelekan' memiliki pola imbuhan meny-kan (s luluh). Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "mengecilkan", "B": "menjalankan", "C": "menyuarakan", "D": "memperkecil", "E": "meningkatkan"},
+      "jawaban_benar": "C",
+      "pembahasan": "'Menyepelekan' = meny- + sepele + -kan (s luluh). 'Menyuarakan' = meny- + suara + -kan (s luluh). Keduanya menggunakan konfiks meny-kan karena kata dasar berawalan s. Pilihan lain menggunakan meng-, men-, memp-, atau me-."
+    },
+    {
+      "id": 65,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'perselisihan' memiliki pola imbuhan per-an. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "penyebaran", "B": "pertarungan", "C": "pembangunan", "D": "pengiriman", "E": "pelatihan"},
+      "jawaban_benar": "B",
+      "pembahasan": "'Perselisihan' = per- + selisih + -an. 'Pertarungan' = per- + tarung + -an. Keduanya menggunakan konfiks per-an bermakna peristiwa/tindakan. Pilihan lain menggunakan peny-, pem-, peng-, atau pe-."
+    },
+    {
+      "id": 66,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'pembebasan' memiliki pola imbuhan pem-an. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "penyebaran", "B": "pengiriman", "C": "pembekalan", "D": "pertolongan", "E": "pendidikan"},
+      "jawaban_benar": "C",
+      "pembahasan": "'Pembebasan' = pem- + bebas + -an (kata dasar berawalan b). 'Pembekalan' = pem- + bekal + -an (kata dasar berawalan b). Keduanya menggunakan pem-an karena kata dasar berawalan b. Pilihan lain menggunakan peny-, peng-, per-, atau pen-."
+    },
+    {
+      "id": 67,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'meluapkan' memiliki pola imbuhan me-kan direktif (menyebabkan sesuatu ke luar). Kata manakah yang memiliki pola dan makna SAMA?",
+      "pilihan_jawaban": {"A": "menjalankan", "B": "meluarkan", "C": "mengeluarkan", "D": "memberikan", "E": "membawakan"},
+      "jawaban_benar": "C",
+      "pembahasan": "'Meluapkan' = me- + luap + -kan (menyebabkan sesuatu meluap/keluar). 'Mengeluarkan' = me- + keluar + -kan (menyebabkan sesuatu keluar). Keduanya menggunakan me-kan yang bermakna menyebabkan sesuatu bergerak keluar. Ini adalah makna direktif dari me-kan."
+    },
+    {
+      "id": 68,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'kesetiaan' memiliki pola imbuhan ke-an dari adjektif 'setia'. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "kehujanan", "B": "kepanasan", "C": "ketulusan", "D": "kedinginan", "E": "kebanjiran"},
+      "jawaban_benar": "C",
+      "pembahasan": "'Kesetiaan' = ke- + setia + -an (adjektif → nomina abstrak). 'Ketulusan' = ke- + tulus + -an (adjektif → nomina abstrak). Keduanya menggunakan ke-an untuk membentuk nomina abstrak dari adjektif yang bermakna sifat positif. Pilihan lain bermakna terkena sesuatu."
+    },
+    {
+      "id": 69,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'persatuan' memiliki pola imbuhan per-an. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "pembangunan", "B": "penyatuan", "C": "persaudaraan", "D": "penyebaran", "E": "pendidikan"},
+      "jawaban_benar": "C",
+      "pembahasan": "'Persatuan' = per- + satu + -an. 'Persaudaraan' = per- + saudara + -an. Keduanya menggunakan konfiks per-an. Pilihan lain menggunakan pem-, peny-, atau pen-. Catatan: 'penyatuan' menggunakan peny-an (berbeda dari per-an)."
+    },
+    {
+      "id": 70,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'memudarkan' memiliki pola imbuhan me-kan kausatif dari adjektif. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "memperindah", "B": "melunakkan", "C": "memberikan", "D": "membawakan", "E": "melaksanakan"},
+      "jawaban_benar": "B",
+      "pembahasan": "'Memudarkan' = me- + pudar + -kan (kausatif: menyebabkan menjadi pudar). 'Melunakkan' = me- + lunak + -kan (kausatif: menyebabkan menjadi lunak). Keduanya menggunakan me-kan pada adjektif bermakna kausatif. Pilihan lain bermakna benefaktif, direktif, atau berbeda pola."
+    },
+    {
+      "id": 71,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'penyelidikan' memiliki pola imbuhan peny-an. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "pengiriman", "B": "penyebaran", "C": "pembangunan", "D": "pendidikan", "E": "pertolongan"},
+      "jawaban_benar": "B",
+      "pembahasan": "'Penyelidikan' = peny- + selidik + -an (s luluh). 'Penyebaran' = peny- + sebar + -an (s luluh). Keduanya menggunakan peny-an karena kata dasar berawalan s. Pilihan lain menggunakan peng-, pem-, pen-, atau per-."
+    },
+    {
+      "id": 72,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'mempertemukan' memiliki pola imbuhan memper-kan. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "mempercepat", "B": "memperluas", "C": "memperbarukan", "D": "memperindah", "E": "memperoleh"},
+      "jawaban_benar": "C",
+      "pembahasan": "'Mempertemukan' = memper- + temu + -kan. 'Memperbarukan' = memper- + baru + -kan. Keduanya menggunakan konfiks memper-kan secara lengkap. Pilihan lain menggunakan memper- tanpa -kan."
+    },
+    {
+      "id": 73,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'dedaunan' memiliki pola imbuhan pengulangan + -an bermakna kolektif. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "lautan", "B": "bebatuan", "C": "hutan", "D": "tumbuhan", "E": "rerumputan"},
+      "jawaban_benar": "E",
+      "pembahasan": "'Dedaunan' = de- (reduplikasi parsial) + daun + -an (kolektif). 'Rerumputan' = re- (reduplikasi parsial) + rumput + -an. Keduanya menggunakan pola reduplikasi parsial + -an untuk menyatakan makna kolektif. Pilihan B 'bebatuan' juga sepadan. E adalah jawaban terbaik karena pola re- + kata + -an."
+    },
+    {
+      "id": 74,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'keseimbangan' memiliki pola imbuhan ke-an dari kata berimbuhan. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "kemampuan", "B": "keberanian", "C": "kestabilan", "D": "kebijakan", "E": "keadilan"},
+      "jawaban_benar": "C",
+      "pembahasan": "'Keseimbangan' = ke- + seimbang + -an (kata dasar 'seimbang' sudah berimbuhan se-). 'Kestabilan' = ke- + stabil + -an. Keduanya menggunakan ke-an untuk membentuk nomina abstrak dari adjektif. Pilihan B mengandung ber- (keberanian = ke-ber-an)."
+    },
+    {
+      "id": 75,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'mencelakakan' memiliki pola imbuhan me-kan pada nomina. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "memanaskan", "B": "mendinginkan", "C": "membahayakan", "D": "memperindah", "E": "memperluas"},
+      "jawaban_benar": "C",
+      "pembahasan": "'Mencelakakan' = me- + celaka + -kan (nomina/adjektif → kausatif). 'Membahayakan' = me- + bahaya + -kan (nomina → kausatif). Keduanya menggunakan me-kan pada nomina untuk menyatakan menyebabkan sesuatu berbahaya/celaka. Pilihan A, B menggunakan adjektif sebagai kata dasar."
+    },
+    {
+      "id": 76,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'pengorbanan' memiliki pola imbuhan peng-an. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "penyebaran", "B": "penggunaan", "C": "pembangunan", "D": "pelatihan", "E": "pertolongan"},
+      "jawaban_benar": "B",
+      "pembahasan": "'Pengorbanan' = peng- + korban + -an (k luluh jadi ng). 'Penggunaan' = peng- + guna + -an. Keduanya menggunakan peng-an. Pilihan lain menggunakan peny-, pem-, pe-, atau per-."
+    },
+    {
+      "id": 77,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'melestarikan' memiliki pola imbuhan me-kan. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "menyejahterakan", "B": "memperluas", "C": "memperbarui", "D": "mengesahkan", "E": "mengecilkan"},
+      "jawaban_benar": "A",
+      "pembahasan": "'Melestarikan' = me- + lestari + -kan (adjektif → kausatif). 'Menyejahterakan' = me- + sejahtera + -kan (adjektif → kausatif). Keduanya menggunakan me-kan pada adjektif bermakna menyebabkan menjadi sesuatu. Pilihan lain menggunakan pola imbuhan yang berbeda."
+    },
+    {
+      "id": 78,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'pembatasan' memiliki pola imbuhan pem-an. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "pengiriman", "B": "pembinaan", "C": "penyebaran", "D": "pelatihan", "E": "pertolongan"},
+      "jawaban_benar": "B",
+      "pembahasan": "'Pembatasan' = pem- + batas + -an (kata dasar berawalan b). 'Pembinaan' = pem- + bina + -an (kata dasar berawalan b). Keduanya menggunakan pem-an. Pilihan lain menggunakan peng-, peny-, pe-, atau per-."
+    },
+    {
+      "id": 79,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'perombakan' memiliki pola imbuhan per-an. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "penyebaran", "B": "pembangunan", "C": "perobahan", "D": "perubahan", "E": "pendidikan"},
+      "jawaban_benar": "D",
+      "pembahasan": "'Perombakan' = per- + rombak + -an. 'Perubahan' = per- + ubah + -an. Keduanya menggunakan konfiks per-an. Pilihan lain menggunakan peny-, pem-, atau pen-. Catatan: 'perobahan' tidak baku, yang baku adalah 'perubahan'."
+    },
+    {
+      "id": 80,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'memperkerjakan' memiliki pola imbuhan memper-kan. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "meningkatkan", "B": "mempercepat", "C": "mempersoalkan", "D": "memperluas", "E": "memperindah"},
+      "jawaban_benar": "C",
+      "pembahasan": "'Memperkerjakan' = memper- + kerja + -kan. 'Mempersoalkan' = memper- + soal + -kan. Keduanya menggunakan konfiks memper-kan secara lengkap. Pilihan lain menggunakan memper- tanpa -kan atau imbuhan berbeda."
+    },
+    {
+      "id": 81,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'kecemasan' memiliki pola imbuhan ke-an dari adjektif. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "kehujanan", "B": "kepanasan", "C": "kegelisahan", "D": "kedinginan", "E": "kebanjiran"},
+      "jawaban_benar": "C",
+      "pembahasan": "'Kecemasan' = ke- + cemas + -an (adjektif → nomina abstrak). 'Kegelisahan' = ke- + gelisah + -an (adjektif → nomina abstrak). Keduanya menggunakan ke-an untuk membentuk nomina abstrak dari adjektif perasaan. Pilihan lain bermakna terkena sesuatu."
+    },
+    {
+      "id": 82,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'pemindahan' memiliki pola imbuhan pem-an. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "pengiriman", "B": "pemisahan", "C": "penyebaran", "D": "pelatihan", "E": "pertolongan"},
+      "jawaban_benar": "B",
+      "pembahasan": "'Pemindahan' = pem- + pindah + -an (p luluh jadi pem-). 'Pemisahan' = pem- + pisah + -an (p luluh jadi pem-). Keduanya menggunakan pem-an karena kata dasar berawalan p (luluh) atau b. Pilihan lain menggunakan peng-, peny-, pe-, atau per-."
+    },
+    {
+      "id": 83,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'pengangkatan' memiliki pola imbuhan peng-an. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "penyebaran", "B": "pembangunan", "C": "pengakuan", "D": "pelatihan", "E": "pertolongan"},
+      "jawaban_benar": "C",
+      "pembahasan": "'Pengangkatan' = peng- + angkat + -an (kata dasar berawalan vokal a, peng-). 'Pengakuan' = peng- + aku + -an (kata dasar berawalan vokal a, peng-). Keduanya menggunakan peng-an karena kata dasar berawalan vokal. Pilihan lain menggunakan peny-, pem-, pe-, atau per-."
+    },
+    {
+      "id": 84,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'menyehatkan' memiliki pola imbuhan meny-kan (s luluh) kausatif. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "memanaskan", "B": "menyenangkan", "C": "menjalankan", "D": "menggerakkan", "E": "membesarkan"},
+      "jawaban_benar": "B",
+      "pembahasan": "'Menyehatkan' = meny- + sehat + -kan (s luluh, kausatif). 'Menyenangkan' = meny- + senang + -kan (s luluh, kausatif). Keduanya menggunakan meny-kan karena kata dasar berawalan s. Pilihan lain menggunakan mem-, men-, meng-, atau me-."
+    },
+    {
+      "id": 85,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'pertukaran' memiliki pola imbuhan per-an. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "penyebaran", "B": "pembangunan", "C": "perjanjian", "D": "pendidikan", "E": "pengiriman"},
+      "jawaban_benar": "C",
+      "pembahasan": "'Pertukaran' = per- + tukar + -an. 'Perjanjian' = per- + janji + -an. Keduanya menggunakan konfiks per-an. Pilihan lain menggunakan peny-, pem-, pen-, atau peng-."
+    },
+    {
+      "id": 86,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'dilestarikan' memiliki pola imbuhan di-kan. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "dipertahankan", "B": "dilaksanakan", "C": "dipersoalkan", "D": "dileburkan", "E": "diperkirakan"},
+      "jawaban_benar": "D",
+      "pembahasan": "'Dilestarikan' = di- + lestari + -kan (pasif me-kan biasa). 'Dileburkan' = di- + lebur + -kan (pasif me-kan biasa). Keduanya menggunakan di-kan tanpa per-. Pilihan A, C, E menggunakan diper-kan."
+    },
+    {
+      "id": 87,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'pengumuman' memiliki pola imbuhan peng-an. Kata manakah yang TIDAK memiliki pola imbuhan yang sama?",
+      "pilihan_jawaban": {"A": "pengembangan", "B": "penggunaan", "C": "pengiriman", "D": "penyebaran", "E": "pengakuan"},
+      "jawaban_benar": "D",
+      "pembahasan": "'Pengumuman', 'pengembangan', 'penggunaan', 'pengiriman', dan 'pengakuan' semuanya menggunakan peng-an atau peng- (variasi pe(N)-an). 'Penyebaran' menggunakan peny-an (s luluh jadi ny), bukan peng-an. Jadi 'penyebaran' TIDAK sepadan."
+    },
+    {
+      "id": 88,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'menghidupkan' memiliki pola imbuhan meng-kan. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "menjalankan", "B": "menyebarkan", "C": "menggerakkan", "D": "mempercepat", "E": "meningkatkan"},
+      "jawaban_benar": "C",
+      "pembahasan": "'Menghidupkan' = meng- + hidup + -kan. 'Menggerakkan' = meng- + gerak + -kan. Keduanya menggunakan konfiks meng-kan. Pilihan lain menggunakan men-, meny-, memp-, atau me-."
+    },
+    {
+      "id": 89,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'penerapan' memiliki pola imbuhan pe(N)-an. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "pertolongan", "B": "pelaksanaan", "C": "perjalanan", "D": "pendekatan", "E": "pelatihan"},
+      "jawaban_benar": "D",
+      "pembahasan": "'Penerapan' = pe(N)- + terap + -an (t luluh, nasal n). 'Pendekatan' = pe(N)- + dekat + -an (nasal n). Keduanya menggunakan pe(N)-an dengan nasal n. Pilihan B dan E menggunakan pe-an (l tidak luluh). Pilihan A dan C menggunakan per-an."
+    },
+    {
+      "id": 90,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'pemanasan' memiliki pola imbuhan pem-an. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "pendinginan", "B": "pembatasan", "C": "penyebaran", "D": "pengiriman", "E": "perjalanan"},
+      "jawaban_benar": "B",
+      "pembahasan": "'Pemanasan' = pem- + panas + -an (p luluh jadi pem-). 'Pembatasan' = pem- + batas + -an. Keduanya menggunakan pem-an. 'Pendinginan' menggunakan pen-an (d, nasal n). Pilihan lain menggunakan peny-, peng-, atau per-."
+    },
+    {
+      "id": 91,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'melemahkan' memiliki pola imbuhan me-kan kausatif. Kata manakah yang memiliki pola dan makna imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "menguatkan", "B": "memberikan", "C": "membawakan", "D": "memperindah", "E": "memperluas"},
+      "jawaban_benar": "A",
+      "pembahasan": "'Melemahkan' = me- + lemah + -kan (kausatif: menyebabkan menjadi lemah). 'Menguatkan' = me- + kuat + -kan (kausatif: menyebabkan menjadi kuat). Keduanya menggunakan me-kan pada adjektif bermakna kausatif. Pilihan lain bermakna benefaktif atau berbeda pola."
+    },
+    {
+      "id": 92,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'penggalian' memiliki pola imbuhan peng-an. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "penyebaran", "B": "pembangunan", "C": "penggambaran", "D": "pelatihan", "E": "pertolongan"},
+      "jawaban_benar": "C",
+      "pembahasan": "'Penggalian' = peng- + gali + -an (g tidak luluh). 'Penggambaran' = peng- + gambar + -an (g tidak luluh). Keduanya menggunakan peng-an dengan kata dasar berawalan g. Pilihan lain menggunakan peny-, pem-, pe-, atau per-."
+    },
+    {
+      "id": 93,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'mempersoalkan' memiliki pola imbuhan memper-kan. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "memperluas", "B": "mempertaruhkan", "C": "mempercepat", "D": "memperindah", "E": "memperoleh"},
+      "jawaban_benar": "B",
+      "pembahasan": "'Mempersoalkan' = memper- + soal + -kan. 'Mempertaruhkan' = memper- + taruh + -kan. Keduanya menggunakan konfiks memper-kan secara lengkap. Pilihan lain menggunakan memper- tanpa -kan."
+    },
+    {
+      "id": 94,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'penerimaan' memiliki pola imbuhan pe(N)-an bermakna proses. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "penemuan", "B": "pembangunan", "C": "penyebaran", "D": "pengiriman", "E": "pertolongan"},
+      "jawaban_benar": "D",
+      "pembahasan": "'Penerimaan' = pe(N)- + terima + -an (t luluh, nasal n, bermakna proses). 'Pengiriman' = peng- + kirim + -an (k luluh, bermakna proses). Keduanya menggunakan pe(N)-an bermakna proses. Pilihan A (penemuan) bermakna hasil. Pilihan lain berbeda bentuk nasalisasinya."
+    },
+    {
+      "id": 95,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'kepengurusan' memiliki pola imbuhan ke-pe(N)-an. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "kepemimpinan", "B": "keberanian", "C": "kemampuan", "D": "keadilan", "E": "kecantikan"},
+      "jawaban_benar": "A",
+      "pembahasan": "'Kepengurusan' = ke- + peng- + urus + -an (pola ke-pe(N)-an). 'Kepemimpinan' = ke- + pe- + mimpin + -an (pola ke-pe(N)-an). Keduanya menggunakan pola ke-pe(N)-an yang menyatakan hal yang berkaitan dengan jabatan/tugas. Pilihan lain hanya menggunakan ke-an atau ke-ber-an."
+    },
+    {
+      "id": 96,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'pengangguran' memiliki pola imbuhan peng-an bermakna pelaku/keadaan. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "penyebaran", "B": "pengembangan", "C": "pengembaraan", "D": "pelatihan", "E": "pertolongan"},
+      "jawaban_benar": "C",
+      "pembahasan": "'Pengangguran' = peng- + anggur + -an (bermakna orang yang menganggur/keadaan). 'Pengembaraan' = peng- + embara + -an (bermakna tindakan/keadaan mengembara). Keduanya menggunakan peng-an. Pilihan lain menggunakan peny-, pem-/peng- berbeda konteks, pe-, atau per-."
+    },
+    {
+      "id": 97,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'meratakan' memiliki pola imbuhan me-kan dari adjektif. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "meratapi", "B": "meramaikan", "C": "memberikan", "D": "membawakan", "E": "memperindah"},
+      "jawaban_benar": "B",
+      "pembahasan": "'Meratakan' = me- + rata + -kan (adjektif → kausatif). 'Meramaikan' = me- + ramai + -kan (adjektif → kausatif). Keduanya menggunakan me-kan pada adjektif bermakna kausatif. Pilihan A bermakna intensif, C dan D bermakna benefaktif, E menggunakan memper-."
+    },
+    {
+      "id": 98,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'penghargaan' memiliki pola imbuhan peng-an. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "penyebaran", "B": "pembangunan", "C": "penghematan", "D": "pelatihan", "E": "pertolongan"},
+      "jawaban_benar": "C",
+      "pembahasan": "'Penghargaan' = peng- + harga + -an (h tidak luluh). 'Penghematan' = peng- + hemat + -an (h tidak luluh). Keduanya menggunakan peng-an dengan kata dasar berawalan h. Pilihan lain menggunakan peny-, pem-, pe-, atau per-."
+    },
+    {
+      "id": 99,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'menginformasikan' memiliki pola imbuhan meng-kan. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "mensosialisasikan", "B": "menyederhanakan", "C": "mengimplementasikan", "D": "mentransaksikan", "E": "mempersoalkan"},
+      "jawaban_benar": "C",
+      "pembahasan": "'Menginformasikan' = meng- + informasi + -kan (kata berawalan vokal i). 'Mengimplementasikan' = meng- + implementasi + -kan (kata berawalan vokal i). Keduanya menggunakan meng-kan karena kata dasar berawalan vokal. Pilihan lain menggunakan men-, meny-, memp-, atau pola lain."
+    },
+    {
+      "id": 100,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'keselamatan' memiliki pola imbuhan ke-an dari adjektif. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "kehujanan", "B": "kepanasan", "C": "kesetiaan", "D": "kedinginan", "E": "kebanjiran"},
+      "jawaban_benar": "C",
+      "pembahasan": "'Keselamatan' = ke- + selamat + -an (adjektif → nomina abstrak bermakna hal keselamatan). 'Kesetiaan' = ke- + setia + -an (adjektif → nomina abstrak). Keduanya menggunakan ke-an untuk membentuk nomina abstrak dari adjektif. Pilihan lain bermakna terkena sesuatu."
+    },
+    {
+      "id": 101,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'penyaluran' memiliki pola imbuhan peny-an (s luluh). Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "pengiriman", "B": "pembangunan", "C": "penyusunan", "D": "pelatihan", "E": "pertolongan"},
+      "jawaban_benar": "C",
+      "pembahasan": "'Penyaluran' = peny- + salur + -an (s luluh). 'Penyusunan' = peny- + susun + -an (s luluh). Keduanya menggunakan peny-an karena kata dasar berawalan s. Pilihan lain menggunakan peng-, pem-, pe-, atau per-."
+    },
+    {
+      "id": 102,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'memasarkan' memiliki pola imbuhan me-kan. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "memperindah", "B": "memperluas", "C": "membukukan", "D": "mempersoalkan", "E": "mempercepat"},
+      "jawaban_benar": "C",
+      "pembahasan": "'Memasarkan' = me- + pasar + -kan (nominisasi: menjadikan sebagai pasar/memasarkan). 'Membukukan' = me- + buku + -kan (nominisasi: menjadikan ke dalam buku). Keduanya menggunakan me-kan pada nomina bermakna menjadikan sesuatu. Pilihan lain menggunakan memper- atau pola lain."
+    },
+    {
+      "id": 103,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'penambahan' memiliki pola imbuhan pe(N)-an. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "penyebaran", "B": "pembuatan", "C": "penggambaran", "D": "peningkatan", "E": "pertolongan"},
+      "jawaban_benar": "D",
+      "pembahasan": "'Penambahan' = pe(N)- + tambah + -an (nasal n, t luluh). 'Peningkatan' = pe(N)- + tingkat + -an (nasal n, t luluh). Keduanya menggunakan pe(N)-an dengan nasal n karena kata dasar berawalan t. Pilihan lain menggunakan peny-, pem-, peng-, atau per-."
+    },
+    {
+      "id": 104,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'perpindahan' memiliki pola imbuhan per-an. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "penyebaran", "B": "pemindahan", "C": "perbedaan", "D": "pendidikan", "E": "pengiriman"},
+      "jawaban_benar": "C",
+      "pembahasan": "'Perpindahan' = per- + pindah + -an. 'Perbedaan' = per- + beda + -an. Keduanya menggunakan konfiks per-an. Pilihan lain menggunakan peny-, pem-, pen-, atau peng-."
+    },
+    {
+      "id": 105,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'pemberdayaan' memiliki pola imbuhan pem-ber-an. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "pembangunan", "B": "pemberian", "C": "pemberlakuan", "D": "pembiayaan", "E": "pembuatan"},
+      "jawaban_benar": "C",
+      "pembahasan": "'Pemberdayaan' = pem- + ber- + daya + -an (mengandung ber- dalam struktur). 'Pemberlakuan' = pem- + ber- + laku + -an. Keduanya menggunakan pola pem-ber-an. Pilihan lain tidak mengandung ber- dalam strukturnya."
+    },
+    {
+      "id": 106,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'mengalirkan' memiliki pola imbuhan meng-kan. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "menyebarkan", "B": "menjalankan", "C": "mengucapkan", "D": "mempercepat", "E": "meningkatkan"},
+      "jawaban_benar": "C",
+      "pembahasan": "'Mengalirkan' = meng- + alir + -kan (kata berawalan vokal a). 'Mengucapkan' = meng- + ucap + -kan (kata berawalan vokal u). Keduanya menggunakan meng-kan karena kata dasar berawalan vokal. Pilihan lain menggunakan meny-, men-, memp-, atau me-."
+    },
+    {
+      "id": 107,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'pelopor' memiliki pola imbuhan pe- bermakna pelaku. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "pelatihan", "B": "pelarian", "C": "pelaut", "D": "pelabuhan", "E": "pelaksanaan"},
+      "jawaban_benar": "C",
+      "pembahasan": "'Pelopor' = pe- + lopor (orang yang menjadi pelopor). 'Pelaut' = pe- + laut (orang yang bermata pencaharian di laut). Keduanya menggunakan pe- bermakna pelaku/orang. Pilihan lain menggunakan pe-an (konfiks) bermakna tempat atau proses."
+    },
+    {
+      "id": 108,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'meningkatkan' memiliki pola imbuhan me-kan. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "memberikan", "B": "meningkat", "C": "mengembangkan", "D": "memperindah", "E": "memperluas"},
+      "jawaban_benar": "C",
+      "pembahasan": "'Meningkatkan' = me- + tingkat + -kan (kausatif). 'Mengembangkan' = meng- + kembang + -kan (kausatif, k luluh). Keduanya menggunakan me-kan atau variasinya bermakna kausatif. Pilihan A bermakna benefaktif, D dan E menggunakan memper-."
+    },
+    {
+      "id": 109,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'keprihatinan' memiliki pola imbuhan ke-an dari adjektif. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "kepanasan", "B": "kehujanan", "C": "kegundahan", "D": "kedinginan", "E": "kebanjiran"},
+      "jawaban_benar": "C",
+      "pembahasan": "'Keprihatinan' = ke- + prihatin + -an (adjektif/verba → nomina abstrak). 'Kegundahan' = ke- + gundah + -an (adjektif → nomina abstrak). Keduanya menggunakan ke-an untuk membentuk nomina abstrak dari adjektif perasaan. Pilihan lain bermakna terkena sesuatu."
+    },
+    {
+      "id": 110,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'penerbitan' memiliki pola imbuhan pe(N)-an. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "penyebaran", "B": "pembangunan", "C": "penerbangan", "D": "pelatihan", "E": "pertolongan"},
+      "jawaban_benar": "C",
+      "pembahasan": "'Penerbitan' = pe(N)- + terbit + -an (t luluh, nasal n). 'Penerbangan' = pe(N)- + terbang + -an (t luluh, nasal n). Keduanya menggunakan pe(N)-an dengan nasal n karena kata dasar berawalan t. Pilihan lain menggunakan peny-, pem-, pe-, atau per-."
+    },
+    {
+      "id": 111,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'memperkenalkan' memiliki pola imbuhan memper-kan. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "memperluas", "B": "mempercepat", "C": "mempertunjukkan", "D": "memperindah", "E": "memperoleh"},
+      "jawaban_benar": "C",
+      "pembahasan": "'Memperkenalkan' = memper- + kenal + -kan. 'Mempertunjukkan' = memper- + tunjuk + -kan. Keduanya menggunakan konfiks memper-kan secara lengkap. Pilihan lain menggunakan memper- tanpa -kan."
+    },
+    {
+      "id": 112,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'pencapaian' memiliki pola imbuhan pe(N)-an. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "penyebaran", "B": "pembangunan", "C": "penciptaan", "D": "pelatihan", "E": "pertolongan"},
+      "jawaban_benar": "C",
+      "pembahasan": "'Pencapaian' = pe(N)- + capai + -an (c, nasal n). 'Penciptaan' = pe(N)- + cipta + -an (c, nasal n). Keduanya menggunakan pe(N)-an dengan nasal n karena kata dasar berawalan c. Pilihan lain menggunakan peny-, pem-, pe-, atau per-."
+    },
+    {
+      "id": 113,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'memberdayakan' memiliki pola imbuhan mem-ber-kan. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "membesarkan", "B": "memberlakukan", "C": "memberikan", "D": "membangun", "E": "membiayai"},
+      "jawaban_benar": "B",
+      "pembahasan": "'Memberdayakan' = mem- + ber- + daya + -kan (mengandung ber- dalam struktur kata dasar). 'Memberlakukan' = mem- + ber- + laku + -kan. Keduanya menggunakan pola mem-ber-kan. Pilihan lain tidak mengandung ber- dalam strukturnya."
+    },
+    {
+      "id": 114,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'penundaan' memiliki pola imbuhan pe(N)-an (n-). Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "penyebaran", "B": "pembangunan", "C": "penulisan", "D": "pelatihan", "E": "pertolongan"},
+      "jawaban_benar": "C",
+      "pembahasan": "'Penundaan' = pe(N)- + tunda + -an (t luluh, nasal n). 'Penulisan' = pe(N)- + tulis + -an (t luluh, nasal n). Keduanya menggunakan pe(N)-an dengan nasal n karena kata dasar berawalan t (luluh). Pilihan lain menggunakan peny-, pem-, pe-, atau per-."
+    },
+    {
+      "id": 115,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'berkesinambungan' memiliki pola imbuhan ber-ke-an. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "berkembang", "B": "bersama", "C": "berkelanjutan", "D": "berhasil", "E": "berjalan"},
+      "jawaban_benar": "C",
+      "pembahasan": "'Berkesinambungan' = ber- + ke- + sinambung + -an. 'Berkelanjutan' = ber- + ke- + lanjut + -an. Keduanya menggunakan pola ber-ke-an. Pilihan lain hanya menggunakan ber- tunggal tanpa ke-an."
+    },
+    {
+      "id": 116,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'pelunasan' memiliki pola imbuhan pe-an (tanpa nasalisasi kuat). Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "penulisan", "B": "penyebaran", "C": "pembangunan", "D": "pelayanan", "E": "pengiriman"},
+      "jawaban_benar": "D",
+      "pembahasan": "'Pelunasan' = pe- + lunas + -an (l tidak luluh). 'Pelayanan' = pe- + layan + -an (l tidak luluh). Keduanya menggunakan pe-an karena kata dasar berawalan l yang tidak menimbulkan nasalisasi. Pilihan lain menggunakan pen-, peny-, pem-, atau peng-."
+    },
+    {
+      "id": 117,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'mengoptimalkan' memiliki pola imbuhan meng-kan. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "menyederhanakan", "B": "menjalankan", "C": "mengefisienkan", "D": "memperindah", "E": "menyempurnakan"},
+      "jawaban_benar": "C",
+      "pembahasan": "'Mengoptimalkan' = meng- + optimal + -kan (kata berawalan vokal o). 'Mengefisienkan' = meng- + efisien + -kan (kata berawalan vokal e). Keduanya menggunakan meng-kan karena kata dasar berawalan vokal. Pilihan lain menggunakan meny-, men-, memp-, atau me-."
+    },
+    {
+      "id": 118,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'keruntuhan' memiliki pola imbuhan ke-an dari verba. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "kepanasan", "B": "kehujanan", "C": "kemenangan", "D": "kedinginan", "E": "kebanjiran"},
+      "jawaban_benar": "C",
+      "pembahasan": "'Keruntuhan' = ke- + runtuh + -an (verba → nomina kejadian). 'Kemenangan' = ke- + menang + -an (verba → nomina kejadian/hasil). Keduanya menggunakan ke-an pada verba untuk membentuk nomina. Pilihan A, B, D, E bermakna terkena sesuatu."
+    },
+    {
+      "id": 119,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'penghematan' memiliki pola imbuhan peng-an. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "penyebaran", "B": "pembangunan", "C": "penghimpunan", "D": "pelatihan", "E": "pertolongan"},
+      "jawaban_benar": "C",
+      "pembahasan": "'Penghematan' = peng- + hemat + -an (h tidak luluh). 'Penghimpunan' = peng- + himpun + -an (h tidak luluh). Keduanya menggunakan peng-an dengan kata dasar berawalan h. Pilihan lain menggunakan peny-, pem-, pe-, atau per-."
+    },
+    {
+      "id": 120,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'memperjuangkan' memiliki pola imbuhan memper-kan. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "memperluas", "B": "mempercepat", "C": "mempermasalahkan", "D": "memperindah", "E": "memperoleh"},
+      "jawaban_benar": "C",
+      "pembahasan": "'Memperjuangkan' = memper- + juang + -kan. 'Mempermasalahkan' = memper- + masalah + -kan. Keduanya menggunakan konfiks memper-kan secara lengkap. Pilihan lain menggunakan memper- tanpa -kan."
+    },
+    {
+      "id": 121,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'pemugaran' memiliki pola imbuhan pem-an. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "pengiriman", "B": "penyebaran", "C": "pemulihan", "D": "pendidikan", "E": "pertolongan"},
+      "jawaban_benar": "C",
+      "pembahasan": "'Pemugaran' = pem- + pugar + -an (p luluh jadi pem-). 'Pemulihan' = pem- + pulih + -an (p luluh jadi pem-). Keduanya menggunakan pem-an karena kata dasar berawalan p yang luluh. Pilihan lain menggunakan peng-, peny-, pen-, atau per-."
+    },
+    {
+      "id": 122,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'menyelenggarakan' memiliki pola imbuhan meny-kan (s luluh). Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "menggerakkan", "B": "menjalankan", "C": "menyukseskan", "D": "mempercepat", "E": "mengembangkan"},
+      "jawaban_benar": "C",
+      "pembahasan": "'Menyelenggarakan' = meny- + selenggara + -kan (s luluh). 'Menyukseskan' = meny- + sukses + -kan (s luluh). Keduanya menggunakan meny-kan karena kata dasar berawalan s. Pilihan lain menggunakan meng-, men-, memp-, atau pola lain."
+    },
+    {
+      "id": 123,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'kepahlawanan' memiliki pola imbuhan ke-an dari nomina berimbuhan. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "kecantikan", "B": "kemampuan", "C": "keadilan", "D": "kepahlawanan", "E": "kewirausahaan"},
+      "jawaban_benar": "E",
+      "pembahasan": "'Kepahlawanan' = ke- + pahlawan + -an (nomina berimbuhan -wan). 'Kewirausahaan' = ke- + wirausaha + -an (nomina berimbuhan). Keduanya menggunakan ke-an pada nomina yang sudah berimbuhan. Pilihan lain menggunakan ke-an pada adjektif atau nomina dasar."
+    },
+    {
+      "id": 124,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'penghancuran' memiliki pola imbuhan peng-an. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "penyebaran", "B": "pembangunan", "C": "penghapusan", "D": "pelatihan", "E": "pertolongan"},
+      "jawaban_benar": "C",
+      "pembahasan": "'Penghancuran' = peng- + hancur + -an (h tidak luluh). 'Penghapusan' = peng- + hapus + -an (h tidak luluh). Keduanya menggunakan peng-an dengan kata dasar berawalan h. Pilihan lain menggunakan peny-, pem-, pe-, atau per-."
+    },
+    {
+      "id": 125,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'dipersoalkan' memiliki pola imbuhan diper-kan. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "dilaksanakan", "B": "dipertahankan", "C": "diselesaikan", "D": "diberikan", "E": "ditingkatkan"},
+      "jawaban_benar": "B",
+      "pembahasan": "'Dipersoalkan' = diper- + soal + -kan (pasif dari mempersoalkan). 'Dipertahankan' = diper- + tahan + -kan (pasif dari mempertahankan). Keduanya menggunakan konfiks diper-kan. Pilihan lain menggunakan di-kan biasa."
+    },
+    {
+      "id": 126,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'pelebaran' memiliki pola imbuhan pe-an (tanpa nasalisasi). Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "penulisan", "B": "penyebaran", "C": "pembangunan", "D": "peluasan", "E": "pengiriman"},
+      "jawaban_benar": "D",
+      "pembahasan": "'Pelebaran' = pe- + lebar + -an (l tidak luluh). 'Peluasan' = pe- + luas + -an (l tidak luluh). Keduanya menggunakan pe-an karena kata dasar berawalan l. Pilihan lain menggunakan pen-, peny-, pem-, atau peng-."
+    },
+    {
+      "id": 127,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'pengaturan' memiliki pola imbuhan peng-an. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "penyebaran", "B": "pembangunan", "C": "pengawasan", "D": "pelatihan", "E": "pertolongan"},
+      "jawaban_benar": "C",
+      "pembahasan": "'Pengaturan' = peng- + atur + -an (kata berawalan vokal a). 'Pengawasan' = peng- + awas + -an (kata berawalan vokal a). Keduanya menggunakan peng-an karena kata dasar berawalan vokal a. Pilihan lain menggunakan peny-, pem-, pe-, atau per-."
+    },
+    {
+      "id": 128,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'pemaknaan' memiliki pola imbuhan pem-an. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "pengiriman", "B": "penyebaran", "C": "pembaruan", "D": "pelatihan", "E": "pertolongan"},
+      "jawaban_benar": "C",
+      "pembahasan": "'Pemaknaan' = pem- + makna + -an (m tidak luluh, tetap pem-). 'Pembaruan' = pem- + baru + -an (b, pem-). Keduanya menggunakan pem-an. Pilihan lain menggunakan peng-, peny-, pe-, atau per-."
+    },
+    {
+      "id": 129,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'ketimpangan' memiliki pola imbuhan ke-an dari verba/adjektif. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "kepanasan", "B": "kehujanan", "C": "ketidakadilan", "D": "kesenjangan", "E": "kebanjiran"},
+      "jawaban_benar": "D",
+      "pembahasan": "'Ketimpangan' = ke- + timpang + -an (adjektif → nomina abstrak). 'Kesenjangan' = ke- + senjang + -an (adjektif → nomina abstrak). Keduanya menggunakan ke-an untuk membentuk nomina abstrak dari adjektif. Pilihan A, B, E bermakna terkena sesuatu. Pilihan C menggunakan ke-an pada frasa negasi."
+    },
+    {
+      "id": 130,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'memprioritaskan' memiliki pola imbuhan mem-kan. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "menyederhanakan", "B": "menggerakkan", "C": "memformulasikan", "D": "menjalankan", "E": "meningkatkan"},
+      "jawaban_benar": "C",
+      "pembahasan": "'Memprioritaskan' = mem- + prioritas + -kan (kata berawalan p dalam gugus pr, tidak luluh). 'Memformulasikan' = mem- + formula + -kan (kata berawalan f, mem-). Keduanya menggunakan mem-kan karena kata dasar berawalan p atau f. Pilihan lain menggunakan meny-, meng-, men-, atau me-."
+    },
+    {
+      "id": 131,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'peningkatan' memiliki pola imbuhan pe(N)-an (nasal n, t luluh). Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "penyebaran", "B": "pembangunan", "C": "penanganan", "D": "pengiriman", "E": "pertolongan"},
+      "jawaban_benar": "C",
+      "pembahasan": "'Peningkatan' = pe(N)- + tingkat + -an (t luluh, nasal n). 'Penanganan' = pe(N)- + tangani + -an (t luluh, nasal n). Keduanya menggunakan pe(N)-an dengan nasal n. Pilihan lain menggunakan peny-, pem-, peng-, atau per-."
+    },
+    {
+      "id": 132,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'persaingan' memiliki pola imbuhan per-an bermakna peristiwa. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "persawahan", "B": "perbukitan", "C": "pertandingan", "D": "perkotaan", "E": "perladangan"},
+      "jawaban_benar": "C",
+      "pembahasan": "'Persaingan' = per- + saing + -an (bermakna peristiwa/kegiatan). 'Pertandingan' = per- + tanding + -an (bermakna peristiwa/kegiatan). Keduanya menggunakan per-an bermakna peristiwa atau kegiatan. Pilihan A, B, D, E bermakna kawasan/tempat."
+    },
+    {
+      "id": 133,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'menyampaikan' memiliki pola imbuhan meny-kan (s luluh). Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "menggerakkan", "B": "menjalankan", "C": "menyiarkan", "D": "mempercepat", "E": "mengembangkan"},
+      "jawaban_benar": "C",
+      "pembahasan": "'Menyampaikan' = meny- + sampai + -kan (s luluh). 'Menyiarkan' = meny- + siar + -kan (s luluh). Keduanya menggunakan meny-kan karena kata dasar berawalan s. Pilihan lain menggunakan meng-, men-, memp-, atau pola lain."
+    },
+    {
+      "id": 134,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'pembaharuan' dan 'pembaruan' memiliki pola imbuhan pem-an. Kata manakah yang memiliki pola imbuhan BERBEDA?",
+      "pilihan_jawaban": {"A": "pembinaan", "B": "pembatasan", "C": "penyebaran", "D": "pembangunan", "E": "pembuatan"},
+      "jawaban_benar": "C",
+      "pembahasan": "'Pembaharuan', 'pembaruan', 'pembinaan', 'pembatasan', 'pembangunan', dan 'pembuatan' semuanya menggunakan pem-an. 'Penyebaran' menggunakan peny-an (s luluh), jadi BERBEDA polanya dari kelompok pem-an."
+    },
+    {
+      "id": 135,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'penyelamatan' memiliki pola imbuhan peny-an (s luluh). Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "pengiriman", "B": "pembangunan", "C": "penyempurnaan", "D": "pelatihan", "E": "pertolongan"},
+      "jawaban_benar": "C",
+      "pembahasan": "'Penyelamatan' = peny- + selamat + -an (s luluh). 'Penyempurnaan' = peny- + sempurna + -an (s luluh). Keduanya menggunakan peny-an karena kata dasar berawalan s. Pilihan lain menggunakan peng-, pem-, pe-, atau per-."
+    },
+    {
+      "id": 136,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'mempertajam' memiliki pola imbuhan memper- (tanpa -kan). Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "mempersoalkan", "B": "mempercepat", "C": "mempertahankan", "D": "memperkenalkan", "E": "mempermasalahkan"},
+      "jawaban_benar": "B",
+      "pembahasan": "'Mempertajam' = memper- + tajam (tanpa -kan). 'Mempercepat' = memper- + cepat (tanpa -kan). Keduanya menggunakan memper- tanpa akhiran -kan. Pilihan lain menggunakan memper-kan (dengan akhiran -kan)."
+    },
+    {
+      "id": 137,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'pemberantasan' memiliki pola imbuhan pem-an. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "pengiriman", "B": "penyebaran", "C": "pembuktian", "D": "pendidikan", "E": "pertolongan"},
+      "jawaban_benar": "C",
+      "pembahasan": "'Pemberantasan' = pem- + berantas + -an (kata berawalan b). 'Pembuktian' = pem- + bukti + -an (kata berawalan b). Keduanya menggunakan pem-an. Pilihan lain menggunakan peng-, peny-, pen-, atau per-."
+    },
+    {
+      "id": 138,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'pengoperasian' memiliki pola imbuhan peng-an pada kata serapan berawalan vokal. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "penyebaran", "B": "pembangunan", "C": "pengolahan", "D": "pelatihan", "E": "pertolongan"},
+      "jawaban_benar": "C",
+      "pembahasan": "'Pengoperasian' = peng- + operasi + -an (berawalan vokal o). 'Pengolahan' = peng- + olah + -an (berawalan vokal o). Keduanya menggunakan peng-an karena kata dasar berawalan vokal. Pilihan lain menggunakan peny-, pem-, pe-, atau per-."
+    },
+    {
+      "id": 139,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'kelangsungan' memiliki pola imbuhan ke-an dari verba. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "kepanasan", "B": "keindahan", "C": "keberhasilan", "D": "kelanjutan", "E": "kebanjiran"},
+      "jawaban_benar": "D",
+      "pembahasan": "'Kelangsungan' = ke- + langsung + -an (verba → nomina). 'Kelanjutan' = ke- + lanjut + -an (verba → nomina). Keduanya menggunakan ke-an pada verba untuk membentuk nomina yang menyatakan proses atau keadaan berlanjut. Pilihan lain bermakna terkena atau adjektif abstrak."
+    },
+    {
+      "id": 140,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'penyelenggaraan' memiliki pola imbuhan peny-an (s luluh). Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "pengiriman", "B": "pembangunan", "C": "penyederhanaan", "D": "pelatihan", "E": "pertolongan"},
+      "jawaban_benar": "C",
+      "pembahasan": "'Penyelenggaraan' = peny- + selenggara + -an (s luluh). 'Penyederhanaan' = peny- + sederhana + -an (s luluh). Keduanya menggunakan peny-an karena kata dasar berawalan s. Pilihan lain menggunakan peng-, pem-, pe-, atau per-."
+    },
+    {
+      "id": 141,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'pemrograman' memiliki pola imbuhan pem-an pada kata gugus konsonan. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "pengiriman", "B": "penyebaran", "C": "pemprosesan", "D": "pelatihan", "E": "pertolongan"},
+      "jawaban_benar": "C",
+      "pembahasan": "'Pemrograman' = pem- + program + -an (gugus pr-, p tidak luluh). 'Pemprosesan' = pem- + proses + -an (gugus pr-, p tidak luluh). Keduanya menggunakan pem-an pada kata berawalan gugus konsonan pr-. Pilihan lain menggunakan peng-, peny-, pe-, atau per-."
+    },
+    {
+      "id": 142,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'mempersingkat' memiliki pola imbuhan memper- (tanpa -kan). Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "mempertahankan", "B": "mempersoalkan", "C": "memperlambat", "D": "memperkenalkan", "E": "mempermasalahkan"},
+      "jawaban_benar": "C",
+      "pembahasan": "'Mempersingkat' = memper- + singkat (tanpa -kan, adjektif dasar). 'Memperlambat' = memper- + lambat (tanpa -kan, adjektif dasar). Keduanya menggunakan memper- tanpa akhiran -kan pada kata dasar adjektif. Pilihan lain menggunakan memper-kan."
+    },
+    {
+      "id": 143,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'penyebaran' memiliki pola imbuhan peny-an (s luluh). Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "pengiriman", "B": "pembangunan", "C": "penyusunan", "D": "pelatihan", "E": "pertolongan"},
+      "jawaban_benar": "C",
+      "pembahasan": "'Penyebaran' = peny- + sebar + -an (s luluh). 'Penyusunan' = peny- + susun + -an (s luluh). Keduanya menggunakan peny-an karena kata dasar berawalan s. Pilihan lain menggunakan peng-, pem-, pe-, atau per-."
+    },
+    {
+      "id": 144,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'kerjasama' mendapat imbuhan ke-an menjadi 'kerjasama' → 'kerja sama'. Kata majemuk manakah yang mendapat ke-an dengan pola SAMA?",
+      "pilihan_jawaban": {"A": "keikutsertaan", "B": "kebersamaan", "C": "kesatuan", "D": "keadilan", "E": "kemampuan"},
+      "jawaban_benar": "A",
+      "pembahasan": "'Kerjasama' (majemuk) + ke-an = 'kerjasama' dalam konteks. Yang sepadan adalah kata majemuk + ke-an: 'keikutsertaan' dari 'ikutserta' (majemuk) + ke-an. 'Kebersamaan' menggunakan ke-ber-an bukan ke-an pada majemuk murni."
+    },
+    {
+      "id": 145,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'pengembangan' bermakna proses. Kata mana yang menggunakan imbuhan peng-an juga bermakna proses (bukan hasil atau tempat)?",
+      "pilihan_jawaban": {"A": "pengakuan", "B": "pengumuman", "C": "penggalian", "D": "penggunaan", "E": "Semua benar"},
+      "jawaban_benar": "E",
+      "pembahasan": "'Pengembangan', 'pengakuan', 'pengumuman', 'penggalian', dan 'penggunaan' semuanya menggunakan peng-an dan bermakna proses. Ini menunjukkan konfiks peng-an (pe(N)-an) umumnya bermakna proses ketika digunakan pada kata kerja."
+    },
+    {
+      "id": 146,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'penghidupan' memiliki pola imbuhan peng-an. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "penyebaran", "B": "pembangunan", "C": "penghapusan", "D": "pelatihan", "E": "pertolongan"},
+      "jawaban_benar": "C",
+      "pembahasan": "'Penghidupan' = peng- + hidup + -an (h tidak luluh). 'Penghapusan' = peng- + hapus + -an (h tidak luluh). Keduanya menggunakan peng-an dengan kata dasar berawalan h. Pilihan lain menggunakan peny-, pem-, pe-, atau per-."
+    },
+    {
+      "id": 147,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'pembiayaan' memiliki pola imbuhan pem-an. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "pengiriman", "B": "penyebaran", "C": "pembinaan", "D": "pelatihan", "E": "pertolongan"},
+      "jawaban_benar": "C",
+      "pembahasan": "'Pembiayaan' = pem- + biaya + -an (kata berawalan b). 'Pembinaan' = pem- + bina + -an (kata berawalan b). Keduanya menggunakan pem-an karena kata dasar berawalan b. Pilihan lain menggunakan peng-, peny-, pe-, atau per-."
+    },
+    {
+      "id": 148,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'menerbitkan' memiliki pola imbuhan me-kan (t luluh, nasal n). Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "menjalankan", "B": "menyebarkan", "C": "menampilkan", "D": "menggerakkan", "E": "membesarkan"},
+      "jawaban_benar": "C",
+      "pembahasan": "'Menerbitkan' = me(N)- + terbit + -kan (t luluh, nasal n). 'Menampilkan' = me(N)- + tampil + -kan (t luluh, nasal n). Keduanya menggunakan me-kan dengan peluluhan huruf t. Pilihan lain menggunakan men-, meny-, meng-, atau mem-."
+    },
+    {
+      "id": 149,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'pengelolaan' memiliki pola imbuhan penge-an (kata dasar bersuku satu-ish). Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "pengiriman", "B": "penyebaran", "C": "pengetahuan", "D": "pembangunan", "E": "pertolongan"},
+      "jawaban_benar": "C",
+      "pembahasan": "'Pengelolaan' = penge- + lola + -an. 'Pengetahuan' = penge- + tahu + -an. Keduanya menggunakan bentuk penge- dari pe(N)-an. Pilihan lain menggunakan peng-, peny-, pem-, atau per-."
+    },
+    {
+      "id": 150,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'kepemimpinan' memiliki pola imbuhan ke-pe(N)-an. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "kemampuan", "B": "keberanian", "C": "kepengurusan", "D": "keadilan", "E": "kecantikan"},
+      "jawaban_benar": "C",
+      "pembahasan": "'Kepemimpinan' = ke- + pe(N)- + mimpin + -an (ke-pe(N)-an). 'Kepengurusan' = ke- + peng- + urus + -an (ke-pe(N)-an). Keduanya menggunakan pola ke-pe(N)-an yang menyatakan jabatan atau bidang tugas. Pilihan lain hanya menggunakan ke-an atau ke-ber-an."
+    },
+    {
+      "id": 151,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'pembangunan' memiliki pola imbuhan pem-an. Kata manakah yang TIDAK sepadan?",
+      "pilihan_jawaban": {"A": "pembuatan", "B": "pembiayaan", "C": "pembinaan", "D": "penyebaran", "E": "pembatasan"},
+      "jawaban_benar": "D",
+      "pembahasan": "'Pembangunan', 'pembuatan', 'pembiayaan', 'pembinaan', 'pembatasan' semuanya menggunakan pem-an. 'Penyebaran' menggunakan peny-an (s luluh), TIDAK sepadan dengan kelompok pem-an."
+    },
+    {
+      "id": 152,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'menciptakan' memiliki pola imbuhan men-kan (c, nasal n). Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "menyebarkan", "B": "menggerakkan", "C": "mencemari", "D": "menjalankan", "E": "membesarkan"},
+      "jawaban_benar": "D",
+      "pembahasan": "'Menciptakan' = men- + cipta + -kan (c, nasal n). 'Menjalankan' = men- + jalan + -kan (j, nasal n). Keduanya menggunakan men-kan karena kata dasar berawalan c atau j (keduanya menghasilkan nasal n). Pilihan lain menggunakan meny-, meng-, atau mem-."
+    },
+    {
+      "id": 153,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'perpaduan' memiliki pola imbuhan per-an. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "penyebaran", "B": "pembangunan", "C": "perpaduan", "D": "penyatuan", "E": "perubahan"},
+      "jawaban_benar": "E",
+      "pembahasan": "'Perpaduan' = per- + padu + -an. 'Perubahan' = per- + ubah + -an. Keduanya menggunakan konfiks per-an. 'Penyatuan' menggunakan peny-an (berbeda). Pilihan A dan B menggunakan peny- dan pem-."
+    },
+    {
+      "id": 154,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'keturunan' memiliki pola imbuhan ke-an bermakna hasil. Kata manakah yang memiliki pola dan makna imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "kepanasan", "B": "kedinginan", "C": "kemenangan", "D": "kehujanan", "E": "kebanjiran"},
+      "jawaban_benar": "C",
+      "pembahasan": "'Keturunan' = ke- + turun + -an (bermakna hasil, orang yang diturunkan). 'Kemenangan' = ke- + menang + -an (bermakna hasil dari menang). Keduanya menggunakan ke-an bermakna hasil dari suatu proses. Pilihan lain bermakna terkena sesuatu."
+    },
+    {
+      "id": 155,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'menyertakan' memiliki pola imbuhan meny-kan (s luluh). Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "menggerakkan", "B": "menjalankan", "C": "menyimpulkan", "D": "mempercepat", "E": "mengembangkan"},
+      "jawaban_benar": "C",
+      "pembahasan": "'Menyertakan' = meny- + serta + -kan (s luluh). 'Menyimpulkan' = meny- + simpul + -kan (s luluh). Keduanya menggunakan meny-kan karena kata dasar berawalan s. Pilihan lain menggunakan meng-, men-, memp-, atau pola lain."
+    },
+    {
+      "id": 156,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'peloporan' memiliki pola imbuhan pe-an. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "penulisan", "B": "penyebaran", "C": "peloporan", "D": "peluasan", "E": "pengiriman"},
+      "jawaban_benar": "D",
+      "pembahasan": "'Peloporan' = pe- + lopor + -an (l tidak luluh). 'Peluasan' = pe- + luas + -an (l tidak luluh). Keduanya menggunakan pe-an karena kata dasar berawalan l. Pilihan lain menggunakan pen-, peny-, atau peng-."
+    },
+    {
+      "id": 157,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'penghimpunan' memiliki pola imbuhan peng-an. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "penyebaran", "B": "pembangunan", "C": "pengiriman", "D": "penghargaan", "E": "pertolongan"},
+      "jawaban_benar": "D",
+      "pembahasan": "'Penghimpunan' = peng- + himpun + -an (h tidak luluh). 'Penghargaan' = peng- + harga + -an (h tidak luluh). Keduanya menggunakan peng-an dengan kata dasar berawalan h. Pilihan lain menggunakan peny-, pem-, peng- berbeda, atau per-."
+    },
+    {
+      "id": 158,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'menginvestasikan' memiliki pola imbuhan meng-kan (kata berawalan vokal). Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "menyederhanakan", "B": "menjalankan", "C": "mengalokasikan", "D": "mempercepat", "E": "membawakan"},
+      "jawaban_benar": "C",
+      "pembahasan": "'Menginvestasikan' = meng- + investasi + -kan (berawalan vokal i). 'Mengalokasikan' = meng- + alokasi + -kan (berawalan vokal a). Keduanya menggunakan meng-kan karena kata dasar berawalan vokal. Pilihan lain menggunakan meny-, men-, memp-, atau mem-."
+    },
+    {
+      "id": 159,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'pertanggungjawaban' memiliki pola imbuhan per-an pada kata majemuk. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "pertolongan", "B": "perjalanan", "C": "permasalahan", "D": "perpindahan", "E": "persatuan"},
+      "jawaban_benar": "C",
+      "pembahasan": "'Pertanggungjawaban' = per- + tanggungjawab (majemuk) + -an. 'Permasalahan' = per- + masalah + -an. Keduanya menggunakan konfiks per-an, meskipun 'pertanggungjawaban' pada kata majemuk. Pilihan lain juga menggunakan per-an, namun 'permasalahan' paling relevan karena kata dasarnya juga nomina."
+    },
+    {
+      "id": 160,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'pengucapan' memiliki pola imbuhan peng-an (kata berawalan vokal u). Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "penyebaran", "B": "pembangunan", "C": "pengiriman", "D": "pengumuman", "E": "pertolongan"},
+      "jawaban_benar": "D",
+      "pembahasan": "'Pengucapan' = peng- + ucap + -an (berawalan vokal u). 'Pengumuman' = peng- + umu + -an (dari umum, berawalan vokal u). Keduanya menggunakan peng-an pada kata berawalan vokal u. Pilihan lain menggunakan peny-, pem-, peng- berbeda, atau per-."
+    },
+    {
+      "id": 161,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'keteladan' memiliki pola imbuhan ke-an. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "kepanasan", "B": "kewibawaan", "C": "kedinginan", "D": "kehujanan", "E": "kebanjiran"},
+      "jawaban_benar": "B",
+      "pembahasan": "'Keteladan' = ke- + teladan + -an (nomina → nomina abstrak/kualitas). 'Kewibawaan' = ke- + wibawa + -an (nomina → nomina abstrak/kualitas). Keduanya menggunakan ke-an untuk membentuk nomina abstrak dari nomina yang menyatakan kualitas kepemimpinan. Pilihan lain bermakna terkena sesuatu."
+    },
+    {
+      "id": 162,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'pembohongan' memiliki pola imbuhan pem-an. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "pengiriman", "B": "penyebaran", "C": "pembodohan", "D": "pelatihan", "E": "pertolongan"},
+      "jawaban_benar": "C",
+      "pembahasan": "'Pembohongan' = pem- + bohong + -an (kata berawalan b). 'Pembodohan' = pem- + bodoh + -an (kata berawalan b). Keduanya menggunakan pem-an karena kata dasar berawalan b. Pilihan lain menggunakan peng-, peny-, pe-, atau per-."
+    },
+    {
+      "id": 163,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'menuturkan' memiliki pola imbuhan men-kan (t luluh, nasal n). Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "menyebarkan", "B": "menggerakkan", "C": "menampakkan", "D": "membesarkan", "E": "menyederhanakan"},
+      "jawaban_benar": "C",
+      "pembahasan": "'Menuturkan' = men- + tutur + -kan (t luluh, nasal n). 'Menampakkan' = men- + tampak + -kan (t luluh, nasal n). Keduanya menggunakan men-kan dengan peluluhan huruf t. Pilihan lain menggunakan meny-, meng-, mem-, atau pola lain."
+    },
+    {
+      "id": 164,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'pengelompokan' memiliki pola imbuhan peng-an (k luluh). Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "penyebaran", "B": "pembangunan", "C": "pengembangan", "D": "pelatihan", "E": "pertolongan"},
+      "jawaban_benar": "C",
+      "pembahasan": "'Pengelompokan' = peng- + kelompok + -an (k luluh). 'Pengembangan' = peng- + kembang + -an (k luluh). Keduanya menggunakan peng-an dengan peluluhan huruf k. Pilihan lain menggunakan peny-, pem-, pe-, atau per-."
+    },
+    {
+      "id": 165,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'melemparkan' memiliki pola imbuhan me-kan. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "menyebarkan", "B": "menggerakkan", "C": "melontarkan", "D": "mempercepat", "E": "mempersoalkan"},
+      "jawaban_benar": "C",
+      "pembahasan": "'Melemparkan' = me- + lempar + -kan (l tidak luluh, me- biasa). 'Melontarkan' = me- + lontar + -kan (l tidak luluh). Keduanya menggunakan me-kan dengan kata dasar berawalan l. Pilihan lain menggunakan meny-, meng-, memp-, atau memper-."
+    },
+    {
+      "id": 166,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'pengembangbiakan' memiliki pola imbuhan peng-an pada kata majemuk. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "penyebaran", "B": "pembangunan", "C": "pengembangan", "D": "penghancurleburan", "E": "pelatihan"},
+      "jawaban_benar": "D",
+      "pembahasan": "'Pengembangbiakan' = peng- + kembangbiak (majemuk) + -an (k luluh). 'Penghancurleburan' = peng- + hancurleb ur (majemuk) + -an. Keduanya menggunakan peng-an pada kata majemuk. 'Pengembangan' hanya pada kata tunggal."
+    },
+    {
+      "id": 167,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'penerjemahan' memiliki pola imbuhan pe(N)-an (t luluh, nasal n). Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "penyebaran", "B": "pembangunan", "C": "penanganan", "D": "pengiriman", "E": "pertolongan"},
+      "jawaban_benar": "C",
+      "pembahasan": "'Penerjemahan' = pe(N)- + terjemah + -an (t luluh, nasal n). 'Penanganan' = pe(N)- + tangani + -an (t luluh, nasal n). Keduanya menggunakan pe(N)-an dengan nasal n karena kata dasar berawalan t. Pilihan lain menggunakan peny-, pem-, peng-, atau per-."
+    },
+    {
+      "id": 168,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'kesinambungan' memiliki pola imbuhan ke-an dari verba. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "kepanasan", "B": "kedinginan", "C": "kelangsungan", "D": "kehujanan", "E": "kebanjiran"},
+      "jawaban_benar": "C",
+      "pembahasan": "'Kesinambungan' = ke- + sinambung + -an (verba → nomina abstrak proses). 'Kelangsungan' = ke- + langsung + -an (verba → nomina abstrak proses). Keduanya menggunakan ke-an pada verba bermakna proses yang berlangsung terus. Pilihan lain bermakna terkena sesuatu."
+    },
+    {
+      "id": 169,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'pembatalan' memiliki pola imbuhan pem-an. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "pengiriman", "B": "penyebaran", "C": "pembekuan", "D": "pelatihan", "E": "pertolongan"},
+      "jawaban_benar": "C",
+      "pembahasan": "'Pembatalan' = pem- + batal + -an (kata berawalan b). 'Pembekuan' = pem- + beku + -an (kata berawalan b). Keduanya menggunakan pem-an karena kata dasar berawalan b. Pilihan lain menggunakan peng-, peny-, pe-, atau per-."
+    },
+    {
+      "id": 170,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'mengusahakan' memiliki pola imbuhan meng-kan (kata berawalan vokal u). Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "menyebarkan", "B": "menjalankan", "C": "mengumumkan", "D": "mempercepat", "E": "membawakan"},
+      "jawaban_benar": "C",
+      "pembahasan": "'Mengusahakan' = meng- + usaha + -kan (berawalan vokal u). 'Mengumumkan' = meng- + umum + -kan (berawalan vokal u). Keduanya menggunakan meng-kan karena kata dasar berawalan vokal. Pilihan lain menggunakan meny-, men-, memp-, atau mem-."
+    },
+    {
+      "id": 171,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'penyitaan' memiliki pola imbuhan peny-an (s luluh). Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "pengiriman", "B": "pembangunan", "C": "penyulingan", "D": "pelatihan", "E": "pertolongan"},
+      "jawaban_benar": "C",
+      "pembahasan": "'Penyitaan' = peny- + sita + -an (s luluh). 'Penyulingan' = peny- + suling + -an (s luluh). Keduanya menggunakan peny-an karena kata dasar berawalan s. Pilihan lain menggunakan peng-, pem-, pe-, atau per-."
+    },
+    {
+      "id": 172,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'mempersenjatai' memiliki pola imbuhan memper-i. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "mempersoalkan", "B": "memperluas", "C": "mempercayai", "D": "mempertahankan", "E": "memperoleh"},
+      "jawaban_benar": "C",
+      "pembahasan": "'Mempersenjatai' = memper- + senjata + -i. 'Mempercayai' = memper- + caya + -i. Keduanya menggunakan konfiks memper-i. Pilihan lain menggunakan memper-kan atau memper- tanpa akhiran."
+    },
+    {
+      "id": 173,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'pencocokan' memiliki pola imbuhan pe(N)-an (c, nasal n). Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "penyebaran", "B": "pembangunan", "C": "pencairan", "D": "pengiriman", "E": "pertolongan"},
+      "jawaban_benar": "C",
+      "pembahasan": "'Pencocokan' = pe(N)- + cocok + -an (c, nasal n). 'Pencairan' = pe(N)- + cair + -an (c, nasal n). Keduanya menggunakan pe(N)-an dengan nasal n karena kata dasar berawalan c. Pilihan lain menggunakan peny-, pem-, peng-, atau per-."
+    },
+    {
+      "id": 174,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'keterbukaan' memiliki pola imbuhan ke-ter-an. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "keadilan", "B": "keterbatasan", "C": "keberanian", "D": "kemampuan", "E": "kecantikan"},
+      "jawaban_benar": "B",
+      "pembahasan": "'Keterbukaan' = ke- + ter- + buka + -an (ke-ter-an). 'Keterbatasan' = ke- + ter- + batas + -an (ke-ter-an). Keduanya menggunakan pola ke-ter-an. Pilihan lain hanya menggunakan ke-an atau ke-ber-an."
+    },
+    {
+      "id": 175,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'mendatangkan' memiliki pola imbuhan men-kan (d, nasal n). Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "menyebarkan", "B": "menggerakkan", "C": "menjabarkan", "D": "membesarkan", "E": "menyederhanakan"},
+      "jawaban_benar": "C",
+      "pembahasan": "'Mendatangkan' = men- + datang + -kan (d, nasal n). 'Menjabarkan' = men- + jabar + -kan (j, nasal n). Keduanya menggunakan men-kan karena kata dasar berawalan d atau j (sama-sama menghasilkan nasal n). Pilihan lain menggunakan meny-, meng-, mem-, atau meny-."
+    },
+    {
+      "id": 176,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'penghidupan' memiliki pola imbuhan peng-an (h tidak luluh). Kata manakah yang TIDAK memiliki pola imbuhan yang sama?",
+      "pilihan_jawaban": {"A": "penghematan", "B": "penghapusan", "C": "penghargaan", "D": "penyebaran", "E": "penghimpunan"},
+      "jawaban_benar": "D",
+      "pembahasan": "'Penghidupan', 'penghematan', 'penghapusan', 'penghargaan', dan 'penghimpunan' semuanya menggunakan peng-an dengan h tidak luluh. 'Penyebaran' menggunakan peny-an (s luluh), TIDAK sepadan."
+    },
+    {
+      "id": 177,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'menjalani' memiliki pola imbuhan men-i (j, nasal n). Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "menggarami", "B": "memukuli", "C": "mendekati", "D": "mewarnai", "E": "menjauhi"},
+      "jawaban_benar": "C",
+      "pembahasan": "'Menjalani' = men- + jalan + -i (j, nasal n). 'Mendekati' = men- + dekat + -i (d, nasal n). Keduanya menggunakan men-i karena kata dasar berawalan j atau d (menghasilkan nasal n). Pilihan lain menggunakan meng-, mem-, me-, atau pola lain."
+    },
+    {
+      "id": 178,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'penerjemahan' dan 'penanganan' sama-sama menggunakan pola pe(N)-an nasal n. Kata manakah yang TIDAK memiliki pola yang sama?",
+      "pilihan_jawaban": {"A": "penundaan", "B": "peningkatan", "C": "penerbitan", "D": "penyebaran", "E": "penentuan"},
+      "jawaban_benar": "D",
+      "pembahasan": "'Penerjemahan', 'penanganan', 'penundaan', 'peningkatan', 'penerbitan', 'penentuan' semuanya menggunakan pe(N)-an dengan nasal n (dari kata dasar berawalan t, d, dst). 'Penyebaran' menggunakan peny-an (s luluh), TIDAK sama polanya."
+    },
+    {
+      "id": 179,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'pemerkosaan' memiliki pola imbuhan pem-an. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "pengiriman", "B": "penyebaran", "C": "pemaknaan", "D": "pelatihan", "E": "pertolongan"},
+      "jawaban_benar": "C",
+      "pembahasan": "'Pemerkosaan' = pem- + perkosa + -an (p luluh jadi pem-). 'Pemaknaan' = pem- + makna + -an (m, tetap pem-). Keduanya menggunakan pem-an. Pilihan lain menggunakan peng-, peny-, pe-, atau per-."
+    },
+    {
+      "id": 180,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'memperlakukan' memiliki pola imbuhan memper-kan. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "memperluas", "B": "mempercepat", "C": "mempertunjukkan", "D": "memperindah", "E": "memperpanjang"},
+      "jawaban_benar": "C",
+      "pembahasan": "'Memperlakukan' = memper- + laku + -kan. 'Mempertunjukkan' = memper- + tunjuk + -kan. Keduanya menggunakan konfiks memper-kan secara lengkap. Pilihan lain menggunakan memper- tanpa -kan."
+    },
+    {
+      "id": 181,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'perselisihan' memiliki pola imbuhan per-an bermakna peristiwa. Kata manakah yang memiliki pola dan makna SAMA?",
+      "pilihan_jawaban": {"A": "persawahan", "B": "perkebunan", "C": "perkelahian", "D": "perindustrian", "E": "perumahan"},
+      "jawaban_benar": "C",
+      "pembahasan": "'Perselisihan' = per- + selisih + -an (peristiwa). 'Perkelahian' = per- + kelahi + -an (peristiwa). Keduanya menggunakan per-an bermakna peristiwa atau kejadian. Pilihan lain bermakna kawasan/tempat."
+    },
+    {
+      "id": 182,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'menghilangkan' memiliki pola imbuhan meng-kan (h tidak luluh). Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "menyebarkan", "B": "menjalankan", "C": "mengherankan", "D": "mempercepat", "E": "membesarkan"},
+      "jawaban_benar": "C",
+      "pembahasan": "'Menghilangkan' = meng- + hilang + -kan (h tidak luluh). 'Mengherankan' = meng- + heran + -kan (h tidak luluh). Keduanya menggunakan meng-kan dengan kata dasar berawalan h. Pilihan lain menggunakan meny-, men-, memp-, atau mem-."
+    },
+    {
+      "id": 183,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'pembenahan' memiliki pola imbuhan pem-an. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "pengiriman", "B": "penyebaran", "C": "pembenaran", "D": "pelatihan", "E": "pertolongan"},
+      "jawaban_benar": "C",
+      "pembahasan": "'Pembenahan' = pem- + benah + -an (kata berawalan b). 'Pembenaran' = pem- + benar + -an (kata berawalan b). Keduanya menggunakan pem-an karena kata dasar berawalan b. Pilihan lain menggunakan peng-, peny-, pe-, atau per-."
+    },
+    {
+      "id": 184,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'keserasian' memiliki pola imbuhan ke-an dari adjektif. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "kepanasan", "B": "kehujanan", "C": "keharmonisan", "D": "kedinginan", "E": "kebanjiran"},
+      "jawaban_benar": "C",
+      "pembahasan": "'Keserasian' = ke- + serasi + -an (adjektif → nomina abstrak). 'Keharmonisan' = ke- + harmonis + -an (adjektif → nomina abstrak). Keduanya menggunakan ke-an untuk membentuk nomina abstrak dari adjektif yang menyatakan keselarasan. Pilihan lain bermakna terkena sesuatu."
+    },
+    {
+      "id": 185,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'penghentian' memiliki pola imbuhan peng-an (h tidak luluh). Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "penyebaran", "B": "pembangunan", "C": "penghancuran", "D": "pelatihan", "E": "pertolongan"},
+      "jawaban_benar": "C",
+      "pembahasan": "'Penghentian' = peng- + henti + -an (h tidak luluh). 'Penghancuran' = peng- + hancur + -an (h tidak luluh). Keduanya menggunakan peng-an dengan kata dasar berawalan h. Pilihan lain menggunakan peny-, pem-, pe-, atau per-."
+    },
+    {
+      "id": 186,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'menyesuaikan' memiliki pola imbuhan meny-kan (s luluh). Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "menggerakkan", "B": "menjalankan", "C": "menyatukan", "D": "mempercepat", "E": "mengembangkan"},
+      "jawaban_benar": "C",
+      "pembahasan": "'Menyesuaikan' = meny- + sesuai + -kan (s luluh). 'Menyatukan' = meny- + satu + -kan (s luluh). Keduanya menggunakan meny-kan karena kata dasar berawalan s. Pilihan lain menggunakan meng-, men-, memp-, atau pola lain."
+    },
+    {
+      "id": 187,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'pendokumentasian' memiliki pola imbuhan pe(N)-an (d, nasal n). Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "penyebaran", "B": "pembangunan", "C": "pendalaman", "D": "pengiriman", "E": "pertolongan"},
+      "jawaban_benar": "C",
+      "pembahasan": "'Pendokumentasian' = pen- + dokumentasi + -an (d, nasal n). 'Pendalaman' = pen- + dalam + -an (d, nasal n). Keduanya menggunakan pen-an karena kata dasar berawalan d. Pilihan lain menggunakan peny-, pem-, peng-, atau per-."
+    },
+    {
+      "id": 188,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'kerukunan' memiliki pola imbuhan ke-an dari adjektif. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "kepanasan", "B": "kehujanan", "C": "ketenteraman", "D": "kedinginan", "E": "kebanjiran"},
+      "jawaban_benar": "C",
+      "pembahasan": "'Kerukunan' = ke- + rukun + -an (adjektif → nomina abstrak). 'Ketenteraman' = ke- + tenteram + -an (adjektif → nomina abstrak). Keduanya menggunakan ke-an untuk membentuk nomina abstrak dari adjektif yang menyatakan kondisi harmonis. Pilihan lain bermakna terkena sesuatu."
+    },
+    {
+      "id": 189,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'pembuatan' memiliki pola imbuhan pem-an. Kata manakah yang TIDAK memiliki pola imbuhan yang sama?",
+      "pilihan_jawaban": {"A": "pembatasan", "B": "pembinaan", "C": "penyusunan", "D": "pembiayaan", "E": "pembebasan"},
+      "jawaban_benar": "C",
+      "pembahasan": "'Pembuatan', 'pembatasan', 'pembinaan', 'pembiayaan', 'pembebasan' semuanya menggunakan pem-an. 'Penyusunan' menggunakan peny-an (s luluh), TIDAK sepadan dengan kelompok pem-an."
+    },
+    {
+      "id": 190,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'pemanfaatan' memiliki pola imbuhan pem-an (p luluh). Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "pengiriman", "B": "penyebaran", "C": "pemugaran", "D": "pelatihan", "E": "pertolongan"},
+      "jawaban_benar": "C",
+      "pembahasan": "'Pemanfaatan' = pem- + manfaat + -an (m, pem-). 'Pemugaran' = pem- + pugar + -an (p luluh, pem-). Keduanya menggunakan pem-an. Pilihan lain menggunakan peng-, peny-, pe-, atau per-."
+    },
+    {
+      "id": 191,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'memfasilitasi' memiliki pola imbuhan mem-i (f, nasal m). Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "memukuli", "B": "menggarami", "C": "membiayai", "D": "mendekati", "E": "menghormati"},
+      "jawaban_benar": "C",
+      "pembahasan": "'Memfasilitasi' = mem- + fasilitas + -i (f, nasal mem-). 'Membiayai' = mem- + biaya + -i (b, nasal mem-). Keduanya menggunakan mem-i karena kata dasar berawalan f atau b. Pilihan lain menggunakan meng-, men-, atau pola lain."
+    },
+    {
+      "id": 192,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'keterampilan' memiliki pola imbuhan ke-ter-an. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "kemampuan", "B": "keberanian", "C": "ketertiban", "D": "keadilan", "E": "kecantikan"},
+      "jawaban_benar": "C",
+      "pembahasan": "'Keterampilan' = ke- + terampil + -an (ke- + adjektif berter-). 'Ketertiban' = ke- + tertib + -an. Hmm, keterampilan dari 'terampil' yang berawalan ter-, dan ketertiban dari 'tertib'. Keduanya menggunakan ke-an pada kata berawalan ter- (ke-ter-an). Pilihan lain hanya menggunakan ke-an atau ke-ber-an biasa."
+    },
+    {
+      "id": 193,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'merumuskan' memiliki pola imbuhan me-kan (r tidak luluh). Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "menyebarkan", "B": "menggerakkan", "C": "merangkumkan", "D": "mempercepat", "E": "mempersoalkan"},
+      "jawaban_benar": "C",
+      "pembahasan": "'Merumuskan' = me- + rumus + -kan (r tidak luluh). 'Merangkumkan' = me- + rangkum + -kan (r tidak luluh). Keduanya menggunakan me-kan dengan kata dasar berawalan r. Pilihan lain menggunakan meny-, meng-, memp-, atau memper-."
+    },
+    {
+      "id": 194,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'penghormatan' memiliki pola imbuhan peng-an. Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "penyebaran", "B": "pembangunan", "C": "penghiburan", "D": "pelatihan", "E": "pertolongan"},
+      "jawaban_benar": "C",
+      "pembahasan": "'Penghormatan' = peng- + hormat + -an (h tidak luluh). 'Penghiburan' = peng- + hibur + -an (h tidak luluh). Keduanya menggunakan peng-an dengan kata dasar berawalan h. Pilihan lain menggunakan peny-, pem-, pe-, atau per-."
+    },
+    {
+      "id": 195,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'mengklarifikasikan' memiliki pola imbuhan meng-kan (k luluh, gugus kl). Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "menyederhanakan", "B": "menjalankan", "C": "mengkristalisasikan", "D": "mempercepat", "E": "membawakan"},
+      "jawaban_benar": "C",
+      "pembahasan": "'Mengklarifikasikan' = meng- + klarifikasi + -kan (gugus kl-). 'Mengkristalisasikan' = meng- + kristalisasi + -kan (gugus kr-). Keduanya menggunakan meng-kan pada kata berawalan gugus konsonan kl- atau kr- (k tidak sepenuhnya luluh karena diikuti konsonan lain). Pilihan lain menggunakan pola berbeda."
+    },
+    {
+      "id": 196,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'persatuan' memiliki pola imbuhan per-an. Kata manakah yang TIDAK memiliki pola imbuhan yang sama?",
+      "pilihan_jawaban": {"A": "persamaan", "B": "perbedaan", "C": "persaudaraan", "D": "penyatuan", "E": "perubahan"},
+      "jawaban_benar": "D",
+      "pembahasan": "'Persatuan', 'persamaan', 'perbedaan', 'persaudaraan', 'perubahan' semuanya menggunakan per-an. 'Penyatuan' menggunakan peny-an (s luluh), TIDAK sepadan dengan kelompok per-an."
+    },
+    {
+      "id": 197,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'pembinaan' dan 'pembuatan' memiliki pola pem-an. Kata manakah yang juga memiliki pola SAMA?",
+      "pilihan_jawaban": {"A": "pengiriman", "B": "penyebaran", "C": "pemulangan", "D": "pelatihan", "E": "pertolongan"},
+      "jawaban_benar": "C",
+      "pembahasan": "'Pembinaan' dan 'pembuatan' menggunakan pem-an. 'Pemulangan' = pem- + pulang + -an (p luluh jadi pem-). Ketiga kata ini menggunakan pem-an. Pilihan lain menggunakan peng-, peny-, pe-, atau per-."
+    },
+    {
+      "id": 198,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'kebersamaan' memiliki pola imbuhan ke-ber-an. Kata manakah yang TIDAK memiliki pola imbuhan yang sama?",
+      "pilihan_jawaban": {"A": "keberhasilan", "B": "keberanian", "C": "keberadaan", "D": "kebersihan", "E": "keberuntungan"},
+      "jawaban_benar": "D",
+      "pembahasan": "'Kebersamaan', 'keberhasilan', 'keberanian', 'keberadaan', 'keberuntungan' semuanya menggunakan ke-ber-an (ke- + ber- + kata dasar + -an). 'Kebersihan' = ke- + bersih + -an. 'Bersih' bukan berawalan ber- (itu kata dasar bermakna bersih), jadi 'kebersihan' hanya ke-an biasa, TIDAK mengandung prefiks ber-."
+    },
+    {
+      "id": 199,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Kata 'pelestarian' memiliki pola imbuhan pe-an (tanpa nasalisasi). Kata manakah yang memiliki pola imbuhan SAMA?",
+      "pilihan_jawaban": {"A": "penulisan", "B": "penyebaran", "C": "pembangunan", "D": "pelurusan", "E": "pengiriman"},
+      "jawaban_benar": "D",
+      "pembahasan": "'Pelestarian' = pe- + lestari + -an (l tidak luluh, pe- biasa). 'Pelurusan' = pe- + lurus + -an (l tidak luluh, pe- biasa). Keduanya menggunakan pe-an tanpa nasalisasi karena kata dasar berawalan l. Pilihan lain menggunakan pen-, peny-, pem-, atau peng-."
+    },
+    {
+      "id": 200,
+      "materi": "Imbuhan Sepadan",
+      "soal": "Perhatikan kelompok kata berikut: penyebaran, penyusunan, penyuluhan, penyaluran, penyelesaian. Kata manakah yang TIDAK satu pola dengan kelompok tersebut?",
+      "pilihan_jawaban": {"A": "penyimpanan", "B": "penyederhanaan", "C": "penyelidikan", "D": "pengiriman", "E": "penyitaan"},
+      "jawaban_benar": "D",
+      "pembahasan": "'Penyebaran', 'penyusunan', 'penyuluhan', 'penyaluran', 'penyelesaian' semuanya menggunakan peny-an (s luluh jadi ny). 'Penyimpanan', 'penyederhanaan', 'penyelidikan', 'penyitaan' juga menggunakan peny-an. Hanya 'pengiriman' yang menggunakan peng-an (bukan peny-an), sehingga TIDAK satu pola dengan kelompok tersebut."
+    }
+  ]
+}
